@@ -17,7 +17,7 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
   <br>
   <code><b>This Readme is based on the album <a href="https://open.spotify.com/album/6dyanjhuSgFsPPVtFzugcr">Exploitopia</a> by <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT">That Handsome Devil</a>!</b></code>
   <br>
-  <code><b>LAST UPDATED: 12/13/2024</b></code>
+  <code><b>LAST UPDATED: 01/31/2025</b></code>
 </div>
 
 <br><a href="https://www.instagram.com/thathandsomedevilofficial/reel/DBjVbUxxDOD/"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="Exploitopia was released on October 25th, 2024!"></a><br>
@@ -103,8 +103,8 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
   <br>
   <ins>Key: <b>Bolded</b> + <em>Italics</em> = <b><em>Stuff I REALLY like</em></b></ins><br><br>
   <code><b>Special Interests</b></code><br>
-  <b><em>
-    <a href="https://jolleycomics.com/TPoH/The_Hook/1">The Property of Hate</a>, <a href="https://www.twitch.tv/team/wrtv">Radio TV Solutions</a>, <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT">That Handsome Devil</a>, Psychology
+  <b><em> <!-- <a href="https://www.twitch.tv/team/wrtv">Radio TV Solutions</a>-->
+    <a href="https://jolleycomics.com/TPoH/The_Hook/1">The Property of Hate</a>, <s><a href = "https://docs.google.com/document/d/1YQhsHKII56O6Sf2ilQ-eJkgiYpN0t5UWg654V6YuS-I/edit?tab=t.0" title="they're pissing me off rn but i can't really get rid of this">Radio TV Solutions</s></a>, <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT">That Handsome Devil</a>, Psychology
     <br>
     <table align="center">
   <tr>
