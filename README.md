@@ -35,7 +35,7 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
   <a href="https://youtu.be/mrRe2qRCDpQ?si=b8G2kBNMPwXB9qXj"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=18&duration=1000&pause=300&color=FFFFFF&background=E62125&center=true&vCenter=true&width=435&lines=Open+the+throttle!;All+aboard%2C+the+promised+land!;Pillars+of+smoke+by+day!;Pillars+of+fire+by+night!;Machines+to+make+machines!;Production+to+expand+production!" alt="Open the throttle! All aboard the promised land! Pillars of smoke by day! Pillars of fire by night! Machines to make machines! Production to expand production!" title="Open the throttle! All aboard the promised land! Pillars of smoke by day! Pillars of fire by night! Machines to make machines! Production to expand production!" /></a>
 </p>
 
-<a href="https://youtu.be/R9HBtB3CBVA?si=SrDNa0JavIphFIRn"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Crooked Heart' was the hardest song to produce!"></a><br><br>
+<a href="https://youtu.be/R9HBtB3CBVA?si=SrDNa0JavIphFIRn"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="'Crooked Heart' was the hardest song for THD to produce!"></a><br><br>
 
 <!--- DNI AND BYI -->
 <p align="center"> <!---dni-->
@@ -104,7 +104,7 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
   <ins>Key: <b>Bolded</b> + <em>Italics</em> = <b><em>Stuff I REALLY like</em></b></ins><br><br>
   <code><b>Special Interests</b></code><br>
   <b><em> <!-- <a href="https://www.twitch.tv/team/wrtv">Radio TV Solutions</a>-->
-    <a href="https://jolleycomics.com/TPoH/The_Hook/1" title="READ THE PROPERTY OF HATE IT'S FREE AND WONDERFUL!!">The Property of Hate</a>, <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT" title="could you have guessed">That Handsome Devil</a>, <s><a href = "https://docs.google.com/document/d/1YQhsHKII56O6Sf2ilQ-eJkgiYpN0t5UWg654V6YuS-I/edit?tab=t.0" title="they're pissing me off rn but i can't really get rid of this">Radio TV Solutions</s></a>
+    <a href="https://jolleycomics.com/TPoH/The_Hook/1" title="READ THE PROPERTY OF HATE IT'S FREE AND WONDERFUL!!">The Property of Hate</a>, <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT" title="could you have guessed">That Handsome Devil</a>, <s><a href = "https://docs.google.com/document/d/1YQhsHKII56O6Sf2ilQ-eJkgiYpN0t5UWg654V6YuS-I/edit?tab=t.0" title="they're pissing me off rn sorry">Radio TV Solutions</s></a>
     <br>
     <table align="center">
   <tr>
