@@ -103,8 +103,8 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
   <br>
   <ins>Key: <b>Bolded</b> + <em>Italics</em> = <b><em>Stuff I REALLY like</em></b></ins><br><br>
   <code><b>Special Interests</b></code><br>
-  <b><em> <!-- <a href="https://www.twitch.tv/team/wrtv">Radio TV Solutions</a>-->
-    <a href="https://jolleycomics.com/TPoH/The_Hook/1" title="READ THE PROPERTY OF HATE IT'S FREE AND WONDERFUL!!">The Property of Hate</a>, <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT" title="could you have guessed">That Handsome Devil</a>, <s><a href = "https://docs.google.com/document/d/1YQhsHKII56O6Sf2ilQ-eJkgiYpN0t5UWg654V6YuS-I/edit?tab=t.0" title="they're pissing me off rn sorry">Radio TV Solutions</s></a>
+  <b><em>
+    <a href="https://jolleycomics.com/TPoH/The_Hook/1" title="READ THE PROPERTY OF HATE IT'S FREE AND WONDERFUL!!">The Property of Hate</a>, <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT" title="could you have guessed">That Handsome Devil</a>, <a href ="https://www.twitch.tv/team/wrtv" title="are we all good now?? are we safe!?!">Radio TV Solutions</a>
     <br>
     <table align="center">
   <tr>
