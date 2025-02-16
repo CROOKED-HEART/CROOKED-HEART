@@ -208,52 +208,69 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <summary><b>Stamps</b></summary>
   
 > `hey look at these stamps i made (f2u)`
+<!-- Beginning the long process of converting these from markdown to html.. -->
+<!-- <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/> -->
 
-![Baaulp nation](https://drive.google.com/uc?id=1iSWyDQo_O2Uqk6uQIvv701E1AVUqb0_P)
-![Bibi](https://drive.google.com/uc?id=1dQdzyoP8nquwdmOr8isxHxdMH8uavKPi)
-![Big warp](https://drive.google.com/uc?id=1yOpXQW9leHd_E0xZQAxt8cR7U2YyS2Rl)
-![Clone High intro](https://drive.google.com/uc?id=1xEoQU0UbhVW6rY7v3gFX_cjArlhRZ7j4)
-![Click](https://drive.google.com/uc?id=1dvGv4HJdglrLWQfi3Bc_ysjIiHITiOld)
-![Walter White Phone](https://drive.google.com/uc?id=1FQWviq7WblzjEP9J-TBCQ2a63VK3Y7d_)
-![Is a restaurant](https://drive.google.com/uc?id=1P8tCowHdwMEli0azz7_ty5rDQIFQf-RZ)
-![Is NOT a restaurant](https://drive.google.com/uc?id=1bF_MWg_IGTsm2IVWjOZTDEPXDiaszicR)
-![Joshua](https://drive.google.com/uc?id=1lk2M2sjqMfZYNTI6COZnwHEodPbZZ2dQ)
-![Mira fish](https://drive.google.com/uc?id=1CTTB8gBEP-MHmYybtPJxOymjfxQjqT5U)
-![Orbulus Raymond](https://drive.google.com/uc?id=1PrQxbNEApR59pcmJ6J2Z5KStRRgq8Wud)
-![BRBA poster](https://drive.google.com/uc?id=1Xx07BBgG_7U4Frjk7h-QgNHA_T3XkEYy)
-![Socpens Superhell](https://drive.google.com/uc?id=19Aa6ZDaguzWrmBiFdW9ovQ7lIGkZhnTd)
-![RGB Suits](https://drive.google.com/uc?id=1w5txDNSavnymiXi_meqFHQ8t_fpuYDWK)
-![Pewpew](https://drive.google.com/uc?id=1oRCVfStxYwINi-uF0Qkfj1fQFHKI3dWf)
-![Ruin my store](https://drive.google.com/uc?id=1DAPI7FCv6hmHTbaGSuGJ-pt2MqPMtXod)
-![Ruin my life](https://drive.google.com/uc?id=1Lqkw3jzgkOYA05zCP-tzNb-O8Ezh9131)
-![Periwinkle Poppy Fan](https://drive.google.com/uc?id=1maJnzCPMQPmjMWAbHLTtIcxzhrXpwGh2)
-![THGTH](https://drive.google.com/uc?id=1_AUIWbQKjOYIEAR6M8h-E5RuxfzlRWfQ)
-![YPAS](https://drive.google.com/uc?id=1SdgPStlGzAJGEqwwpDrgducoOCc8UYE-)
-![THD](https://drive.google.com/uc?id=1yxwxBx07PGvOd_SeIsBhguwH3ycrjea5)
-![burger eat](https://drive.google.com/uc?id=1ybaEBPkO1GBXP-GDfIdO_6juVflv6RKv)
-![poopshitters](https://drive.google.com/uc?id=1yi2HH60gtg4mhI50TniW7QTv6RSiRqk9)
-![time1](https://drive.google.com/uc?id=1BDjJpRv2GuQiQHSK_BnqopE8c1yWTTrv)
-![time2](https://drive.google.com/uc?id=1AfR5RRCTYa4Yk_9Rb65HhMuJTIxTG649)
-![negative](https://drive.google.com/uc?id=1d-S6G1lpGAZIAW1gUNF_0Ek2eM5X6DV7)
-![TOby](https://drive.google.com/uc?id=1YkYMJA-xRQg541U1CFurPaeIg9gom91V)
-![cell](https://drive.google.com/uc?id=1_8C9mphWqiQXvBkEwBpPfOufRjVHWhbi)
-![dial](https://drive.google.com/uc?id=1A1GiakVU-i_vrLvM-p5wJak4k0EIFkX9)
-![tinker](https://drive.google.com/uc?id=1q0gbF447qiraOtDlwushh2R1kZ7KFus5)
-![click](https://drive.google.com/uc?id=1QlXyLE6jnGFA7Pqqy-XjQmxZsbCk8-Ju)
-![anxiety](https://drive.google.com/uc?id=1xm2zF7Qq2BmI5uqvr5UEHEPr-WmDJpBi)
-![dialhierophant](https://drive.google.com/uc?id=16PXIZevnWHyq_HH9oqRNtNfAVYe8M3Fu)
-![time](https://drive.google.com/uc?id=1ZZH6ZCTKxnW8Ht2zEipsmK1m5ChQf44-)
-![the](https://drive.google.com/uc?id=1-mXwTA6IOMOQqivkbcvwCiDJkD43T4-I)
-![moon](https://drive.google.com/uc?id=1GivC9-7l-TwL7emserRlLvIGNPp9F29U)
-![melodylovers](https://drive.google.com/uc?id=1DrPLDr4ZUjoqEpstaxtiCVaAW5Q1Y41B)
-![juliennelovers](https://drive.google.com/uc?id=1N11LHz4mClctfQPvI-ElLiFA1BO2rK0F)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
+<!-- TPoH -->
+<img src="https://drive.google.com/uc?id=1dvGv4HJdglrLWQfi3Bc_ysjIiHITiOld" title="Click" alt="Click" width=100px/>
+<img src="https://drive.google.com/uc?id=1w5txDNSavnymiXi_meqFHQ8t_fpuYDWK" title="RGB Suits" alt="RGB Suits" width=100px/>
+<img src="https://drive.google.com/uc?id=1oRCVfStxYwINi-uF0Qkfj1fQFHKI3dWf" title="Click pew pew" alt="pew pew" width=100px/>
+<img src="https://drive.google.com/uc?id=1BDjJpRv2GuQiQHSK_BnqopE8c1yWTTrv" title="Time Left" alt="Time Left" width=100px/>
+<img src="https://drive.google.com/uc?id=1AfR5RRCTYa4Yk_9Rb65HhMuJTIxTG649" title="Time Right" alt="Time Right" width=100px/>
+<img src="https://drive.google.com/uc?id=1d-S6G1lpGAZIAW1gUNF_0Ek2eM5X6DV7" title="negative" alt="negative" width=100px/>
+<img src="https://drive.google.com/uc?id=1YkYMJA-xRQg541U1CFurPaeIg9gom91V" title="TOby" alt="TOby" width=100px/>
+<img src="https://drive.google.com/uc?id=1_8C9mphWqiQXvBkEwBpPfOufRjVHWhbi" title="cell" alt="cell" width=100px/>
+<img src="https://drive.google.com/uc?id=1A1GiakVU-i_vrLvM-p5wJak4k0EIFkX9" title="dial" alt="dial" width=100px/>
+<img src="https://drive.google.com/uc?id=1q0gbF447qiraOtDlwushh2R1kZ7KFus5" title="tinker" alt="tinker" width=100px/>
+<img src="https://drive.google.com/uc?id=1QlXyLE6jnGFA7Pqqy-XjQmxZsbCk8-Ju" title="click" alt="click" width=100px/>
+<img src="https://drive.google.com/uc?id=1xm2zF7Qq2BmI5uqvr5UEHEPr-WmDJpBi" title="anxiety" alt="anxiety" width=100px/>
+<img src="https://drive.google.com/uc?id=16PXIZevnWHyq_HH9oqRNtNfAVYe8M3Fu" title="dial hierophant" alt="dial hierophant" width=100px/>
+<img src="https://drive.google.com/uc?id=1ZZH6ZCTKxnW8Ht2zEipsmK1m5ChQf44-" title="time" alt="time" width=100px/>
+<img src="https://drive.google.com/uc?id=1-mXwTA6IOMOQqivkbcvwCiDJkD43T4-I" title="the" alt="the" width=100px/>
+<img src="https://drive.google.com/uc?id=1GivC9-7l-TwL7emserRlLvIGNPp9F29U" title="moon" alt="moon" width=100px/>
+<img src="https://drive.google.com/uc?id=1DrPLDr4ZUjoqEpstaxtiCVaAW5Q1Y41B" title="melody lovers" alt="melody lovers" width=100px/>
+<img src="https://drive.google.com/uc?id=1N11LHz4mClctfQPvI-ElLiFA1BO2rK0F" title="julienne lovers" alt="julienne lovers" width=100px/>
 
+<!-- THD -->
+<img src="https://drive.google.com/uc?id=1_AUIWbQKjOYIEAR6M8h-E5RuxfzlRWfQ" title="THGTH" alt="THGTH" width=100px/>
+<img src="https://drive.google.com/uc?id=1SdgPStlGzAJGEqwwpDrgducoOCc8UYE-" title="YPAS" alt="YPAS" width=100px/>
+<img src="https://drive.google.com/uc?id=1yxwxBx07PGvOd_SeIsBhguwH3ycrjea5" title="THD" alt="THD" width=100px/>
+
+<!-- RTVS -->
+<img src="https://drive.google.com/uc?id=1iSWyDQo_O2Uqk6uQIvv701E1AVUqb0_P" title="Baaulp nation" alt="Baaulp nation" width=100px/>
+<img src="https://drive.google.com/uc?id=1dQdzyoP8nquwdmOr8isxHxdMH8uavKPi" title="Bibi" alt="Bibi" width=100px/>
+<img src="https://drive.google.com/uc?id=1yOpXQW9leHd_E0xZQAxt8cR7U2YyS2Rl" title="Big Warp" alt="Bit warp" width=100px/>
+<img src="https://drive.google.com/uc?id=1FQWviq7WblzjEP9J-TBCQ2a63VK3Y7d_" title="Walter White Phone" alt="Walter White Phone" width=100px/>
+<img src="https://drive.google.com/uc?id=1P8tCowHdwMEli0azz7_ty5rDQIFQf-RZ" title="IS" alt="Is a restaurant" width=100px/>
+<img src="https://drive.google.com/uc?id=1bF_MWg_IGTsm2IVWjOZTDEPXDiaszicR" title="IS NOT" alt="Is NOT a restaurant" width=100px/>
+<img src="https://drive.google.com/uc?id=1lk2M2sjqMfZYNTI6COZnwHEodPbZZ2dQ" title="Joshua" alt="Joshua" width=100px/>
+<img src="https://drive.google.com/uc?id=1CTTB8gBEP-MHmYybtPJxOymjfxQjqT5U" title="Mira fish" alt="Mira fish" width=100px/>
+<img src="https://drive.google.com/uc?id=1PrQxbNEApR59pcmJ6J2Z5KStRRgq8Wud" title="Orbulus Raymon" alt="Orbulus Raymond" width=100px/>
+<img src="https://drive.google.com/uc?id=1Xx07BBgG_7U4Frjk7h-QgNHA_T3XkEYy" title="BRBA poster" alt="BRBA poster" width=100px/>
+<img src="https://drive.google.com/uc?id=19Aa6ZDaguzWrmBiFdW9ovQ7lIGkZhnTd" title="Socpens Superhell" alt="Socpens Superhell" width=100px/>
+
+<!-- MISC -->
+<img src="https://drive.google.com/uc?id=1xEoQU0UbhVW6rY7v3gFX_cjArlhRZ7j4" title="Clone High intro" alt="Clone High intro" width=100px/>
+<img src="https://drive.google.com/uc?id=1DAPI7FCv6hmHTbaGSuGJ-pt2MqPMtXod" title="Ruin my store" alt="Ruin my store" width=100px/>
+<img src="https://drive.google.com/uc?id=1Lqkw3jzgkOYA05zCP-tzNb-O8Ezh9131" title="Ruin my life" alt="Ruin my life" width=100px/>
+<img src="https://drive.google.com/uc?id=1maJnzCPMQPmjMWAbHLTtIcxzhrXpwGh2" title="Periwinkle Poppy Fan" alt="Periwinkle Poppy Fan" width=100px/>
+<img src="https://drive.google.com/uc?id=1ybaEBPkO1GBXP-GDfIdO_6juVflv6RKv" title="burger eat" alt="burger eat" width=100px/>
+<img src="https://drive.google.com/uc?id=1yi2HH60gtg4mhI50TniW7QTv6RSiRqk9" title="poopshitters" alt="poopshitters" width=100px/>
 
 > <code>check out these stamps my friend <a href="https://github.com/Vexuliii">Vexulii</a> made (f2u)</code>
+
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 
 ![manny stare](https://drive.google.com/uc?id=1pjV8XaLZZDMMoyw2RWf5yU875Ah6Ra8b)
 ![hanslap](https://drive.google.com/uc?id=1RsDTksLyCxQg3y-j1iQeuXCx95T0GbxP)
