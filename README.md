@@ -174,6 +174,7 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
     </td>
     <td> <!---Other-->
       <b><em>* Mathematics<br>
+      * Psychology<br>
       * Discordianism<br>
       * Rhythm games<br>
       * Old Web</em></b><br>
