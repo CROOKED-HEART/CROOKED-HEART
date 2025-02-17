@@ -206,6 +206,8 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 
 <details>
 <summary><b>Stamps</b></summary>
+
+<p align="center"><code>HEY HEY WAIT A SECOND!!!! I'm reworking my stamps right now, changing them from markdown to html to look more uniform... Also so you can hover over them to see the alt text.. Go on, give it a try with these first few stamps!! ^_^</code></p>
   
 > `hey look at these stamps i made (f2u)`
 <!-- Beginning the long process of converting these from markdown to html.. -->
@@ -254,6 +256,7 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=1ybaEBPkO1GBXP-GDfIdO_6juVflv6RKv" title="burger eat" alt="burger eat" width=100px/>
 <img src="https://drive.google.com/uc?id=1yi2HH60gtg4mhI50TniW7QTv6RSiRqk9" title="poopshitters" alt="poopshitters" width=100px/>
 
+
 <!-- VEX STAMPS -->
 > <code>check out these stamps my friend <a href="https://github.com/Vexuliii">Vexulii</a> made (f2u)</code>
 
@@ -285,7 +288,7 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=1Bz027NtEKhqkQPdfQSozLD6TlGagyx0j" title="bad boe jambo" alt="bad boe jamo" width=100px/>
 <img src="https://drive.google.com/uc?id=17Ef2XS96spYHQnK1wP1UAxcHhgQ-1vxl" title="baaulp death" alt="baaulp death" width=100px/>
 
-
+<!-- EVERYTHING ELSE LOLZ -->
 > <code>ok... now here's some neither of us made</code><br>
 <p align="center"> <b>SELF</b><br><code>the ones that are so me!!</code> </p>
 
@@ -308,20 +311,23 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<!-- DISABILITIES -->
+<img src="https://drive.google.com/uc?id=1kqRF7_dh3bq-lg49YQqwKBW_CV1mXHYO" title="adhd" alt="adhd" width=100px/>
+<img src="https://drive.google.com/uc?id=1PqYqozsbjj7GptVYxIUl4VVlI6CKcxws" title="asd" alt="asd" width=100px/>
+<img src="https://drive.google.com/uc?id=17RSK3pyk4iKccAbJ_aUnwcZWIFWfxZmK" title="psst.. friends can have my simply plural..... if they ask....." alt="plural" width=100px/>
+<!-- BOUNDARIES -->
+<img src="https://drive.google.com/uc?id=1wfBMmgVjouLrJr-bu-iRuU3KKT1qC8mb" title="no flirting" alt="no flirting" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<!-- LOVER!! -->
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<!-- THINGS I AM/DO -->
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
@@ -333,12 +339,8 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 
-![adhd](https://drive.google.com/uc?id=1kqRF7_dh3bq-lg49YQqwKBW_CV1mXHYO)
-![asd](https://drive.google.com/uc?id=1PqYqozsbjj7GptVYxIUl4VVlI6CKcxws)
-![csa survivor](https://drive.google.com/uc?id=1g35bns3spR4H7sENIa5P1BsvE1xamSoC)
-![cocsa survivor](https://drive.google.com/uc?id=1EceG5fHeCzTh6sRATK6apImW8dt8DjhX)
-![plural](https://drive.google.com/uc?id=17RSK3pyk4iKccAbJ_aUnwcZWIFWfxZmK)
-![no flirting](https://drive.google.com/uc?id=1wfBMmgVjouLrJr-bu-iRuU3KKT1qC8mb)
+
+![](https://drive.google.com/uc?id=)
 ![anti ai](https://drive.google.com/uc?id=11zhrwf19-t7uh22KLoDm827zenyL84GD)
 ![anti hit](https://drive.google.com/uc?id=1QCXvQ7mh3pJCMZ7a6NsBPQ9ByD1qWf-R)
 ![block creeps](https://drive.google.com/uc?id=1_DsEE1hjGZCtsgNK1qxtnzEheegZ2FjQ)
