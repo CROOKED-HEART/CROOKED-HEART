@@ -301,9 +301,6 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=1UZsga6Dzju-RDqe-MA7EgYdn9KN74yEc" title="agender" alt="agender" width=100px/>
 <img src="https://drive.google.com/uc?id=1XM2ilMulc8_4WMHkIoCO6QUhlurKiBl_" title="non binary" alt="non binary" width=100px/>
 <img src="https://drive.google.com/uc?id=1zKE6Dj8ozvcrdnoWf5h8lilEaX68Bj6j" title="blasian" alt="blasian" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-
 <!-- BELIEFS -->
 <img src="https://drive.google.com/uc?id=1K9gCF0T1osVsnOS8gudq9W-3dmLm6fm2" title="support gaza" alt="support gaza" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
