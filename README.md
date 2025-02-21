@@ -209,8 +209,7 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 
 <p align="center"><code>HEY HEY WAIT A SECOND!!!! I'm reworking my stamps right now, changing them from markdown to html to look more uniform... Also so you can hover over them to see the alt text.. Go on, give it a try with these first few stamps!! ^_^</code></p>
 <!-- <code>Are you seeing just the alt text for a stamp? Try reloading, or click the alt text to see it! None of my images are broken, Github just has a hard time loading them all in...</code> -->
-<br><br>
-> <code>hey look at these stamps i made (f2u)</code><br>
+<br><br><blockquote><code>hey look at these stamps i made (f2u)</code></blockquote><br>
 <!-- <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/> -->
 <!-- TPoH -->
 <img src="https://drive.google.com/uc?id=1dvGv4HJdglrLWQfi3Bc_ysjIiHITiOld" title="Click" alt="Click" width=100px/>
@@ -254,9 +253,8 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=1maJnzCPMQPmjMWAbHLTtIcxzhrXpwGh2" title="Periwinkle Poppy Fan" alt="Periwinkle Poppy Fan" width=100px/>
 <img src="https://drive.google.com/uc?id=1ybaEBPkO1GBXP-GDfIdO_6juVflv6RKv" title="burger eat" alt="burger eat" width=100px/>
 <img src="https://drive.google.com/uc?id=1yi2HH60gtg4mhI50TniW7QTv6RSiRqk9" title="poopshitters" alt="poopshitters" width=100px/>
-<br>
 <!-- VEX STAMPS -->
-> <code>check out these stamps my friend <a href="https://github.com/Vexuliii">Vexulii</a> made (f2u)</code><br>
+<br><blockquote><code>check out these stamps my friend <a href="https://github.com/Vexuliii">Vexulii</a> made (f2u)</code></blockquote><br>
 <img src="https://drive.google.com/uc?id=1pjV8XaLZZDMMoyw2RWf5yU875Ah6Ra8b" title="manny stare" alt="manny stare" width=100px/>
 <img src="https://drive.google.com/uc?id=1RsDTksLyCxQg3y-j1iQeuXCx95T0GbxP" title="hanslap" alt="hanslap" width=100px/>
 <img src="https://drive.google.com/uc?id=1LAA5pjLDxPDiYChgzaTLq5HhywCXrTm-" title="hatty CHEER" alt="hatty CHEER" width=100px/>
@@ -273,9 +271,8 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=13da7XZ8LUB4NWzeKgvPdHY6v80eStZjw" title="marsh blucsh" alt="marsh blucsh" width=100px/>
 <img src="https://drive.google.com/uc?id=1MIuT5CT10_RhEqpqKnE-gbMK_KrVZXT0" title="danny dance" alt="danny dance" width=100px/>
 <img src="https://drive.google.com/uc?id=17_574WewpbgsUIlZc-nH9Fm0PQwkM4E9" title="ivor hapy" alt="ivor hapy" width=100px/>
-<img src="https://drive.google.com/uc?id=1vooK3qpz2RxrF_7CyKrrTviiVTFaTjE6" title="ivor" alt="ivor" width=100px/>
-<br>
->> <code>ALSO LOOK AT THE ONES VEX MADE FOR MY BDAY ^_^</code><br>
+<img src="https://drive.google.com/uc?id=1vooK3qpz2RxrF_7CyKrrTviiVTFaTjE6" title="ivor snff" alt="ivor snff" width=100px/>
+<br><blockquote><blockquote><code>ALSO LOOK AT THE ONES VEX MADE FOR MY BDAY ^_^</code></blockquote></blockquote><br>
 <img src="https://drive.google.com/uc?id=12AL46RlXa53ELTlc586rVEM0NZuK5eG4" title="blue man shock" alt="blue man shock" width=100px/>
 <img src="https://drive.google.com/uc?id=1phipGyunah7em_ohJb3SI6IOI2w2ikaI" title="wayner sneeze" alt="wayner sneeze" width=100px/>
 <img src="https://drive.google.com/uc?id=1FUE0WXUp6Jjq9BVvzELgSOwhp6i-2fGB" title="waynerwhatsapp" alt="waynerwhatsapp" width=100px/>
@@ -284,9 +281,10 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=1eIl6GUcrU6BJXxOa_WQhhnF_pAL_gjug" title="'freaky baaulp'" alt="'freaky baaulp'" width=100px/>
 <img src="https://drive.google.com/uc?id=1Bz027NtEKhqkQPdfQSozLD6TlGagyx0j" title="bad boe jambo" alt="bad boe jamo" width=100px/>
 <img src="https://drive.google.com/uc?id=17Ef2XS96spYHQnK1wP1UAxcHhgQ-1vxl" title="baaulp death" alt="baaulp death" width=100px/>
-<br>
+<br><br>
 <!-- EVERYTHING ELSE LOLZ -->
-> <code>ok... now here's some neither of us made</code><br><br>
+<blockquote><code>ok... now here's some neither of us made</code></blockquote>
+<br><br>
 <p align="center"> <b>SELF</b><br><code>the ones that are so me!!</code> </p>
 <img src="https://drive.google.com/uc?id=1K9gCF0T1osVsnOS8gudq9W-3dmLm6fm2" title="support gaza" alt="support gaza" width=100px/>
 <!-- IDENTITIES -->
@@ -356,8 +354,7 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=1r3Kk_F5hIeGUxxveU9k_RPU_R_V_ytso" title="rgb negative" alt="rgb negative" width=100px/>
 <!-- THD -->
 <!-- and this is where I would put my thd stamps... IF I HAD ANY!!! -->
-<!-- RTVS -->
-<img src="https://drive.google.com/uc?id=1WclsoKrDlzfydz_jOFYsFOqJAvDxu8Fz" title="challenge failed" alt="challenge failed" width=100px/>
+<!-- RTVS -->roogle.com/uc?id=1WclsoKrDlzfydz_jOFYsFOqJAvDxu8Fz" title="challenge failed" alt="challenge failed" width=100px/>
 <img src="https://drive.google.com/uc?id=1wEo3LaLceKd_PCibcIJLxZGwPgvz3lL8" title="concerning" alt="concerning" width=100px/>
 <img src="https://drive.google.com/uc?id=19IEIFApnV2mt3lp2WOtWad_3ZsV1iJU3" title="gameclam evolve" alt="gameclam evolve" width=100px/>
 <img src="https://drive.google.com/uc?id=14rC4j4dCCgAaeU5KMFQ4uHpseDVzimQ1" title="mr whyte fan" alt="mr whyte fan" width=100px/>
@@ -450,153 +447,83 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=1csp7IoZ5tGuAW738smrv6bdn0_Z8iNWQ" title="ddr fan" alt="ddr fan" width=100px/>
 <img src="https://drive.google.com/uc?id=1rLjHA00w2koSWdoU18-3dnb0wnPVCk9z" title="eurobeat ddr" alt="eurobeat ddr" width=100px/>
 <!-- PORTAL -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-
-![portal 1](https://drive.google.com/uc?id=1mWo5huuYCM1AwTBA9d77In9cpYMxi6cx)
-![the lab rat](https://drive.google.com/uc?id=1ozST9sQkgYMsog_LbsVJafsxR2Qjknya)
-![aperture](https://drive.google.com/uc?id=1nIgbujR1_cKhtBUVBCcb8pmWz4bQ7Swk)
-![aperture 2](https://drive.google.com/uc?id=12hF3jtRlKI04HWw2P6dxE5nub3alYMx-)
-![burn lemons](https://drive.google.com/uc?id=1_pXZSYUyRR6THxkt9tcxMVJblaiFLgX6)
-![cake lie](https://drive.google.com/uc?id=1aNyVWVynlAn_fTbE6tWzAae5SmmwHZpi)
-![forgave wheatley](https://drive.google.com/uc?id=1W-PAGu4kEmn6NCJvJum_gdoxo8PS8ZVn)
-![glados loop](https://drive.google.com/uc?id=1SjtfrrjrI7u0g_K-eqDOTB1PYyX8WDRm)
-![i'm different](https://drive.google.com/uc?id=14qCKZE5gzEF3ls6xAzjEKruaxjmBr6CU)
-![moron](https://drive.google.com/uc?id=1lBQPGAm6ODNPM0hmSsrWmLl6lGsT0h3Q)
-![NOT defective](https://drive.google.com/uc?id=1LR89xrcfjyyaqSe_JfPYpL2KcL7K9h5w)
-![patlas 1](https://drive.google.com/uc?id=1kYYT1020sJPktRRoLIHingQfh4GoiYG8)
-![patlas 2](https://drive.google.com/uc?id=1Y6F1NCHp0Um-AYx6llz7CXeq8FSqLOji)
-![portal 22](https://drive.google.com/uc?id=1P83yLox0Xke4U44PGQXcelRkN22foTg8)
-![porthell](https://drive.google.com/uc?id=10InXKeidNgvPNPs6aKpl9pOruD-mJGVN)
-![potatos](https://drive.google.com/uc?id=1P3XPwtUxzetZK7_IptS4nLcyW0qFmOLT)
-![ppbody 1](https://drive.google.com/uc?id=1KPPI867IMID-BKcijmpxucT81rK9Aq-b)
-![ppbody 2](https://drive.google.com/uc?id=1NeOh4KyuHnnn3Q--HjAOIcP580Pe0tEB)
-![still alive](https://drive.google.com/uc?id=1l6XkUOJL2d4sFHI6DMEh1v06EyqJcUVU)
-![true friend](https://drive.google.com/uc?id=12sVq-EkaEHldvTP9zpsmFU2Cyk45bzLo)
-![wethly crab](https://drive.google.com/uc?id=1mov1vZy_S92dCr5APzVqLvMW9zkX8_0g)
-![whatttt](https://drive.google.com/uc?id=12spowPGhVbpY7uPuCSShPy_vHvFJqsAe)
-![wheatley heart](https://drive.google.com/uc?id=1zvKA_pDY0o9FSR6niU_ufDLhjazsU90q)
-![portal 2](https://drive.google.com/uc?id=1eZLlu5WrIejhGdloJ9qk99ijz0RiTIqE)
+<img src="https://drive.google.com/uc?id=1mWo5huuYCM1AwTBA9d77In9cpYMxi6cx" title="portal 1" alt="portal 1" width=100px/>
+<img src="https://drive.google.com/uc?id=1ozST9sQkgYMsog_LbsVJafsxR2Qjknya" title="the lab rat" alt="the lab rat" width=100px/>
+<img src="https://drive.google.com/uc?id=1nIgbujR1_cKhtBUVBCcb8pmWz4bQ7Swk" title="aperture" alt="aperture" width=100px/>
+<img src="https://drive.google.com/uc?id=12hF3jtRlKI04HWw2P6dxE5nub3alYMx-" title="aperture 2" alt="aperture 2" width=100px/>
+<img src="https://drive.google.com/uc?id=1_pXZSYUyRR6THxkt9tcxMVJblaiFLgX6" title="burn lemons" alt="burn lemons" width=100px/>
+<img src="https://drive.google.com/uc?id=1aNyVWVynlAn_fTbE6tWzAae5SmmwHZpi" title="cake lie" alt="cake lie" width=100px/>
+<img src="https://drive.google.com/uc?id=1W-PAGu4kEmn6NCJvJum_gdoxo8PS8ZVn" title="forgave wheatley" alt="forgave wheatley" width=100px/>
+<img src="https://drive.google.com/uc?id=1SjtfrrjrI7u0g_K-eqDOTB1PYyX8WDRm" title="glados loop" alt="glados loop" width=100px/>
+<img src="https://drive.google.com/uc?id=14qCKZE5gzEF3ls6xAzjEKruaxjmBr6CU" title="i'm different" alt="i'm different" width=100px/>
+<img src="https://drive.google.com/uc?id=1lBQPGAm6ODNPM0hmSsrWmLl6lGsT0h3Q" title="moron" alt="moron" width=100px/>
+<img src="https://drive.google.com/uc?id=1LR89xrcfjyyaqSe_JfPYpL2KcL7K9h5w" title="NOT defective" alt="NOT defective" width=100px/>
+<img src="https://drive.google.com/uc?id=1kYYT1020sJPktRRoLIHingQfh4GoiYG8" title="patlas 1" alt="patlas 1" width=100px/>
+<img src="https://drive.google.com/uc?id=1Y6F1NCHp0Um-AYx6llz7CXeq8FSqLOji" title="patlas 2" alt="patlas 2" width=100px/>
+<img src="https://drive.google.com/uc?id=1P83yLox0Xke4U44PGQXcelRkN22foTg8" title="portal 22" alt="portal 22" width=100px/>
+<img src="https://drive.google.com/uc?id=10InXKeidNgvPNPs6aKpl9pOruD-mJGVN" title="porthell" alt="porthell" width=100px/>
+<img src="https://drive.google.com/uc?id=1P3XPwtUxzetZK7_IptS4nLcyW0qFmOLT" title="potatos" alt="potatos" width=100px/>
+<img src="https://drive.google.com/uc?id=1KPPI867IMID-BKcijmpxucT81rK9Aq-b" title="ppbody 1" alt="ppbody 1" width=100px/>
+<img src="https://drive.google.com/uc?id=1NeOh4KyuHnnn3Q--HjAOIcP580Pe0tEB" title="ppbody 2" alt="ppbody 2" width=100px/>
+<img src="https://drive.google.com/uc?id=1l6XkUOJL2d4sFHI6DMEh1v06EyqJcUVU" title="still alive" alt="still alive" width=100px/>
+<img src="https://drive.google.com/uc?id=12sVq-EkaEHldvTP9zpsmFU2Cyk45bzLo" title="true friend" alt="true friend" width=100px/>
+<img src="https://drive.google.com/uc?id=1mov1vZy_S92dCr5APzVqLvMW9zkX8_0g" title="wethly crab" alt="wethly crab" width=100px/>
+<img src="https://drive.google.com/uc?id=12spowPGhVbpY7uPuCSShPy_vHvFJqsAe" title="whatttt" alt="whatttt" width=100px/>
+<img src="https://drive.google.com/uc?id=1zvKA_pDY0o9FSR6niU_ufDLhjazsU90q" title="wheatley heart" alt="wheatley heart" width=100px/>
+<img src="https://drive.google.com/uc?id=1eZLlu5WrIejhGdloJ9qk99ijz0RiTIqE" title="portal 2" alt="portal 2" width=100px/>
 <!-- HALF-LIFE -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-
-![the freeman](https://drive.google.com/uc?id=1Ru2g6oAjJ5FA5BBtpo6PmnODC5h_Ns4T)
-![half life](https://drive.google.com/uc?id=12IW3JHwsyPSX0ogdEbKoUcHEdkB6l8DY)
-![headcrab balloon](https://drive.google.com/uc?id=1odwezfyic6qWNqpXeKRvexchgu6flTts)
-![hl2](https://drive.google.com/uc?id=1HfjlSxqOM-xS4OCiemTzCXD_UxjqHUrd)
-![hl3](https://drive.google.com/uc?id=1AdmDYl1JnsLUXvaOYmS1dRTk6Nk8q-mz)
-![i has crowbar](https://drive.google.com/uc?id=165jI32zwwSBxyPgAEU96_46wzg0Vgpju)
-![gmodsfm](https://drive.google.com/uc?id=1C0XUSTccIyv96TB2FJtKxOV6hizvnI2r)
+<img src="https://drive.google.com/uc?id=12IW3JHwsyPSX0ogdEbKoUcHEdkB6l8DY" title="half life" alt="half life" width=100px/>
+<img src="https://drive.google.com/uc?id=1Ru2g6oAjJ5FA5BBtpo6PmnODC5h_Ns4T" title="the freeman" alt="the freeman" width=100px/>
+<img src="https://drive.google.com/uc?id=1odwezfyic6qWNqpXeKRvexchgu6flTts" title="headcrab balloon" alt="headcrab balloon" width=100px/>
+<img src="https://drive.google.com/uc?id=1HfjlSxqOM-xS4OCiemTzCXD_UxjqHUrd" title="hl2" alt="hl2" width=100px/>
+<img src="https://drive.google.com/uc?id=1AdmDYl1JnsLUXvaOYmS1dRTk6Nk8q-mz" title="hl3" alt="hl3" width=100px/>
+<img src="https://drive.google.com/uc?id=165jI32zwwSBxyPgAEU96_46wzg0Vgpju" title="i has crowbar" alt="i has crowbar" width=100px/>
+<img src="https://drive.google.com/uc?id=1C0XUSTccIyv96TB2FJtKxOV6hizvnI2r" title="gmodsfm" alt="gmodsfm" width=100px/>
 <!-- OTHER VALVE -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-
-![l4d](https://drive.google.com/uc?id=11lWx34o34CQhZ-_Z_mJYNm6GO-7d9gBO)
-![sandvich](https://drive.google.com/uc?id=1X_6EmHoYZBEqv493RwSSCbh8rDmZdVSz)
+<img src="https://drive.google.com/uc?id=11lWx34o34CQhZ-_Z_mJYNm6GO-7d9gBO" title="l4d" alt="l4d" width=100px/>
+<img src="https://drive.google.com/uc?id=1X_6EmHoYZBEqv493RwSSCbh8rDmZdVSz" title="sandvich" alt="sandvich" width=100px/>
 <!-- MINECRAFT -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-
-![heart mc](https://drive.google.com/uc?id=1BxHTmb-sF6KoozRcEckGV5okDsRZ5zzs)
-![mc death](https://drive.google.com/uc?id=1SIORMeRSZVUCfnhqz0fVLoUBoxogooTU)
-![mooshspin](https://drive.google.com/uc?id=1obZYPR4dGJbcPkyj33IYXFFQqDfxsjGM)
-![punch wood](https://drive.google.com/uc?id=1RAaRgSq4oLUdnOaRWwo58gS0xIv-IVFt)
+<img src="https://drive.google.com/uc?id=1BxHTmb-sF6KoozRcEckGV5okDsRZ5zzs" title="heart mc" alt="heart mc" width=100px/>
+<img src="https://drive.google.com/uc?id=1SIORMeRSZVUCfnhqz0fVLoUBoxogooTU" title="mc death" alt="mc death" width=100px/>
+<img src="https://drive.google.com/uc?id=1obZYPR4dGJbcPkyj33IYXFFQqDfxsjGM" title="mooshspin" alt="mooshspin" width=100px/>
+<img src="https://drive.google.com/uc?id=1RAaRgSq4oLUdnOaRWwo58gS0xIv-IVFt" title="punch wood" alt="punch wood" width=100px/>
 <!-- FNAF -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-
-![bon](https://drive.google.com/uc?id=1dvynD8jvijxKt7KrsjFyN2p8Pez9Uc3J)
-![fnaf](https://drive.google.com/uc?id=14yg-bktjdbW7TxceKElgyhes0hENl5Pu)
-![lets eat](https://drive.google.com/uc?id=1b8fjpFaKmybCMImJbCvIBbqaVUuWycHA)
+<img src="https://drive.google.com/uc?id=1dvynD8jvijxKt7KrsjFyN2p8Pez9Uc3J" title="bon" alt="bon" width=100px/>
+<img src="https://drive.google.com/uc?id=14yg-bktjdbW7TxceKElgyhes0hENl5Pu" title="fnaf" alt="fnaf" width=100px/>
+<img src="https://drive.google.com/uc?id=1b8fjpFaKmybCMImJbCvIBbqaVUuWycHA" title="lets eat" alt="lets eat" width=100px/>
 <!-- NINTENDO -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-
-![animal crossing](https://drive.google.com/uc?id=1ot1LTQB66sRUCMXSUwb34UzwG3qXXEJY)
-![botw](https://drive.google.com/uc?id=12HajQHA0pfxIvnB4Hf_NKeBAoknymeV0)
-![epic yarn](https://drive.google.com/uc?id=15m-Yj-beg5w8yLqJ3lpwaFbnQMOYQjG0)
-![guardian ah](https://drive.google.com/uc?id=1-4EqUDwpjkdQGszJnQ3AVJk53IS2btqS)
-![gygas](https://drive.google.com/uc?id=1S5f44tJg7JsVfIpPkqSas_WQNFJSFg_5)
-![mii fan](https://drive.google.com/uc?id=1-xCd_lSwkjOEu1_gnHEB_xn2S2nDpHOO)
-![morshu](https://drive.google.com/uc?id=1bKou7FKmURewsgc3SWVvs3mwA8YtNGhg)
-![rosalina](https://drive.google.com/uc?id=10ywEDsvjq7xeiUzwxBd6y4cOYyHC1aBg)
-![splatoon](https://drive.google.com/uc?id=1xAo-EuLELELo9zZyVSUYM7u0xrYNrvmO)
-![tomodachi life](https://drive.google.com/uc?id=1_UeOHu62nAQCz3WPQFoK9lFjuvmWmVG7)
-![urbosa](https://drive.google.com/uc?id=13MloRyZ5qOHSGLVWn05gyQLlcnxunaG-)
-![wario death](https://drive.google.com/uc?id=1cedW-b6AZIZaKbIoDSR18Fal7SVB-BZR)
+<img src="https://drive.google.com/uc?id=12HajQHA0pfxIvnB4Hf_NKeBAoknymeV0" title="botw" alt="botw" width=100px/>
+<img src="https://drive.google.com/uc?id=1-4EqUDwpjkdQGszJnQ3AVJk53IS2btqS" title="guardian ah" alt="guardian ah" width=100px/>
+<img src="https://drive.google.com/uc?id=13MloRyZ5qOHSGLVWn05gyQLlcnxunaG-" title="urbosa" alt="urbosa" width=100px/>
+<img src="https://drive.google.com/uc?id=1bKou7FKmURewsgc3SWVvs3mwA8YtNGhg" title="morshu" alt="morshu" width=100px/>
+<img src="https://drive.google.com/uc?id=10ywEDsvjq7xeiUzwxBd6y4cOYyHC1aBg" title="rosalina" alt="rosalina" width=100px/>
+<img src="https://drive.google.com/uc?id=1cedW-b6AZIZaKbIoDSR18Fal7SVB-BZR" title="wario death" alt="wario death" width=100px/>
+<img src="https://drive.google.com/uc?id=1-xCd_lSwkjOEu1_gnHEB_xn2S2nDpHOO" title="mii fan" alt="mii fan" width=100px/>
+<img src="https://drive.google.com/uc?id=1_UeOHu62nAQCz3WPQFoK9lFjuvmWmVG7" title="tomodachi life" alt="tomodachi life" width=100px/>
+<img src="https://drive.google.com/uc?id=15m-Yj-beg5w8yLqJ3lpwaFbnQMOYQjG0" title="epic yarn" alt="epic yarn" width=100px/>
+<img src="https://drive.google.com/uc?id=1ot1LTQB66sRUCMXSUwb34UzwG3qXXEJY" title="animal crossing" alt="animal crossing" width=100px/>
+<img src="https://drive.google.com/uc?id=1xAo-EuLELELo9zZyVSUYM7u0xrYNrvmO" title="splatoon" alt="splatoon" width=100px/>
+<img src="https://drive.google.com/uc?id=1S5f44tJg7JsVfIpPkqSas_WQNFJSFg_5" title="gygas" alt="gygas" width=100px/>
 <!-- OTHERS -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-
-![bejeweled](https://drive.google.com/uc?id=1mae54ohNpWckWRVUC0OhkRWqAps2CHk3)
-![chulip](https://drive.google.com/uc?id=1uUjCYzWdbtF-NUmqs1lu2OiVDUHGTOlG)
-![cookie](https://drive.google.com/uc?id=19eTmVOBJDUt06D2H2zdWYxLDf5Yj9325)
-![cumburger](https://drive.google.com/uc?id=1ZV6unqTcOFfTF5ZUzdXvsc4yLCSPYIc2)
-![fin fin hate](https://drive.google.com/uc?id=1XdWqTGvJXFTSKfXn9Zr6aHhn42Um_AUM)
-![octodad](https://drive.google.com/uc?id=18q-2Gn1Wi5PRs5xX3M8c_U3sUin7fGLP)
-![press start](https://drive.google.com/uc?id=1_lV4-pZLWb45mjWpFBpu-_rxuCPeTBWr)
-![sick pou](https://drive.google.com/uc?id=1Uv-jgWXg33WhVVcdL8am-718-xLPi9M6)
-![skyrim](https://drive.google.com/uc?id=1lJMbXD-Bh-1JSp7hG7st9NRwiMCQ7KRi)
-![standby fallout](https://drive.google.com/uc?id=19SjtvABmgFSMUzbFObGjTWsl62683nyJ)
-![tsp](https://drive.google.com/uc?id=1bp4LbSfNCUww-M5so2lD-lZWjrPqCIUb)
-![wizard 101](https://drive.google.com/uc?id=1voX1wBCW-FSGMDSzj5Toh6-8VnvMI8SC)
-![yes man](https://drive.google.com/uc?id=1jRPfgxqYBTi9HKmmRgz_-uJeuvvxrQ9G)
+<img src="https://drive.google.com/uc?id=1mae54ohNpWckWRVUC0OhkRWqAps2CHk3" title="bejeweled" alt="bejeweled" width=100px/>
+<img src="https://drive.google.com/uc?id=1uUjCYzWdbtF-NUmqs1lu2OiVDUHGTOlG" title="chulip" alt="chulip" width=100px/>
+<img src="https://drive.google.com/uc?id=19eTmVOBJDUt06D2H2zdWYxLDf5Yj9325" title="cookie" alt="cookie" width=100px/>
+<img src="https://drive.google.com/uc?id=1ZV6unqTcOFfTF5ZUzdXvsc4yLCSPYIc2" title="cumburger" alt="cumburger" width=100px/>
+<img src="https://drive.google.com/uc?id=1XdWqTGvJXFTSKfXn9Zr6aHhn42Um_AUM" title="fin fin hate you" alt="fin fin hate you" width=100px/>
+<img src="https://drive.google.com/uc?id=18q-2Gn1Wi5PRs5xX3M8c_U3sUin7fGLP" title="octodad" alt="octodad" width=100px/>
+<img src="https://drive.google.com/uc?id=1Uv-jgWXg33WhVVcdL8am-718-xLPi9M6" title="sick pou" alt="sick pou" width=100px/>
+<img src="https://drive.google.com/uc?id=1lJMbXD-Bh-1JSp7hG7st9NRwiMCQ7KRi" title="skyrim" alt="skyrim" width=100px/>
+<img src="https://drive.google.com/uc?id=19SjtvABmgFSMUzbFObGjTWsl62683nyJ" title="standby fallout" alt="standby fallout" width=100px/>
+<img src="https://drive.google.com/uc?id=1bp4LbSfNCUww-M5so2lD-lZWjrPqCIUb" title="tsp" alt="tsp" width=100px/>
+<img src="https://drive.google.com/uc?id=1voX1wBCW-FSGMDSzj5Toh6-8VnvMI8SC" title="wizard 101" alt="wizard 101" width=100px/>
+<img src="https://drive.google.com/uc?id=1jRPfgxqYBTi9HKmmRgz_-uJeuvvxrQ9G" title="yes man" alt="yes man" width=100px/>
+<img src="https://drive.google.com/uc?id=1_lV4-pZLWb45mjWpFBpu-_rxuCPeTBWr" title="press start" alt="press start" width=100px/>
 <br><br>
 <p align="center"> <b>MEDIA</b><br><code>turn the TV on.... there's nothing wrong...</code></p>
 <!-- ACTUAL TV -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-
-![dvd](https://drive.google.com/uc?id=1nw2gi8IXJfVvDZHqL5O_4PX8l50PMpU1)
-![tv error](https://drive.google.com/uc?id=1B30NofWlWn_P_FsOv9zjDwfZsEsuViwH)
-![tv trip](https://drive.google.com/uc?id=1KPkD6LuflaR16wvvV6GT19Yh0nyz5bcA)
+<img src="https://drive.google.com/uc?id=1nw2gi8IXJfVvDZHqL5O_4PX8l50PMpU1" title="dvd" alt="dvd" width=100px/>
+<img src="https://drive.google.com/uc?id=1B30NofWlWn_P_FsOv9zjDwfZsEsuViwH" title="tv error" alt="tv error" width=100px/>
+<img src="https://drive.google.com/uc?id=1KPkD6LuflaR16wvvV6GT19Yh0nyz5bcA" title="tv trip" alt="tv trip" width=100px/>
 <!-- GRAVITY FALLS -->
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
