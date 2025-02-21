@@ -381,93 +381,83 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <p align="center"> <b>MUSIC</b><br><code>TURN UP THE VOLUME!!!</code></p>
 <!-- WILL WOOD -->
 <img src="https://drive.google.com/uc?id=1zmArnDL1AcG78PbhiLbZQYDvwxNezVqC" title="eial" alt="eial" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-
-![heart icimi](https://drive.google.com/uc?id=1lmFdsjY1rl0Bz6fNcib6_a-brHotnfq9)
+<img src="https://drive.google.com/uc?id=1lmFdsjY1rl0Bz6fNcib6_a-brHotnfq9" title="heart icimi" alt="heart icimi" width=100px/>
+<img src="https://drive.google.com/uc?id=1pljmx7GMPFUEaXMKp-0LwUFuNHvMSOLo" title="self-ish" alt="self-ish" width=100px/>
+<img src="https://drive.google.com/uc?id=1_fdnh6dEvtbTzA-GQJTR3sDspiy8FMN7" title="wwattw" alt="wwattw" width=100px/>
 <!-- OINGO BOINGO -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=1Uxbu6j9ZBLwCZAdzB7vrPIvWdwvfe-s5" title="oingo boingo" alt="oingo boingo" width=100px/>
+<img src="https://drive.google.com/uc?id=1xRsQnBWgHLBIafqeQy1ScDtz7qVa8CPc" title="oingo cat" alt="oingo cat" width=100px/>
 <!-- LEMON DEMON -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=1qxJdhpPoWbJhOAOoKS5G14do4mORvPNS" title="ld ref" alt="ld ref" width=100px/>
+<img src="https://drive.google.com/uc?id=1ElpuS1H-FNDZa64C4mJpdv5bwRG1At_L" title="view monster" alt="view monster" width=100px/>
+<img src="https://drive.google.com/uc?id=1xOykDIxiFu9VwuDa9b16L89PkvQ7ZLBI" title="spirit phone" alt="spirit phone" width=100px/>
+<img src="https://drive.google.com/uc?id=1KgSLjCPc2O2aDThYRIsTcjM8PUDUt5cd" title="gay spirit" alt="gay spirit" width=100px/>
 <!-- COSMO SHELDRAKE -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=1FirqiZCTG4qO3fSWHR9EvZubmNBA-Y5s" title="cosmo sheldrake" alt="cosmo sheldrake" width=100px/>
+<img src="https://drive.google.com/uc?id=1jbhxNFAniJRSMEWleh1Sf-MzZitMWVmt" title="cosmo alb" alt="cosmo alb" width=100px/>
 <!-- MYSTERY SKULLS -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=1Z7xxtyg5LVer8Wm2MsTIEupdNs_jNwor" title="mystery skulls alive" alt="mystery skulls alive" width=100px/>
+<img src="https://drive.google.com/uc?id=1UtIvBXiLJc5SJfcTFTPBIUG_bD9TOToL" title="mystery skulls death" alt="mystery skulls death" width=100px/>
+<img src="https://drive.google.com/uc?id=1CpBw_pCUxCeO09QEI4bpMQPfVcJ3c6A4" title="lewis" alt="lewis" width=100px/>
 <!-- OTHERS -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=1Gz-Qj7zb_Pa53n44_PFTKMad2LgX2efT" title="hawaii pt2" alt="hawaii pt2" width=100px/>
+<img src="https://drive.google.com/uc?id=1m0m9idqmrsv0KP295NFEMFUEIV1oTcVj" title="opal" alt="opal" width=100px/>
+<img src="https://drive.google.com/uc?id=1sdmwE4buz5uaU5Ejb28nKIve2lr0lCWU" title="talking heads" alt="talking heads" width=100px/>
+<img src="https://drive.google.com/uc?id=1tTPCk76dkQSB-LDPYWGTAuUjBSqzTUDL" title="virtual insanity" alt="virtual insanity" width=100px/>
+<img src="https://drive.google.com/uc?id=1XOfUAc-6ksqf_d-FlK32IRvPlyq86Rix" title="echo" alt="echo" width=100px/>
+<img src="https://drive.google.com/uc?id=1Kzu6045ShK82Rs_kfwgFmH6SIJoAiEu6" title="bad apple" alt="bad apple" width=100px/>
+<img src="https://drive.google.com/uc?id=1RGzBrsapHpqirgIuMnF8VxkWur8GoLHS" title="turn black" alt="turn black" width=100px/>
+<img src="https://drive.google.com/uc?id=1J1kDmQL2hjAnAs672F_dgnTTjVggOpUM" title="turn black 2" alt="turn black 2" width=100px/>
+<img src="https://drive.google.com/uc?id=1tDxy5NKmZyLZ1pdf7zK6OMM1bSoIqlJy" title="turn black 3" alt="turn black 3" width=100px/>
+<img src="https://drive.google.com/uc?id=1YFcGwuuVeoCh66eG4wK3EC4U2OFkf9NE" title="009 sound system" alt="009 sound system" width=100px/>
+<img src="https://drive.google.com/uc?id=1RWi5Vs-WNikidYziB3JD8TRi_c6U0Q9Q" title="music lifeline" alt="music lifeline" width=100px/>
+<img src="https://drive.google.com/uc?id=1ipLD8WEMuH1gwaEOzpvgI8I7FHhaVd_k" title="music stamp" alt="music stamp" width=100px/>
 
-![009 sound system](https://drive.google.com/uc?id=1YFcGwuuVeoCh66eG4wK3EC4U2OFkf9NE)
-![bad apple](https://drive.google.com/uc?id=1Kzu6045ShK82Rs_kfwgFmH6SIJoAiEu6)
-![cosmo alb](https://drive.google.com/uc?id=1jbhxNFAniJRSMEWleh1Sf-MzZitMWVmt)
-![cosmo sheldrake](https://drive.google.com/uc?id=1FirqiZCTG4qO3fSWHR9EvZubmNBA-Y5s)
-![echo](https://drive.google.com/uc?id=1XOfUAc-6ksqf_d-FlK32IRvPlyq86Rix)
-![gay spirit](https://drive.google.com/uc?id=1KgSLjCPc2O2aDThYRIsTcjM8PUDUt5cd)
-![hawaii pt2](https://drive.google.com/uc?id=1Gz-Qj7zb_Pa53n44_PFTKMad2LgX2efT)
-![ld ref](https://drive.google.com/uc?id=1qxJdhpPoWbJhOAOoKS5G14do4mORvPNS)
-![lewis](https://drive.google.com/uc?id=1CpBw_pCUxCeO09QEI4bpMQPfVcJ3c6A4)
-![lifeline music](https://drive.google.com/uc?id=1RWi5Vs-WNikidYziB3JD8TRi_c6U0Q9Q)
-![music stamp](https://drive.google.com/uc?id=1ipLD8WEMuH1gwaEOzpvgI8I7FHhaVd_k)
-![mystery skulls alive](https://drive.google.com/uc?id=1Z7xxtyg5LVer8Wm2MsTIEupdNs_jNwor)
-![mystery skulls death](https://drive.google.com/uc?id=1UtIvBXiLJc5SJfcTFTPBIUG_bD9TOToL)
-![oingo boingo](https://drive.google.com/uc?id=1Uxbu6j9ZBLwCZAdzB7vrPIvWdwvfe-s5)
-![oingo cat](https://drive.google.com/uc?id=1xRsQnBWgHLBIafqeQy1ScDtz7qVa8CPc)
-![self-ish](https://drive.google.com/uc?id=1pljmx7GMPFUEaXMKp-0LwUFuNHvMSOLo)
-![spirit phone](https://drive.google.com/uc?id=1xOykDIxiFu9VwuDa9b16L89PkvQ7ZLBI)
-![talking heads](https://drive.google.com/uc?id=1sdmwE4buz5uaU5Ejb28nKIve2lr0lCWU)
-![turn black](https://drive.google.com/uc?id=1RGzBrsapHpqirgIuMnF8VxkWur8GoLHS)
-![turn black 2](https://drive.google.com/uc?id=1J1kDmQL2hjAnAs672F_dgnTTjVggOpUM)
-![turn black 3](https://drive.google.com/uc?id=1tDxy5NKmZyLZ1pdf7zK6OMM1bSoIqlJy)
-![view monster](https://drive.google.com/uc?id=1ElpuS1H-FNDZa64C4mJpdv5bwRG1At_L)
-![virtual insanity](https://drive.google.com/uc?id=1tTPCk76dkQSB-LDPYWGTAuUjBSqzTUDL)
-![wwattw](https://drive.google.com/uc?id=1_fdnh6dEvtbTzA-GQJTR3sDspiy8FMN7)
-
-<p align="center"> GAMES </p>
+<p align="center">GAMES<br><code>UNLIMITED GAMES and no games</code></p>
 
 <!-- CONSOLES -->
-<!-- UNDERTALE -->
-<!-- DELTARUNE -->
-<!-- SPORE -->
-<!-- DDR -->
-<!-- PORTAL -->
-<!-- HALF-LIFE -->
-<!-- L4D -->
-<!-- TF2 -->
-<!-- MINECRAFT -->
-<!-- FNAF -->
-<!-- NINTENDO -->
-<!-- OTHERS -->
-
 ![3ds logo](https://drive.google.com/uc?id=1JgirdL90vClS9JiarvuQP4EpO7enzIdy)
 ![atari](https://drive.google.com/uc?id=1G9Q15Vw9Ywk_uoJeY3HS23p4alDNOgS9)
 ![wii](https://drive.google.com/uc?id=1UR_I7gkSaerqVE_AT9nZHBCxtkItAbQQ)
 ![wii u](https://drive.google.com/uc?id=1pMBEhdJ3tIF5APDx1YB0bUjwf9Sgaxmy)
-![ddr fan](https://drive.google.com/uc?id=1csp7IoZ5tGuAW738smrv6bdn0_Z8iNWQ)
-![eurobeat ddr](https://drive.google.com/uc?id=1rLjHA00w2koSWdoU18-3dnb0wnPVCk9z)
-![bon](https://drive.google.com/uc?id=1dvynD8jvijxKt7KrsjFyN2p8Pez9Uc3J)
-![fnaf](https://drive.google.com/uc?id=14yg-bktjdbW7TxceKElgyhes0hENl5Pu)
-![lets eat](https://drive.google.com/uc?id=1b8fjpFaKmybCMImJbCvIBbqaVUuWycHA)
-![heart mc](https://drive.google.com/uc?id=1BxHTmb-sF6KoozRcEckGV5okDsRZ5zzs)
-![mc death](https://drive.google.com/uc?id=1SIORMeRSZVUCfnhqz0fVLoUBoxogooTU)
-![mooshspin](https://drive.google.com/uc?id=1qrR-nmv6K2cVL9CaMBQ1OplZmv62oPJv)
-![punch wood](https://drive.google.com/uc?id=1RAaRgSq4oLUdnOaRWwo58gS0xIv-IVFt)
+<!-- UNDERTALE -->
+![alphys](https://drive.google.com/uc?id=1sC368ZEXz7fwtD9QQZtH1bGSJ64xm627)
+![annoying dog](https://drive.google.com/uc?id=1jv8LcdMydQAtX2T4eSG-hsOYmgN__Abw)
+![ad lethal weapon](https://drive.google.com/uc?id=1Dz1EZiqRQYjscoVP3JSx0nUABefzh_59)
+![azzcut](https://drive.google.com/uc?id=12P7C76M9padz16rHAOlYTxuz1-DRIrPR)
+![flowey heart](https://drive.google.com/uc?id=1ljtHMsKWFq6eAghd-z-XTB_g_F66A9by)
+![flowey laugh](https://drive.google.com/uc?id=1e1kSJI7aDboq7baJJDj8sHJPtKtTYjyk)
+![flowey text](https://drive.google.com/uc?id=1yJWTwsbvi0vkck377ZydQcYVKKsmuAPD)
+![flowey troll](https://drive.google.com/uc?id=1vzbCPdbsGQW8EYNCaAwstjnnhj5N6JuY)
+![gaster](https://drive.google.com/uc?id=1OQWui_Rf0iyAvMT0O17A2UAXrM2jnwqa)
+![gaster heart](https://drive.google.com/uc?id=1sPaSLADL20YawBm9zpGbA25JYrDQnZl9)
+![ghost smooch](https://drive.google.com/uc?id=12gN6Bn3lEdHryQ2aE5ch748RAl8axs6N)
+![heart utost](https://drive.google.com/uc?id=1_jwJsKhRubcYPij7byoSJuJy73AEmSOR)
+![madjick](https://drive.google.com/uc?id=1OV6mdOUPIhpM-6fdi3L-7WA7OYkRg-CH)
+![not feeling up to it](https://drive.google.com/uc?id=1mQ6KjvUdOy-Y9fH5YUoqVnJsJUO92F6b)
+![pap autistic](https://drive.google.com/uc?id=1A6QfPy50Is-B7Cg5JLbXlDqFm4zaQvRy)
+![photoshop flowey](https://drive.google.com/uc?id=1PYQYO9Ck3vvmVP9JC-rsDE9Ue6JPVIkt)
+![pussy ut](https://drive.google.com/uc?id=1Ue5q06ETnQBgwJGrQevtMdPXDmgQdCs_)
+![undertale](https://drive.google.com/uc?id=1gk2kgJB2Evp5eATfL-5ucfVE9p6m2sLP)
+![ut](https://drive.google.com/uc?id=150WSSYYOaRBvSyyChh4eDcxqch4VLs4U)
+<!-- DELTARUNE -->
+![fun groove](https://drive.google.com/uc?id=1KvYwYVtl8XHtcCwGmvLIsTVdX0G8yDJA)
+![kris where](https://drive.google.com/uc?id=1GRZf_aul-pPP38UHLDSQWE_d3wpgiNWX)
+![seam](https://drive.google.com/uc?id=1iLWQhTKEwh0hsF0veVmmOofdSCGpro3_)
+![souls](https://drive.google.com/uc?id=1z0UX1XJ7tnKMTFQC1nwc2fKwYJ8Uyjax)
+![spam dance](https://drive.google.com/uc?id=12KLwBGIqDXRHKoZOh_wOYHPejiuG4j_9)
+![spam trash](https://drive.google.com/uc?id=1ZFsNNhMJIpfDTif0oI_nWQwKaO1Ee_vO)
+![spamton beatup](https://drive.google.com/uc?id=1s3hgggebbLzah565YAN5x6YMDto4Sxml)
+![toby stroll](https://drive.google.com/uc?id=18q9ZdAFc5kuucW94nTIaApuApfBW2mer)
+<!-- SPORE -->
 ![grox](https://drive.google.com/uc?id=1nBX1-RL8_YA_Ir5oMxm7CawQEkqr2lb8)
 ![spore](https://drive.google.com/uc?id=10CW-3KgV-YoFLoWxw_9SMvzwuRMHs2WE)
+<!-- DDR -->
+![ddr fan](https://drive.google.com/uc?id=1csp7IoZ5tGuAW738smrv6bdn0_Z8iNWQ)
+![eurobeat ddr](https://drive.google.com/uc?id=1rLjHA00w2koSWdoU18-3dnb0wnPVCk9z)
+<!-- PORTAL -->
 ![portal 1](https://drive.google.com/uc?id=1mWo5huuYCM1AwTBA9d77In9cpYMxi6cx)
+![the lab rat](https://drive.google.com/uc?id=1ozST9sQkgYMsog_LbsVJafsxR2Qjknya)
 ![aperture](https://drive.google.com/uc?id=1nIgbujR1_cKhtBUVBCcb8pmWz4bQ7Swk)
 ![aperture 2](https://drive.google.com/uc?id=12hF3jtRlKI04HWw2P6dxE5nub3alYMx-)
 ![burn lemons](https://drive.google.com/uc?id=1_pXZSYUyRR6THxkt9tcxMVJblaiFLgX6)
@@ -485,48 +475,32 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 ![ppbody 1](https://drive.google.com/uc?id=1KPPI867IMID-BKcijmpxucT81rK9Aq-b)
 ![ppbody 2](https://drive.google.com/uc?id=1NeOh4KyuHnnn3Q--HjAOIcP580Pe0tEB)
 ![still alive](https://drive.google.com/uc?id=1l6XkUOJL2d4sFHI6DMEh1v06EyqJcUVU)
-![the lab rat](https://drive.google.com/uc?id=1ozST9sQkgYMsog_LbsVJafsxR2Qjknya)
 ![true friend](https://drive.google.com/uc?id=12sVq-EkaEHldvTP9zpsmFU2Cyk45bzLo)
 ![wethly crab](https://drive.google.com/uc?id=1mov1vZy_S92dCr5APzVqLvMW9zkX8_0g)
 ![whatttt](https://drive.google.com/uc?id=12spowPGhVbpY7uPuCSShPy_vHvFJqsAe)
 ![wheatley heart](https://drive.google.com/uc?id=1zvKA_pDY0o9FSR6niU_ufDLhjazsU90q)
 ![portal 2](https://drive.google.com/uc?id=1eZLlu5WrIejhGdloJ9qk99ijz0RiTIqE)
 ![gmodsfm](https://drive.google.com/uc?id=1C0XUSTccIyv96TB2FJtKxOV6hizvnI2r)
+<!-- HALF-LIFE -->
+![the freeman](https://drive.google.com/uc?id=1Ru2g6oAjJ5FA5BBtpo6PmnODC5h_Ns4T)
 ![half life](https://drive.google.com/uc?id=12IW3JHwsyPSX0ogdEbKoUcHEdkB6l8DY)
 ![headcrab balloon](https://drive.google.com/uc?id=1odwezfyic6qWNqpXeKRvexchgu6flTts)
 ![hl2](https://drive.google.com/uc?id=1HfjlSxqOM-xS4OCiemTzCXD_UxjqHUrd)
 ![hl3](https://drive.google.com/uc?id=1AdmDYl1JnsLUXvaOYmS1dRTk6Nk8q-mz)
 ![i has crowbar](https://drive.google.com/uc?id=165jI32zwwSBxyPgAEU96_46wzg0Vgpju)
+<!-- OTHER VALVE -->
 ![l4d](https://drive.google.com/uc?id=11lWx34o34CQhZ-_Z_mJYNm6GO-7d9gBO)
 ![sandvich](https://drive.google.com/uc?id=1X_6EmHoYZBEqv493RwSSCbh8rDmZdVSz)
-![the freeman](https://drive.google.com/uc?id=1Ru2g6oAjJ5FA5BBtpo6PmnODC5h_Ns4T)
-![alphys](https://drive.google.com/uc?id=1sC368ZEXz7fwtD9QQZtH1bGSJ64xm627)
-![annoying dog](https://drive.google.com/uc?id=1jv8LcdMydQAtX2T4eSG-hsOYmgN__Abw)
-![ad lethal weapon](https://drive.google.com/uc?id=1Dz1EZiqRQYjscoVP3JSx0nUABefzh_59)
-![azzcut](https://drive.google.com/uc?id=12P7C76M9padz16rHAOlYTxuz1-DRIrPR)
-![flowey heart](https://drive.google.com/uc?id=1ljtHMsKWFq6eAghd-z-XTB_g_F66A9by)
-![flowey laugh](https://drive.google.com/uc?id=1e1kSJI7aDboq7baJJDj8sHJPtKtTYjyk)
-![flowey text](https://drive.google.com/uc?id=1yJWTwsbvi0vkck377ZydQcYVKKsmuAPD)
-![flowey troll](https://drive.google.com/uc?id=1vzbCPdbsGQW8EYNCaAwstjnnhj5N6JuY)
-![fun groove](https://drive.google.com/uc?id=1KvYwYVtl8XHtcCwGmvLIsTVdX0G8yDJA)
-![gaster](https://drive.google.com/uc?id=1OQWui_Rf0iyAvMT0O17A2UAXrM2jnwqa)
-![gaster heart](https://drive.google.com/uc?id=1sPaSLADL20YawBm9zpGbA25JYrDQnZl9)
-![ghost smooch](https://drive.google.com/uc?id=12gN6Bn3lEdHryQ2aE5ch748RAl8axs6N)
-![heart utost](https://drive.google.com/uc?id=1_jwJsKhRubcYPij7byoSJuJy73AEmSOR)
-![kris where](https://drive.google.com/uc?id=1GRZf_aul-pPP38UHLDSQWE_d3wpgiNWX)
-![madjick](https://drive.google.com/uc?id=1OV6mdOUPIhpM-6fdi3L-7WA7OYkRg-CH)
-![not feeling up to it](https://drive.google.com/uc?id=1mQ6KjvUdOy-Y9fH5YUoqVnJsJUO92F6b)
-![pap autistic](https://drive.google.com/uc?id=1A6QfPy50Is-B7Cg5JLbXlDqFm4zaQvRy)
-![photoshop flowey](https://drive.google.com/uc?id=1PYQYO9Ck3vvmVP9JC-rsDE9Ue6JPVIkt)
-![pussy ut](https://drive.google.com/uc?id=1Ue5q06ETnQBgwJGrQevtMdPXDmgQdCs_)
-![seam](https://drive.google.com/uc?id=1iLWQhTKEwh0hsF0veVmmOofdSCGpro3_)
-![souls](https://drive.google.com/uc?id=1z0UX1XJ7tnKMTFQC1nwc2fKwYJ8Uyjax)
-![spam dance](https://drive.google.com/uc?id=12KLwBGIqDXRHKoZOh_wOYHPejiuG4j_9)
-![spam trash](https://drive.google.com/uc?id=1ZFsNNhMJIpfDTif0oI_nWQwKaO1Ee_vO)
-![spamton beatup](https://drive.google.com/uc?id=1s3hgggebbLzah565YAN5x6YMDto4Sxml)
-![toby stroll](https://drive.google.com/uc?id=18q9ZdAFc5kuucW94nTIaApuApfBW2mer)
-![undertale](https://drive.google.com/uc?id=1gk2kgJB2Evp5eATfL-5ucfVE9p6m2sLP)
-![ut](https://drive.google.com/uc?id=150WSSYYOaRBvSyyChh4eDcxqch4VLs4U)
+<!-- MINECRAFT -->
+![heart mc](https://drive.google.com/uc?id=1BxHTmb-sF6KoozRcEckGV5okDsRZ5zzs)
+![mc death](https://drive.google.com/uc?id=1SIORMeRSZVUCfnhqz0fVLoUBoxogooTU)
+![mooshspin](https://drive.google.com/uc?id=1obZYPR4dGJbcPkyj33IYXFFQqDfxsjGM)
+![punch wood](https://drive.google.com/uc?id=1RAaRgSq4oLUdnOaRWwo58gS0xIv-IVFt)
+<!-- FNAF -->
+![bon](https://drive.google.com/uc?id=1dvynD8jvijxKt7KrsjFyN2p8Pez9Uc3J)
+![fnaf](https://drive.google.com/uc?id=14yg-bktjdbW7TxceKElgyhes0hENl5Pu)
+![lets eat](https://drive.google.com/uc?id=1b8fjpFaKmybCMImJbCvIBbqaVUuWycHA)
+<!-- NINTENDO -->
 ![animal crossing](https://drive.google.com/uc?id=1ot1LTQB66sRUCMXSUwb34UzwG3qXXEJY)
 ![botw](https://drive.google.com/uc?id=12HajQHA0pfxIvnB4Hf_NKeBAoknymeV0)
 ![epic yarn](https://drive.google.com/uc?id=15m-Yj-beg5w8yLqJ3lpwaFbnQMOYQjG0)
@@ -539,6 +513,7 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 ![tomodachi life](https://drive.google.com/uc?id=1_UeOHu62nAQCz3WPQFoK9lFjuvmWmVG7)
 ![urbosa](https://drive.google.com/uc?id=13MloRyZ5qOHSGLVWn05gyQLlcnxunaG-)
 ![wario death](https://drive.google.com/uc?id=1cedW-b6AZIZaKbIoDSR18Fal7SVB-BZR)
+<!-- OTHERS -->
 ![bejeweled](https://drive.google.com/uc?id=1mae54ohNpWckWRVUC0OhkRWqAps2CHk3)
 ![chulip](https://drive.google.com/uc?id=1uUjCYzWdbtF-NUmqs1lu2OiVDUHGTOlG)
 ![cookie](https://drive.google.com/uc?id=19eTmVOBJDUt06D2H2zdWYxLDf5Yj9325)
@@ -603,7 +578,6 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 ![nothing check](https://drive.google.com/uc?id=1eE9ne2xQ0R9XDPHDPbWIrC5MMRJXqesf)
 ![nya rawr](https://drive.google.com/uc?id=1u3_KJKwNi5unsxAfM6ocrSUBD7M6su_h)
 ![octavia](https://drive.google.com/uc?id=1kD9b5kJgFGjA0M8aLdTfxmIHaMJzHJfl)
-![opal](https://drive.google.com/uc?id=1m0m9idqmrsv0KP295NFEMFUEIV1oTcVj)
 ![patrick look](https://drive.google.com/uc?id=1oOucRfburV0YjKTzZ9SJIOK0EVqZGszc)
 ![peepers fan](https://drive.google.com/uc?id=1Ox_GISitYb4Ua2b60mnMvA-ouYGcOXGr)
 ![pinkie](https://drive.google.com/uc?id=1Wt-9Fch4gYsidhM9mhqmjhx-Y7vvJjia)
@@ -656,7 +630,7 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 ![heart brick](https://drive.google.com/uc?id=1XrBYVJ6YSqubdw-GsX028Wjw8QRBLs3d)
 ![i'm bready](https://drive.google.com/uc?id=1qlZtYXaGTMHThU5tMs6cfBwb0yjC2Bof)
 ![isopod chip](https://drive.google.com/uc?id=1ULXeITO_5J4sL84VxiIkzsNqy2s50yQ3)
-![loss](https://drive.google.com/uc?id=1IhRq41D8DrWqXHBHPnNPFNFYgEOwbsKB)
+![loss](https://drive.google.com/uc?id=1btwQzeZeCWoqGtTk_FULkPPYGMpMEg3Z)
 ![milk man](https://drive.google.com/uc?id=1pY49rRce8hifsyqnkbqdsBu8r3fh0rEg)
 ![no idea](https://drive.google.com/uc?id=1qrELZoUCg3DRYa5vqkZ3GSu74UU7BA2q)
 ![peter cat](https://drive.google.com/uc?id=1E4sYVWmPWYNldh2WRcR8672npUMwsJni)
