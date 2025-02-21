@@ -595,76 +595,75 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=1gcAhGkVodVz78DZuqsWnKx0bSIGsdKg_" title="tiana browse" alt="tiana browse" width=100px/>
 <br><br>
 <p align="center"><b>SILLY</b><br><code>heehee hoohoo!!</code></p>
-<!-- PNG -->
-<!-- GIF -->
-<!-- NONSENSE -->
 
+![damnit](https://drive.google.com/uc?id=1-mRdt3cPAgYnHCX4-Vn4sdoWQHU_wnIt)
+
+<!-- PNG -->
 ![ant](https://drive.google.com/uc?id=1qJYp1RPCqdv077XeyOKV3WQWVH4i3uq4)
 ![avgn gun](https://drive.google.com/uc?id=1qsWhaMym7FN0qO-nAg_3jJEQ8bHv8YmS)
 ![burst nurst](https://drive.google.com/uc?id=10QNVOBcDxuZShN5jtP2g9UyekU6gj_-w)
 ![campbells](https://drive.google.com/uc?id=1vyhWciRJGzz8_iAMQvifRhsgnh-kaUMS)
 ![cat](https://drive.google.com/uc?id=105YU1WZuS65KXha_uGWlj_vqp4vvHLFn)
 ![cheese](https://drive.google.com/uc?id=1JGZNAME7nGwxsPypb2yd2oBgqRrbFiLW)
-![crab](https://drive.google.com/uc?id=1mx97Fw6abxwv-TcxLyT1PEMtCX_ABI39)
-![damnit](https://drive.google.com/uc?id=1-mRdt3cPAgYnHCX4-Vn4sdoWQHU_wnIt)
-![dogs1](https://drive.google.com/uc?id=1iu-Wbzh2BSpYdIVv_ga5YnBYZMRHkiEp)
-![dogs2](https://drive.google.com/uc?id=199jVTpgDkQ_Gtl9ZxNzxk9W7DhrsbxsZ)
-![dogs3](https://drive.google.com/uc?id=1gjmkg7-wqofwXSUViMmnpCMYVQg5s1Ud)
 ![EAT PANT](https://drive.google.com/uc?id=11aQZVl84nnjc5_qTAhHNGfsGyRdEf1j7)
-![fire stamp](https://drive.google.com/uc?id=1z_MXCVLt3-EbpRKUuMiN7_e_Ez1S4Xqm)
 ![fsh](https://drive.google.com/uc?id=1zgldSbYnICk2SCprJVs32cDODkyE5wVF)
 ![gotta go](https://drive.google.com/uc?id=1ZTplU_uotewsnSGLp4GKM4wN2FikzfZD)
-![guy fi](https://drive.google.com/uc?id=1OW6urgD26cDOfofrOyDy54bxBflF7IbT)
 ![heart brick](https://drive.google.com/uc?id=1XrBYVJ6YSqubdw-GsX028Wjw8QRBLs3d)
 ![i'm bready](https://drive.google.com/uc?id=1qlZtYXaGTMHThU5tMs6cfBwb0yjC2Bof)
 ![isopod chip](https://drive.google.com/uc?id=1ULXeITO_5J4sL84VxiIkzsNqy2s50yQ3)
-![loss](https://drive.google.com/uc?id=1btwQzeZeCWoqGtTk_FULkPPYGMpMEg3Z)
 ![milk man](https://drive.google.com/uc?id=1pY49rRce8hifsyqnkbqdsBu8r3fh0rEg)
 ![no idea](https://drive.google.com/uc?id=1qrELZoUCg3DRYa5vqkZ3GSu74UU7BA2q)
-![peter cat](https://drive.google.com/uc?id=1E4sYVWmPWYNldh2WRcR8672npUMwsJni)
-![peter dance](https://drive.google.com/uc?id=1eckav-Avk2qnVgKI7u7TwdDlOq23aK6F)
 ![propaganda](https://drive.google.com/uc?id=1F9ExvDllkgq3qCvenoEbgult5fN6rYOg)
-![roach sparkle](https://drive.google.com/uc?id=13x5Ook-ls8W9cwy1JrLGhbnXDWr36wrM)
 ![robbery](https://drive.google.com/uc?id=1dHSHwjoC3TkG0wMw3pWUBt7iRjzVZGa_)
-![sick trix](https://drive.google.com/uc?id=1I0XiucfhNRGIJgPix4kQ1JrNlwsBgnSD)
-![spin stamp](https://drive.google.com/uc?id=131HYwofUy2o89NqRHMgK8ouIcZXbfp5s)
 ![spin dizzy](https://drive.google.com/uc?id=1RJo2G4biH6wD4-X0-Our6uNfaobReprR)
-![the wave](https://drive.google.com/uc?id=1_7pS5Su_FNE11DlKLXGhDFvatYQde_gP)
 ![tree crushed](https://drive.google.com/uc?id=1HNmysu5G2cIjv31FLLGqeIEcb5KWt9yT)
 ![what the hell](https://drive.google.com/uc?id=1A9zVQMYRHrBcRdGUgafkYvWNNndy3rNX)
 ![xbox jesus](https://drive.google.com/uc?id=1We8hfJMK05irUTuBA5WkaoFsWkYlmUN4)
+<!-- GIF -->
+![crab](https://drive.google.com/uc?id=1mx97Fw6abxwv-TcxLyT1PEMtCX_ABI39)
+![dogs1](https://drive.google.com/uc?id=1iu-Wbzh2BSpYdIVv_ga5YnBYZMRHkiEp)
+![dogs2](https://drive.google.com/uc?id=199jVTpgDkQ_Gtl9ZxNzxk9W7DhrsbxsZ)
+![dogs3](https://drive.google.com/uc?id=1gjmkg7-wqofwXSUViMmnpCMYVQg5s1Ud)
+![fire stamp](https://drive.google.com/uc?id=1z_MXCVLt3-EbpRKUuMiN7_e_Ez1S4Xqm)
+![guy fi](https://drive.google.com/uc?id=1OW6urgD26cDOfofrOyDy54bxBflF7IbT)
+![loss](https://drive.google.com/uc?id=1btwQzeZeCWoqGtTk_FULkPPYGMpMEg3Z)
+![peter cat](https://drive.google.com/uc?id=1E4sYVWmPWYNldh2WRcR8672npUMwsJni)
+![peter dance](https://drive.google.com/uc?id=1eckav-Avk2qnVgKI7u7TwdDlOq23aK6F)
+![roach sparkle](https://drive.google.com/uc?id=13x5Ook-ls8W9cwy1JrLGhbnXDWr36wrM)
+![sick trix](https://drive.google.com/uc?id=1I0XiucfhNRGIJgPix4kQ1JrNlwsBgnSD)
+![spin stamp](https://drive.google.com/uc?id=131HYwofUy2o89NqRHMgK8ouIcZXbfp5s)
+![the wave](https://drive.google.com/uc?id=1_7pS5Su_FNE11DlKLXGhDFvatYQde_gP)
 
-<p align="center"> <b>DA WEB</b> </p>
+<p align="center"><b>DA WEB</b><br><code>I'M ON MY PUTER!!</code></p>
 
 <!-- OS -->
-<!-- REFERENCE -->
-<!-- AESTHETIC -->
-
-![binary solo](https://drive.google.com/uc?id=12xaeQGC0BktPOqSCyV8k7ap8wWJ8BMu4)
-![BSOD](https://drive.google.com/uc?id=12ojJ7pG_2IFz_KLv7NDQQLvCDwSZRTuZ)
-![C:\_](https://drive.google.com/uc?id=1cq5LxH0uE4fOMpc3I1ZcusJwOsrUqc0v)
-![coolnet](https://drive.google.com/uc?id=1dKwth-smtNgQAm0BwX9XauXUWVytcu28)
-![diy web](https://drive.google.com/uc?id=11iztLp8WdxjiLldi6kqmU0Mmmlm2ftti)
-![frutiger](https://drive.google.com/uc?id=1rtqPH4w_xMtPFvCtSmqq_77RUJW_vT6w)
-![graphics](https://drive.google.com/uc?id=17sX_Mopu9fGXfG7vM2otJGhnazLHJnAb)
 ![hate windows 10](https://drive.google.com/uc?id=1wiOlje4nHv69G7o6e3mZcwiqGVlBTPjZ)
-![i miss aim](https://drive.google.com/uc?id=1x7ouApoVxvObBaUiU6PfCwWWZBuJhZYp)
-![loading](https://drive.google.com/uc?id=1aP2C4JusIVVZvwMUIbXzYAwt78iQFRvA)
-![old electronics](https://drive.google.com/uc?id=1a0t9aOqLUaaZGRTumcqAjgxynFgdlTNw)
-![old web](https://drive.google.com/uc?id=18Y__at8Fyo5MaoycuUr11PBo4NjxEtsV)
-![pc](https://drive.google.com/uc?id=1L_ID1O4k4h21zXFA0_LnFXjwJBQbw6zx)
-![prgrm](https://drive.google.com/uc?id=19aVcrS2Pl3i4MPFfK_j2ZtQeUfkLh0BC)
 ![rip xp](https://drive.google.com/uc?id=1E_a6DG5ys2Cc-v4mvXZExC-KRE64-3dG)
-![sys 32](https://drive.google.com/uc?id=1VIg_kxX1S1-ZA1UnHgXktqRhQ_1bpE31)
 ![vista](https://drive.google.com/uc?id=19jY5bYz8OxLf3Kj5Yxso1qWHfgHJCkkd)
 ![vista2](https://drive.google.com/uc?id=1Habe6vfHnY7aRySizr4WdcQv0SLmfLVk)
 ![windows](https://drive.google.com/uc?id=1AYuV1HJZYIjBnXH_3Q7gNxDPqwMUzmW7)
 ![windows 7](https://drive.google.com/uc?id=1Kf2RZP6P3mz8hfkCKveYrwLgClOOzFBt)
 ![windows xp](https://drive.google.com/uc?id=1rfmrUksx9qdcDWOoWXac15ayQjb5er4S)
+<!-- PUTER TINGS -->
+![pc](https://drive.google.com/uc?id=1L_ID1O4k4h21zXFA0_LnFXjwJBQbw6zx)
+![binary solo](https://drive.google.com/uc?id=12xaeQGC0BktPOqSCyV8k7ap8wWJ8BMu4)
+![BSOD](https://drive.google.com/uc?id=12ojJ7pG_2IFz_KLv7NDQQLvCDwSZRTuZ)
+![C:\_](https://drive.google.com/uc?id=1cq5LxH0uE4fOMpc3I1ZcusJwOsrUqc0v)
+![coolnet](https://drive.google.com/uc?id=1dKwth-smtNgQAm0BwX9XauXUWVytcu28)
+![diy web](https://drive.google.com/uc?id=11iztLp8WdxjiLldi6kqmU0Mmmlm2ftti)
+![i miss aim](https://drive.google.com/uc?id=1x7ouApoVxvObBaUiU6PfCwWWZBuJhZYp)
+![loading](https://drive.google.com/uc?id=1aP2C4JusIVVZvwMUIbXzYAwt78iQFRvA)
+![prgrm](https://drive.google.com/uc?id=19aVcrS2Pl3i4MPFfK_j2ZtQeUfkLh0BC)
+![sys 32](https://drive.google.com/uc?id=1VIg_kxX1S1-ZA1UnHgXktqRhQ_1bpE31)
 ![wizard install](https://drive.google.com/uc?id=1BMNFRCCx6QSBrgb963OB1J3kloUMgrao)
 ![y2k](https://drive.google.com/uc?id=1cJNz1mQH8MRBDzDxIPMaFUk5Ej_a1miE)
-
-<p align="center"> <b>MISC</b> </p>
+<!-- AESTHETIC -->
+![frutiger](https://drive.google.com/uc?id=1rtqPH4w_xMtPFvCtSmqq_77RUJW_vT6w)
+![graphics](https://drive.google.com/uc?id=17sX_Mopu9fGXfG7vM2otJGhnazLHJnAb)
+![old electronics](https://drive.google.com/uc?id=1a0t9aOqLUaaZGRTumcqAjgxynFgdlTNw)
+![old web](https://drive.google.com/uc?id=18Y__at8Fyo5MaoycuUr11PBo4NjxEtsV)
+<br><br>
+<p align="center"><b>MISC</b><br><code>neat stamps i couldn't categorise</code><br></p>
 <!-- they're misc for a reason, don't got categories for em... -->
 
 ![cloud](https://drive.google.com/uc?id=1HQITWldTq6f5vMY2bqltLCcIDk909atJ)
