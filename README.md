@@ -208,6 +208,7 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <summary><b>Stamps</b></summary>
 
 <p align="center"><code>HEY HEY WAIT A SECOND!!!! I'm reworking my stamps right now, changing them from markdown to html to look more uniform... Also so you can hover over them to see the alt text.. Go on, give it a try with these first few stamps!! ^_^</code></p>
+<code>Are you seeing just the alt text for a stamp? Try reloading, or open the image in a new tab if you wanna see it! None of my images are broken, Github just has a hard time loading them all in...</code>
   
 > `hey look at these stamps i made (f2u)`
 <!-- Beginning the long process of converting these from markdown to html.. -->
@@ -292,8 +293,10 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 > <code>ok... now here's some neither of us made</code><br>
 <p align="center"> <b>SELF</b><br><code>the ones that are so me!!</code> </p>
 
+<img src="https://drive.google.com/uc?id=1K9gCF0T1osVsnOS8gudq9W-3dmLm6fm2" title="support gaza" alt="support gaza" width=100px/>
 <!-- IDENTITIES -->
 <!-- Not using, redundent: ![ace](https://drive.google.com/uc?id=15FFGUI2xNGeLB3iYg9BAYXzmgrOQaRpO) -->
+<img src="https://drive.google.com/uc?id=1rikBEpEpe6vp5DzzS8wdnH1tOFDF-1lW" title="static" alt="static" width=100px/>
 <img src="https://drive.google.com/uc?id=1KCxZ6aWM4uIaD8X3UN3G1DO74Q6Y4170" title="it its" alt="it its" width=100px/>
 <img src="https://drive.google.com/uc?id=1WD1JcxXS-4kC4iDusQKW5vlEleGpOSWj" title="they them" alt="they them" width=100px/>
 <img src="https://drive.google.com/uc?id=1Nyj14DXVQZpYrVqDPJVhZCoy2dv8cC9V" title="aroace" alt="aroace" width=100px/>
@@ -301,92 +304,77 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=1UZsga6Dzju-RDqe-MA7EgYdn9KN74yEc" title="agender" alt="agender" width=100px/>
 <img src="https://drive.google.com/uc?id=1XM2ilMulc8_4WMHkIoCO6QUhlurKiBl_" title="non binary" alt="non binary" width=100px/>
 <img src="https://drive.google.com/uc?id=1zKE6Dj8ozvcrdnoWf5h8lilEaX68Bj6j" title="blasian" alt="blasian" width=100px/>
-<!-- BELIEFS -->
-<img src="https://drive.google.com/uc?id=1K9gCF0T1osVsnOS8gudq9W-3dmLm6fm2" title="support gaza" alt="support gaza" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <!-- DISABILITIES -->
 <img src="https://drive.google.com/uc?id=1kqRF7_dh3bq-lg49YQqwKBW_CV1mXHYO" title="adhd" alt="adhd" width=100px/>
 <img src="https://drive.google.com/uc?id=1PqYqozsbjj7GptVYxIUl4VVlI6CKcxws" title="asd" alt="asd" width=100px/>
 <img src="https://drive.google.com/uc?id=17RSK3pyk4iKccAbJ_aUnwcZWIFWfxZmK" title="psst.. friends can have my simply plural..... if they ask....." alt="plural" width=100px/>
+<!-- BELIEFS -->
+<img src="https://drive.google.com/uc?id=11zhrwf19-t7uh22KLoDm827zenyL84GD" title="anti ai" alt="anti ai" width=100px/>
+<img src="https://drive.google.com/uc?id=1QCXvQ7mh3pJCMZ7a6NsBPQ9ByD1qWf-R" title="anti hit" alt="anti hit" width=100px/>
 <!-- BOUNDARIES -->
 <img src="https://drive.google.com/uc?id=1wfBMmgVjouLrJr-bu-iRuU3KKT1qC8mb" title="no flirting" alt="no flirting" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=1_DsEE1hjGZCtsgNK1qxtnzEheegZ2FjQ" title="block creeps" alt="block creeps" width=100px/>
+<img src="https://drive.google.com/uc?id=1nVbnTenbZ1KJ8lU2fyLhVQ9u7YRAxv_u" title="not a rehab center" alt="not a rehab center" width=100px/>
 <!-- LOVER!! -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=1eAZOJ4xmClOhuUUhJ7ZrQ-uUrwXifJDb" title="heart blue" alt="heart blue" width=100px/>
+<img src="https://drive.google.com/uc?id=1U1FPJ5p_VYJlvStHC7Zi4A7tiQmu2Z5l" title="heart choco" alt="heart choco" width=100px/>
+<img src="https://drive.google.com/uc?id=1aJcwK2Ko1PnzNmrL-STAjiJV6T5wyqIm" title="heart meat" alt="heart meat" width=100px/>
+<img src="https://drive.google.com/uc?id=1ppfbWlHWHau4lXHEJujPuB5Y01TsZcmI" title="heart robots" alt="heart robots" width=100px/>
+<img src="https://drive.google.com/uc?id=199n89Aql0syQupBG64FGK6daUNx1hBeR" title="apple lover" alt="apple lover" width=100px/>
+<img src="https://drive.google.com/uc?id=1sD5eOe0XXa4lb_WHQQYMwDhkIKUMelpQ" title="cheese lover" alt="cheese lover" width=100px/>
+<img src="https://drive.google.com/uc?id=1URz3rvL3REyNlr6GbnE2YIBpVbPzJqMi" title="potato love" alt="potato love" width=100px/>
+<img src="https://drive.google.com/uc?id=1kkWR8voR0fRGXShgWBKOtc2jZelb22WG" title="like it warm" alt="like it warm" width=100px/>
+<img src="https://drive.google.com/uc?id=1TbUH-g_iIVqMtmmieWBMflYPDqLikgQo" title="weird mammals" alt="weird mammals" width=100px/>
+<img src="https://drive.google.com/uc?id=1wD4sPrvor4CcX7r2jH4bBv-KppzKPk3K" title="stamp obssessed" alt="stamp obssessed" width=100px/>
 <!-- THINGS I AM/DO -->
+<img src="https://drive.google.com/uc?id=1WemSORCcWgs2jHWp9Bu5cN52_J3lvJbj" title="daydreamer" alt="daydreamer" width=100px/>
+<img src="https://drive.google.com/uc?id=1L1bzJaG9YbvI7ygN8EWwHuvfnziYikvJ" title="forgetful" alt="forgetful" width=100px/>
+<img src="https://drive.google.com/uc?id=1yGwRcq1f8yPvKUkMc4wXpoYhd_4BzlcC" title="forgor" alt="forgor" width=100px/>
+<img src="https://drive.google.com/uc?id=15pFtb_86k35MiCmXeMk69ICNN5BYkPhy" title="glasses" alt="glasses" width=100px/>
+<img src="https://drive.google.com/uc?id=1HXHKUrf3pAo5YhysbiEVVShom5Dz8_9C" title="bad handwriting" alt="bad handwriting" width=100px/>
+<img src="https://drive.google.com/uc?id=15Na4ACy1OgVMVSEfeZPuJieGIRKQ4s2-" title="shit as dumb" alt="shit as dumb" width=100px/>
+<img src="https://drive.google.com/uc?id=1L1EJ3A67yCrqaHejGLwLEdKx5tpYyeWD" title="picky eater" alt="picky eater" width=100px/>
+<img src="https://drive.google.com/uc?id=1vwRslHJZeUH6NOussZ-ho5E3Sf66-jp8" title="talk to self" alt="talk to self" width=100px/>
+<img src="https://drive.google.com/uc?id=1gjD1Cdra7hN4Akp-0l84GoayonHD21AH" title="3ds owner" alt="3ds owner" width=100px/>
+<img src="https://drive.google.com/uc?id=1jQM4sYb7LMu8afitAzeR-eTkUFpZHRFS" title="artist" alt="artist" width=100px/>
+<img src="https://drive.google.com/uc?id=1hPyBco_t5t5P09tAXQfEDBghtgwrhHYF" title="writer" alt="writer" width=100px/>
+<img src="https://drive.google.com/uc?id=1q5YHds0TqRLxeH7Q7__osztHNx11dcNy" title="piano player" alt="piano player" width=100px/>
+<img src="https://drive.google.com/uc?id=1hFWOT3Mu4OSlZUSgtMHO-u4_OGlATGG6" title="make stamps" alt="make stamps" width=100px/>
+<img src="https://drive.google.com/uc?id=1qfDulclRTzkFFV2RUP4_AN2B6cN1ba19" title="sweet tooth" alt="sweet tooth" width=100px/>
+<img src="https://drive.google.com/uc?id=1TK03wRiWMms9Pem6exT276N1XCTBX45W" title="cant focus" alt="cant focus" width=100px/>
+<img src="https://drive.google.com/uc?id=1_voMbe577Ne7r7VVah4hsY2lHhn7m9Ko" title="cant whistle" alt="cant whistle" width=100px/>
+<img src="https://drive.google.com/uc?id=1h0smSxdNJxufe6nVrk8nopk8HQj26ugy" title="12 hour nap" alt="12 hour nap" width=100px/>
+<img src="https://drive.google.com/uc?id=13f07JNOelAZlrtjI8_ccP0bIkN25pFI7" title="2016 dead" alt="2016 dead" width=100px/>
+<img src="https://drive.google.com/uc?id=1bp3fI1EPriJIh7yGY4S2W08GQUsS84wS" title="mental wifi" alt="mental wifi" width=100px/>
+<img src="https://drive.google.com/uc?id=130rkOx5P3LB6mXtLe5vKuv7k_-nurHT6" title="obscure fandom" alt="obscure fandom" width=100px/>
+<img src="https://drive.google.com/uc?id=1KZOrbmYRQ7GdwXY-xbYYirgQ1SaPLg-U" title="oc ask" alt="oc ask" width=100px/>
+<img src="https://drive.google.com/uc?id=1XBzyjzvRJgDttBusSnD2y8SJ_mbyXtua" title="oc bread" alt="oc bread" width=100px/>
+<img src="https://drive.google.com/uc?id=1-F1cET0f6YJiT600gKMYByVosEwfCGBc" title="oc draw" alt="oc draw" width=100px/>
+<img src="https://drive.google.com/uc?id=1mDF7Rlvj9CalQ6BU9EJSm86NS-brPy67" title="oc kids" alt="oc kids" width=100px/>
+<img src="https://drive.google.com/uc?id=1WPQGBwMMTtUEdw3MKFI14E7pqxzpEe7d" title="slow internet" alt="slow internet" width=100px/>
+<img src="https://drive.google.com/uc?id=1S2ABXfAYgT-jc8y_htJ7gS-HSTMyW9Jl" title="summer pants" alt="summer pants" width=100px/>
+<img src="https://drive.google.com/uc?id=1gBPM6P9hBoC8WI9uB0B2da4Dexv--aLp" title="time machine" alt="time machine" width=100px/>
+<a href="https://bullet-math.tumblr.com/"><img src="https://drive.google.com/uc?id=1ivKBIDkS0HmWs77f958Mt7pQ-3O0Zzok" title="click me to go to my toobler" alt="on tumblr" width=100px/></a>
+
+<p align="center"> <b>^_^</b><br><code>i am so normal about these stamps...</code></p>
+<!-- TPoH -->
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<!-- RTVS -->
+<img src="https://drive.google.com/uc?id=1WclsoKrDlzfydz_jOFYsFOqJAvDxu8Fz" title="challenge failed" alt="challenge failed" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<!-- THD -->
+<!-- and this is where I would put my thd stamps... IF I HAD ANY!!! -->
+<!-- CHAOS -->
+<img src="https://drive.google.com/uc?id=1kfHyTWK-7dyF192PhSuN_6AnJT1pAqgv" title="chaos support" alt="chaos support" width=100px/>
+<img src="https://drive.google.com/uc?id=1ac-L5FtOikQMl-xzj0H2ndesi2Pjo5bu" title="chaos theory" alt="chaos theory" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 
-
-![](https://drive.google.com/uc?id=)
-![anti ai](https://drive.google.com/uc?id=11zhrwf19-t7uh22KLoDm827zenyL84GD)
-![anti hit](https://drive.google.com/uc?id=1QCXvQ7mh3pJCMZ7a6NsBPQ9ByD1qWf-R)
-![block creeps](https://drive.google.com/uc?id=1_DsEE1hjGZCtsgNK1qxtnzEheegZ2FjQ)
-![not rehab](https://drive.google.com/uc?id=1nVbnTenbZ1KJ8lU2fyLhVQ9u7YRAxv_u)
-![daydreamer](https://drive.google.com/uc?id=1WemSORCcWgs2jHWp9Bu5cN52_J3lvJbj)
-![forgetful](https://drive.google.com/uc?id=1L1bzJaG9YbvI7ygN8EWwHuvfnziYikvJ)
-![forgor](https://drive.google.com/uc?id=1yGwRcq1f8yPvKUkMc4wXpoYhd_4BzlcC)
-![glasses](https://drive.google.com/uc?id=15pFtb_86k35MiCmXeMk69ICNN5BYkPhy)
-![bad handwriting](https://drive.google.com/uc?id=1HXHKUrf3pAo5YhysbiEVVShom5Dz8_9C)
-![shit as dumb](https://drive.google.com/uc?id=15Na4ACy1OgVMVSEfeZPuJieGIRKQ4s2-)
-![picky eater](https://drive.google.com/uc?id=1L1EJ3A67yCrqaHejGLwLEdKx5tpYyeWD)
-![talk to self](https://drive.google.com/uc?id=1vwRslHJZeUH6NOussZ-ho5E3Sf66-jp8)
-![3ds owner](https://drive.google.com/uc?id=1gjD1Cdra7hN4Akp-0l84GoayonHD21AH)
-![artist](https://drive.google.com/uc?id=1jQM4sYb7LMu8afitAzeR-eTkUFpZHRFS)
-![writer](https://drive.google.com/uc?id=1hPyBco_t5t5P09tAXQfEDBghtgwrhHYF)
-![piano player](https://drive.google.com/uc?id=1q5YHds0TqRLxeH7Q7__osztHNx11dcNy)
-![make stamps](https://drive.google.com/uc?id=1hFWOT3Mu4OSlZUSgtMHO-u4_OGlATGG6)
-![stamp obssessed](https://drive.google.com/uc?id=1wD4sPrvor4CcX7r2jH4bBv-KppzKPk3K)
-![apple lover](https://drive.google.com/uc?id=199n89Aql0syQupBG64FGK6daUNx1hBeR)
-![cheese lover](https://drive.google.com/uc?id=1sD5eOe0XXa4lb_WHQQYMwDhkIKUMelpQ)
-![heart blue](https://drive.google.com/uc?id=1eAZOJ4xmClOhuUUhJ7ZrQ-uUrwXifJDb)
-![heart choco](https://drive.google.com/uc?id=1U1FPJ5p_VYJlvStHC7Zi4A7tiQmu2Z5l)
-![heart meat](https://drive.google.com/uc?id=1aJcwK2Ko1PnzNmrL-STAjiJV6T5wyqIm)
-![heart robots](https://drive.google.com/uc?id=1ppfbWlHWHau4lXHEJujPuB5Y01TsZcmI)
-![potato love](https://drive.google.com/uc?id=1URz3rvL3REyNlr6GbnE2YIBpVbPzJqMi)
-![weird mammals](https://drive.google.com/uc?id=1TbUH-g_iIVqMtmmieWBMflYPDqLikgQo)
-![sweet tooth](https://drive.google.com/uc?id=1qfDulclRTzkFFV2RUP4_AN2B6cN1ba19)
-![like it warm](https://drive.google.com/uc?id=1kkWR8voR0fRGXShgWBKOtc2jZelb22WG)
-![cant focus](https://drive.google.com/uc?id=1TK03wRiWMms9Pem6exT276N1XCTBX45W)
-![cant whistle](https://drive.google.com/uc?id=1_voMbe577Ne7r7VVah4hsY2lHhn7m9Ko)
-![12 hour nap](https://drive.google.com/uc?id=1h0smSxdNJxufe6nVrk8nopk8HQj26ugy)
-![2016 dead](https://drive.google.com/uc?id=13f07JNOelAZlrtjI8_ccP0bIkN25pFI7)
-![mental wifi](https://drive.google.com/uc?id=1bp3fI1EPriJIh7yGY4S2W08GQUsS84wS)
-![obscure fandom](https://drive.google.com/uc?id=130rkOx5P3LB6mXtLe5vKuv7k_-nurHT6)
-![oc ask](https://drive.google.com/uc?id=1KZOrbmYRQ7GdwXY-xbYYirgQ1SaPLg-U)
-![oc bread](https://drive.google.com/uc?id=1XBzyjzvRJgDttBusSnD2y8SJ_mbyXtua)
-![oc draw](https://drive.google.com/uc?id=1-F1cET0f6YJiT600gKMYByVosEwfCGBc)
-![oc kids](https://drive.google.com/uc?id=1mDF7Rlvj9CalQ6BU9EJSm86NS-brPy67)
-![slow internet](https://drive.google.com/uc?id=1WPQGBwMMTtUEdw3MKFI14E7pqxzpEe7d)
-![static](https://drive.google.com/uc?id=1rikBEpEpe6vp5DzzS8wdnH1tOFDF-1lW)
-![summer pants](https://drive.google.com/uc?id=1S2ABXfAYgT-jc8y_htJ7gS-HSTMyW9Jl)
-![time machine](https://drive.google.com/uc?id=1gBPM6P9hBoC8WI9uB0B2da4Dexv--aLp)
-![on tumblr](https://drive.google.com/uc?id=1ivKBIDkS0HmWs77f958Mt7pQ-3O0Zzok)
-
-<p align="center"> <b>^_^</b> </p>
-
-![challenge failed](https://drive.google.com/uc?id=1WclsoKrDlzfydz_jOFYsFOqJAvDxu8Fz)
-![chaos support](https://drive.google.com/uc?id=1kfHyTWK-7dyF192PhSuN_6AnJT1pAqgv)
-![chaos theory](https://drive.google.com/uc?id=1ac-L5FtOikQMl-xzj0H2ndesi2Pjo5bu)
 ![concerning](https://drive.google.com/uc?id=1wEo3LaLceKd_PCibcIJLxZGwPgvz3lL8)
 ![discordia](https://drive.google.com/uc?id=1ys9VEVBUMeDNScm-VVC7xWunLvJZcyR8)
 ![gameclam evolve](https://drive.google.com/uc?id=19IEIFApnV2mt3lp2WOtWad_3ZsV1iJU3)
@@ -399,7 +387,37 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 ![rgb negative](https://drive.google.com/uc?id=1r3Kk_F5hIeGUxxveU9k_RPU_R_V_ytso)
 ![sopen rice](https://drive.google.com/uc?id=1KKmo6g-sZ_gnx7KXzG8GJc4jJBZ0M1Zm)
 
-<p align="center"> <b>MUSIC</b> </p>
+<p align="center"> <b>MUSIC</b><br><code>TURN UP THE VOLUME!!!</code></p>
+
+<!-- WILL WOOD -->
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<!-- OINGO BOINGO -->
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<!-- LEMON DEMON -->
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<!-- COSMO SHELDRAKE -->
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<!-- MYSTERY SKULLS -->
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<!-- OTHERS -->
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 
 ![009 sound system](https://drive.google.com/uc?id=1YFcGwuuVeoCh66eG4wK3EC4U2OFkf9NE)
 ![bad apple](https://drive.google.com/uc?id=1Kzu6045ShK82Rs_kfwgFmH6SIJoAiEu6)
@@ -429,6 +447,20 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 ![wwattw](https://drive.google.com/uc?id=1_fdnh6dEvtbTzA-GQJTR3sDspiy8FMN7)
 
 <p align="center"> GAMES </p>
+
+<!-- CONSOLES -->
+<!-- UNDERTALE -->
+<!-- DELTARUNE -->
+<!-- SPORE -->
+<!-- DDR -->
+<!-- PORTAL -->
+<!-- HALF-LIFE -->
+<!-- L4D -->
+<!-- TF2 -->
+<!-- MINECRAFT -->
+<!-- FNAF -->
+<!-- NINTENDO -->
+<!-- OTHERS -->
 
 ![3ds logo](https://drive.google.com/uc?id=1JgirdL90vClS9JiarvuQP4EpO7enzIdy)
 ![atari](https://drive.google.com/uc?id=1G9Q15Vw9Ywk_uoJeY3HS23p4alDNOgS9)
@@ -533,6 +565,16 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 
 <p align="center"> <b>MEDIA</b> </p>
 
+<!-- ACTUAL TV -->
+<!-- GRAVITY FALLS -->
+<!-- REGULAR SHOW -->
+<!-- MLP -->
+<!-- SPONGEBOB -->
+<!-- CHILDHOOD SHOWS -->
+<!-- SKELETON LINE UP -->
+<!-- OTHERS -->
+<!-- MOVIES -->
+
 ![at intro](https://drive.google.com/uc?id=1i2zjztB1y1RiylKxxGi6NWFaAKV876mB)
 ![batty](https://drive.google.com/uc?id=1MpkihmCPAptsEWzZeTvIJCoJadOEOHLK)
 ![belongs in the trash](https://drive.google.com/uc?id=14a_MncmHjFj0FPxbo7VrBBDEOtF_Pap3)
@@ -601,6 +643,10 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 
 <p align="center"> <b>SILLY</b> </p>
 
+<!-- PNG -->
+<!-- GIF -->
+<!-- NONSENSE -->
+
 ![ant](https://drive.google.com/uc?id=1qJYp1RPCqdv077XeyOKV3WQWVH4i3uq4)
 ![avgn gun](https://drive.google.com/uc?id=1qsWhaMym7FN0qO-nAg_3jJEQ8bHv8YmS)
 ![burst nurst](https://drive.google.com/uc?id=10QNVOBcDxuZShN5jtP2g9UyekU6gj_-w)
@@ -638,6 +684,10 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 
 <p align="center"> <b>DA WEB</b> </p>
 
+<!-- OS -->
+<!-- REFERENCE -->
+<!-- AESTHETIC -->
+
 ![binary solo](https://drive.google.com/uc?id=12xaeQGC0BktPOqSCyV8k7ap8wWJ8BMu4)
 ![BSOD](https://drive.google.com/uc?id=12ojJ7pG_2IFz_KLv7NDQQLvCDwSZRTuZ)
 ![C:\_](https://drive.google.com/uc?id=1cq5LxH0uE4fOMpc3I1ZcusJwOsrUqc0v)
@@ -663,6 +713,7 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 ![y2k](https://drive.google.com/uc?id=1cJNz1mQH8MRBDzDxIPMaFUk5Ej_a1miE)
 
 <p align="center"> <b>MISC</b> </p>
+<!-- they're misc for a reason, don't got categories for em... -->
 
 ![cloud](https://drive.google.com/uc?id=1HQITWldTq6f5vMY2bqltLCcIDk909atJ)
 ![comics are art](https://drive.google.com/uc?id=1yuqzNfOKzbglHpCz4IGHOFugAmV6EMaK)
