@@ -206,11 +206,9 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 
 <details>
 <summary><b>Stamps</b></summary>
-
-<p align="center"><code>HEY HEY WAIT A SECOND!!!! I'm reworking my stamps right now, changing them from markdown to html to look more uniform... Also so you can hover over them to see the alt text.. Go on, give it a try with these first few stamps!! ^_^</code></p>
-<!-- <code>Are you seeing just the alt text for a stamp? Try reloading, or click the alt text to see it! None of my images are broken, Github just has a hard time loading them all in...</code> -->
-<br><br><blockquote><code>hey look at these stamps i made (f2u)</code></blockquote><br>
 <!-- <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/> -->
+<p align="center"><code>Are you seeing just the alt text for a stamp? Try reloading, or click the alt text to see it! None of my images are broken, Github just has a hard time loading them all in...</code></p>
+<br><blockquote><code>hey look at these stamps i made (f2u)</code></blockquote>
 <!-- TPoH -->
 <img src="https://drive.google.com/uc?id=1dvGv4HJdglrLWQfi3Bc_ysjIiHITiOld" title="Click" alt="Click" width=100px/>
 <img src="https://drive.google.com/uc?id=1w5txDNSavnymiXi_meqFHQ8t_fpuYDWK" title="RGB Suits" alt="RGB Suits" width=100px/>
@@ -254,7 +252,7 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=1ybaEBPkO1GBXP-GDfIdO_6juVflv6RKv" title="burger eat" alt="burger eat" width=100px/>
 <img src="https://drive.google.com/uc?id=1yi2HH60gtg4mhI50TniW7QTv6RSiRqk9" title="poopshitters" alt="poopshitters" width=100px/>
 <!-- VEX STAMPS -->
-<br><blockquote><code>check out these stamps my friend <a href="https://github.com/Vexuliii">Vexulii</a> made (f2u)</code></blockquote><br>
+<br><blockquote><code>check out these stamps my friend <a href="https://github.com/Vexuliii">Vexulii</a> made (f2u)</code></blockquote>
 <img src="https://drive.google.com/uc?id=1pjV8XaLZZDMMoyw2RWf5yU875Ah6Ra8b" title="manny stare" alt="manny stare" width=100px/>
 <img src="https://drive.google.com/uc?id=1RsDTksLyCxQg3y-j1iQeuXCx95T0GbxP" title="hanslap" alt="hanslap" width=100px/>
 <img src="https://drive.google.com/uc?id=1LAA5pjLDxPDiYChgzaTLq5HhywCXrTm-" title="hatty CHEER" alt="hatty CHEER" width=100px/>
@@ -272,7 +270,7 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=1MIuT5CT10_RhEqpqKnE-gbMK_KrVZXT0" title="danny dance" alt="danny dance" width=100px/>
 <img src="https://drive.google.com/uc?id=17_574WewpbgsUIlZc-nH9Fm0PQwkM4E9" title="ivor hapy" alt="ivor hapy" width=100px/>
 <img src="https://drive.google.com/uc?id=1vooK3qpz2RxrF_7CyKrrTviiVTFaTjE6" title="ivor snff" alt="ivor snff" width=100px/>
-<br><blockquote><blockquote><code>ALSO LOOK AT THE ONES VEX MADE FOR MY BDAY ^_^</code></blockquote></blockquote><br>
+<br><blockquote><blockquote><code>ALSO LOOK AT THE ONES VEX MADE FOR MY BDAY ^_^</code></blockquote></blockquote>
 <img src="https://drive.google.com/uc?id=12AL46RlXa53ELTlc586rVEM0NZuK5eG4" title="blue man shock" alt="blue man shock" width=100px/>
 <img src="https://drive.google.com/uc?id=1phipGyunah7em_ohJb3SI6IOI2w2ikaI" title="wayner sneeze" alt="wayner sneeze" width=100px/>
 <img src="https://drive.google.com/uc?id=1FUE0WXUp6Jjq9BVvzELgSOwhp6i-2fGB" title="waynerwhatsapp" alt="waynerwhatsapp" width=100px/>
@@ -281,10 +279,8 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=1eIl6GUcrU6BJXxOa_WQhhnF_pAL_gjug" title="'freaky baaulp'" alt="'freaky baaulp'" width=100px/>
 <img src="https://drive.google.com/uc?id=1Bz027NtEKhqkQPdfQSozLD6TlGagyx0j" title="bad boe jambo" alt="bad boe jamo" width=100px/>
 <img src="https://drive.google.com/uc?id=17Ef2XS96spYHQnK1wP1UAxcHhgQ-1vxl" title="baaulp death" alt="baaulp death" width=100px/>
-<br><br>
 <!-- EVERYTHING ELSE LOLZ -->
-<blockquote><code>ok... now here's some neither of us made</code></blockquote>
-<br><br>
+<br><blockquote><code>ok... now here's some neither of us made</code></blockquote>
 <p align="center"> <b>SELF</b><br><code>the ones that are so me!!</code> </p>
 <img src="https://drive.google.com/uc?id=1K9gCF0T1osVsnOS8gudq9W-3dmLm6fm2" title="support gaza" alt="support gaza" width=100px/>
 <!-- IDENTITIES -->
@@ -301,10 +297,6 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=1kqRF7_dh3bq-lg49YQqwKBW_CV1mXHYO" title="adhd" alt="adhd" width=100px/>
 <img src="https://drive.google.com/uc?id=1PqYqozsbjj7GptVYxIUl4VVlI6CKcxws" title="asd" alt="asd" width=100px/>
 <img src="https://drive.google.com/uc?id=17RSK3pyk4iKccAbJ_aUnwcZWIFWfxZmK" title="psst.. friends can have my simply plural..... if they ask....." alt="plural" width=100px/>
-<!-- BELIEFS -->
-<img src="https://drive.google.com/uc?id=11zhrwf19-t7uh22KLoDm827zenyL84GD" title="anti ai" alt="anti ai" width=100px/>
-<img src="https://drive.google.com/uc?id=1QCXvQ7mh3pJCMZ7a6NsBPQ9ByD1qWf-R" title="anti hit" alt="anti hit" width=100px/>
-<img src="https://drive.google.com/uc?id=1D2QfHCCYJnmdItR37CIhVaPMPzGFC6qf" title="hit as a 'cure'" alt="hit as a 'cure'" width=100px/>
 <!-- BOUNDARIES -->
 <img src="https://drive.google.com/uc?id=1wfBMmgVjouLrJr-bu-iRuU3KKT1qC8mb" title="no flirting" alt="no flirting" width=100px/>
 <img src="https://drive.google.com/uc?id=1_DsEE1hjGZCtsgNK1qxtnzEheegZ2FjQ" title="block creeps" alt="block creeps" width=100px/>
@@ -315,6 +307,7 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=1aJcwK2Ko1PnzNmrL-STAjiJV6T5wyqIm" title="heart meat" alt="heart meat" width=100px/>
 <img src="https://drive.google.com/uc?id=1ppfbWlHWHau4lXHEJujPuB5Y01TsZcmI" title="heart robots" alt="heart robots" width=100px/>
 <img src="https://drive.google.com/uc?id=1e-CeiumIGTiFrz4zjcSDp8RmYpYiddja" title="heart funnel cake" alt="heart funnel cake" width=100px/>
+<img src="https://drive.google.com/uc?id=19cCuh4oNNGa3WCF1GqsoQH38tEx-wj7W" title="piano heart" alt="piano heart" width=100px/>
 <img src="https://drive.google.com/uc?id=199n89Aql0syQupBG64FGK6daUNx1hBeR" title="apple lover" alt="apple lover" width=100px/>
 <img src="https://drive.google.com/uc?id=1sD5eOe0XXa4lb_WHQQYMwDhkIKUMelpQ" title="cheese lover" alt="cheese lover" width=100px/>
 <img src="https://drive.google.com/uc?id=1URz3rvL3REyNlr6GbnE2YIBpVbPzJqMi" title="potato love" alt="potato love" width=100px/>
@@ -350,6 +343,26 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=1S2ABXfAYgT-jc8y_htJ7gS-HSTMyW9Jl" title="summer pants" alt="summer pants" width=100px/>
 <img src="https://drive.google.com/uc?id=1gBPM6P9hBoC8WI9uB0B2da4Dexv--aLp" title="time machine" alt="time machine" width=100px/>
 <a href="https://bullet-math.tumblr.com/"><img src="https://drive.google.com/uc?id=1ivKBIDkS0HmWs77f958Mt7pQ-3O0Zzok" title="click me to go to my toobler" alt="on tumblr" width=100px/></a>
+<br><br>
+<p align="center"> <b>BELIEFS</b><br><code>in case it wasn't clear...</code> </p>
+<img src="https://drive.google.com/uc?id=11zhrwf19-t7uh22KLoDm827zenyL84GD" title="anti ai" alt="anti ai" width=100px/>
+<img src="https://drive.google.com/uc?id=1QCXvQ7mh3pJCMZ7a6NsBPQ9ByD1qWf-R" title="anti hit" alt="anti hit" width=100px/>
+<img src="https://drive.google.com/uc?id=1D2QfHCCYJnmdItR37CIhVaPMPzGFC6qf" title="hit as a 'cure'" alt="hit as a 'cure'" width=100px/>
+<img src="https://drive.google.com/uc?id=1yuqzNfOKzbglHpCz4IGHOFugAmV6EMaK" title="comics are art" alt="comics are art" width=100px/>
+<img src="https://drive.google.com/uc?id=1fVfKiH053hrIS0GTru9ruAJ3AKlZX7K0" title="cringe culture" alt="cringe culture" width=100px/>
+<img src="https://drive.google.com/uc?id=1Kz8aM9EmmfN8bSABAUk9njiRQHGyKY8h" title="cringe culture dead" alt="cringe culture dead" width=100px/>
+<img src="https://drive.google.com/uc?id=1dGosU2mjpfv0F2kLuJDzWyxRy0K7DlX9" title="die pedos" alt="die pedos" width=100px/>
+<img src="https://drive.google.com/uc?id=1Ilxfk9IxefMKMun23swU2XefyBpi3Xll" title="fuck terfs" alt="fuck terfs" width=100px/>
+<img src="https://drive.google.com/uc?id=1xSxVHd6OrphuwqiXXS0PJrdZQpjaw3zk" title="incest gross" alt="incest gross" width=100px/>
+<img src="https://drive.google.com/uc?id=1ZaJnhdgFGhUh4RErQbwdDU4QCUvdeCaY" title="kill pedos" alt="kill pedos" width=100px/>
+<img src="https://drive.google.com/uc?id=1S9Lj1uhgudZlIlfBp7z-D9Qyk3AlVpY3" title="no kid hug" alt="no kid hug" width=100px/>
+<img src="https://drive.google.com/uc?id=1KpCBfyXBMUPYCvLDxmQKqyE_RuBKtxua" title="no kid kiss" alt="no kid kiss" width=100px/>
+<img src="https://drive.google.com/uc?id=1_-P2_YPmJ4132h_epcpirTPozA8cMo6j" title="no pedos" alt="no pedos" width=100px/>
+<img src="https://drive.google.com/uc?id=191yXmy47iWYki8H2IblBJAcXar7F3T70" title="punch nzis" alt="punch nzis" width=100px/>
+<img src="https://drive.google.com/uc?id=1_aok7zxD-p1Rl52nKUiwf6QDvlOXvVuY" title="ship irl ppl gross" alt="ship irl ppl gross" width=100px/>
+<img src="https://drive.google.com/uc?id=1FGFpD9DcwxLp9py-VHjUYAYx2fPumUWW" title="terf hate" alt="terf hate" width=100px/>
+<img src="https://drive.google.com/uc?id=12D7fRCx7er3ms8nlRbLYn8HJT_4vah5_" title="us prison sys" alt="us prison sys" width=100px/>
+<img src="https://drive.google.com/uc?id=1cKYpEWaG4bJlrDzbcbTGrHr63fXycp99" title="young ppl disabled" alt="young ppl disabled" width=100px/>
 <br><br>
 <p align="center"> <b>^_^</b><br><code>i am so normal about these stamps...</code></p>
 <!-- TPoH -->
@@ -463,10 +476,10 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=1kYYT1020sJPktRRoLIHingQfh4GoiYG8" title="patlas 1" alt="patlas 1" width=100px/>
 <img src="https://drive.google.com/uc?id=1Y6F1NCHp0Um-AYx6llz7CXeq8FSqLOji" title="patlas 2" alt="patlas 2" width=100px/>
 <img src="https://drive.google.com/uc?id=1P83yLox0Xke4U44PGQXcelRkN22foTg8" title="portal 22" alt="portal 22" width=100px/>
-<img src="https://drive.google.com/uc?id=10InXKeidNgvPNPs6aKpl9pOruD-mJGVN" title="porthell" alt="porthell" width=100px/>
-<img src="https://drive.google.com/uc?id=1P3XPwtUxzetZK7_IptS4nLcyW0qFmOLT" title="potatos" alt="potatos" width=100px/>
 <img src="https://drive.google.com/uc?id=1KPPI867IMID-BKcijmpxucT81rK9Aq-b" title="ppbody 1" alt="ppbody 1" width=100px/>
 <img src="https://drive.google.com/uc?id=1NeOh4KyuHnnn3Q--HjAOIcP580Pe0tEB" title="ppbody 2" alt="ppbody 2" width=100px/>
+<img src="https://drive.google.com/uc?id=10InXKeidNgvPNPs6aKpl9pOruD-mJGVN" title="porthell" alt="porthell" width=100px/>
+<img src="https://drive.google.com/uc?id=1P3XPwtUxzetZK7_IptS4nLcyW0qFmOLT" title="potatos" alt="potatos" width=100px/>
 <img src="https://drive.google.com/uc?id=1l6XkUOJL2d4sFHI6DMEh1v06EyqJcUVU" title="still alive" alt="still alive" width=100px/>
 <img src="https://drive.google.com/uc?id=12sVq-EkaEHldvTP9zpsmFU2Cyk45bzLo" title="true friend" alt="true friend" width=100px/>
 <img src="https://drive.google.com/uc?id=1mov1vZy_S92dCr5APzVqLvMW9zkX8_0g" title="wethly crab" alt="wethly crab" width=100px/>
@@ -665,37 +678,21 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <p align="center"><b>MISC</b><br><code>neat stamps i couldn't categorise</code><br></p>
 <!-- they're misc for a reason, don't got categories for em... -->
 <img src="https://drive.google.com/uc?id=1HQITWldTq6f5vMY2bqltLCcIDk909atJ" title="cloud" alt="cloud" width=100px/>
-<img src="https://drive.google.com/uc?id=1yuqzNfOKzbglHpCz4IGHOFugAmV6EMaK" title="comics are art" alt="comics are art" width=100px/>
 <img src="https://drive.google.com/uc?id=1GyiBbCofFRIkQkt0LF2pgS6R-hbsHsSG" title="cosmic" alt="cosmic" width=100px/>
-<img src="https://drive.google.com/uc?id=1fVfKiH053hrIS0GTru9ruAJ3AKlZX7K0" title="cringe culture" alt="cringe culture" width=100px/>
-<img src="https://drive.google.com/uc?id=1Kz8aM9EmmfN8bSABAUk9njiRQHGyKY8h" title="cringe culture dead" alt="cringe culture dead" width=100px/>
-<img src="https://drive.google.com/uc?id=1dGosU2mjpfv0F2kLuJDzWyxRy0K7DlX9" title="die pedos" alt="die pedos" width=100px/>
 <img src="https://drive.google.com/uc?id=1ubANinUWgbDocpxJDChFOZFLsQe_bguL" title="the orb..." alt="the orb..." width=100px/>
-<img src="https://drive.google.com/uc?id=1Ilxfk9IxefMKMun23swU2XefyBpi3Xll" title="fuck terfs" alt="fuck terfs" width=100px/>
 <img src="https://drive.google.com/uc?id=1La6d9yCpKDpKlwW08Pu0hGXOJpf5ydKH" title="got to be a reason" alt="got to be a reason" width=100px/>
 <img src="https://drive.google.com/uc?id=110ieuZWZEa5-8LD359HR9WeOnznZ2fk8" title="history" alt="history" width=100px/>
 <img src="https://drive.google.com/uc?id=1xipeoGlDyIYmKccnFJ3_i1vsERbVUAcP" title="i'll kill you" alt="i'll kill you" width=100px/>
-<img src="https://drive.google.com/uc?id=1xSxVHd6OrphuwqiXXS0PJrdZQpjaw3zk" title="incest gross" alt="incest gross" width=100px/>
-<img src="https://drive.google.com/uc?id=1ZaJnhdgFGhUh4RErQbwdDU4QCUvdeCaY" title="kill pedos" alt="kill pedos" width=100px/>
-<img src="https://drive.google.com/uc?id=1S9Lj1uhgudZlIlfBp7z-D9Qyk3AlVpY3" title="no kid hug" alt="no kid hug" width=100px/>
-<img src="https://drive.google.com/uc?id=1KpCBfyXBMUPYCvLDxmQKqyE_RuBKtxua" title="no kid kiss" alt="no kid kiss" width=100px/>
-<img src="https://drive.google.com/uc?id=1_-P2_YPmJ4132h_epcpirTPozA8cMo6j" title="no pedos" alt="no pedos" width=100px/>
 <img src="https://drive.google.com/uc?id=1FeHNTmVVQrJn1TCtC5jR33BikHpTLV2L" title="ocs" alt="ocs" width=100px/>
-<img src="https://drive.google.com/uc?id=19cCuh4oNNGa3WCF1GqsoQH38tEx-wj7W" title="piano heart" alt="piano heart" width=100px/>
-<img src="https://drive.google.com/uc?id=191yXmy47iWYki8H2IblBJAcXar7F3T70" title="punch nzis" alt="punch nzis" width=100px/>
-<img src="https://drive.google.com/uc?id=1_aok7zxD-p1Rl52nKUiwf6QDvlOXvVuY" title="ship irl ppl gross" alt="ship irl ppl gross" width=100px/>
 <img src="https://drive.google.com/uc?id=126wWbD0Xmjw1W9I-_iaRPGqTxP9PnUpy" title="space" alt="space" width=100px/>
 <img src="https://drive.google.com/uc?id=1f6La5uyNd6CxC0okqOsvuZU1IkeGeAYz" title="stamps everywhere" alt="stamps everywhere" width=100px/>
 <img src="https://drive.google.com/uc?id=14n0tNBEJ60CtVlClIA4GKVAm6ydnPsfe" title="stars" alt="stars" width=100px/>
 <img src="https://drive.google.com/uc?id=1npevNYXzdAtZrkxWkmf540lGu4FSxgzN" title="stop dreaming" alt="stop dreaming" width=100px/>
-<img src="https://drive.google.com/uc?id=1FGFpD9DcwxLp9py-VHjUYAYx2fPumUWW" title="terf hate" alt="terf hate" width=100px/>
 <img src="https://drive.google.com/uc?id=14HGVXKcWHxECxS8sOX9WJKvYG9N9rQbD" title="totally rad" alt="totally rad" width=100px/>
 <img src="https://drive.google.com/uc?id=1Hru4eHHIBxO0lqOOa_v-1k0eGo02byGi" title="transparent" alt="transparent" width=100px/>
-<img src="https://drive.google.com/uc?id=12D7fRCx7er3ms8nlRbLYn8HJT_4vah5_" title="us prison sys" alt="us prison sys" width=100px/>
 <img src="https://drive.google.com/uc?id=1PHNAmHACmn1OgkB3-Wfhwb1mNQpfcabq" title="world premiere" alt="world premiere" width=100px/>
-<img src="https://drive.google.com/uc?id=1cKYpEWaG4bJlrDzbcbTGrHr63fXycp99" title="young ppl disabled" alt="young ppl disabled" width=100px/>
 <br>
-<img src="https://drive.google.com/uc?id=1Op-ySxN_CDvX3jxXhM7NgvZ6fIKzxk0V" title="thx 4 visiting" alt="thx 4 visiting" width=100px/>
+<p align="center"><img src="https://drive.google.com/uc?id=1Op-ySxN_CDvX3jxXhM7NgvZ6fIKzxk0V" title="thx 4 visiting" alt="thx 4 visiting" width=100px/></p>
 </details>
 
 <details>
