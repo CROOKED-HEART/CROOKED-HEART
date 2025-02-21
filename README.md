@@ -304,11 +304,11 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <!-- BELIEFS -->
 <img src="https://drive.google.com/uc?id=11zhrwf19-t7uh22KLoDm827zenyL84GD" title="anti ai" alt="anti ai" width=100px/>
 <img src="https://drive.google.com/uc?id=1QCXvQ7mh3pJCMZ7a6NsBPQ9ByD1qWf-R" title="anti hit" alt="anti hit" width=100px/>
+<img src="https://drive.google.com/uc?id=1D2QfHCCYJnmdItR37CIhVaPMPzGFC6qf" title="hit as a 'cure'" alt="hit as a 'cure'" width=100px/>
 <!-- BOUNDARIES -->
 <img src="https://drive.google.com/uc?id=1wfBMmgVjouLrJr-bu-iRuU3KKT1qC8mb" title="no flirting" alt="no flirting" width=100px/>
 <img src="https://drive.google.com/uc?id=1_DsEE1hjGZCtsgNK1qxtnzEheegZ2FjQ" title="block creeps" alt="block creeps" width=100px/>
 <img src="https://drive.google.com/uc?id=1nVbnTenbZ1KJ8lU2fyLhVQ9u7YRAxv_u" title="not a rehab center" alt="not a rehab center" width=100px/>
-<img src="https://drive.google.com/uc?id=1D2QfHCCYJnmdItR37CIhVaPMPzGFC6qf" title="hit as a 'cure'" alt="hit as a 'cure'" width=100px/>
 <!-- LOVER!! -->
 <img src="https://drive.google.com/uc?id=1eAZOJ4xmClOhuUUhJ7ZrQ-uUrwXifJDb" title="heart blue" alt="heart blue" width=100px/>
 <img src="https://drive.google.com/uc?id=1U1FPJ5p_VYJlvStHC7Zi4A7tiQmu2Z5l" title="heart choco" alt="heart choco" width=100px/>
@@ -674,46 +674,28 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=1Ilxfk9IxefMKMun23swU2XefyBpi3Xll" title="fuck terfs" alt="fuck terfs" width=100px/>
 <img src="https://drive.google.com/uc?id=1La6d9yCpKDpKlwW08Pu0hGXOJpf5ydKH" title="got to be a reason" alt="got to be a reason" width=100px/>
 <img src="https://drive.google.com/uc?id=110ieuZWZEa5-8LD359HR9WeOnznZ2fk8" title="history" alt="history" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-
-![i'll kill you](https://drive.google.com/uc?id=1xipeoGlDyIYmKccnFJ3_i1vsERbVUAcP)
-![incest gross](https://drive.google.com/uc?id=1xSxVHd6OrphuwqiXXS0PJrdZQpjaw3zk)
-![kill pedos](https://drive.google.com/uc?id=1ZaJnhdgFGhUh4RErQbwdDU4QCUvdeCaY)
-![no kid hug](https://drive.google.com/uc?id=1S9Lj1uhgudZlIlfBp7z-D9Qyk3AlVpY3)
-![no kid kiss](https://drive.google.com/uc?id=1KpCBfyXBMUPYCvLDxmQKqyE_RuBKtxua)
-![no pedos](https://drive.google.com/uc?id=1_-P2_YPmJ4132h_epcpirTPozA8cMo6j)
-![ocs](https://drive.google.com/uc?id=1FeHNTmVVQrJn1TCtC5jR33BikHpTLV2L)
-![piano heart](https://drive.google.com/uc?id=19cCuh4oNNGa3WCF1GqsoQH38tEx-wj7W)
-![punch nzis](https://drive.google.com/uc?id=191yXmy47iWYki8H2IblBJAcXar7F3T70)
-![ship irl ppl](https://drive.google.com/uc?id=1_aok7zxD-p1Rl52nKUiwf6QDvlOXvVuY)
-![space](https://drive.google.com/uc?id=126wWbD0Xmjw1W9I-_iaRPGqTxP9PnUpy)
-![stamps everywhere](https://drive.google.com/uc?id=1f6La5uyNd6CxC0okqOsvuZU1IkeGeAYz)
-![stars](https://drive.google.com/uc?id=14n0tNBEJ60CtVlClIA4GKVAm6ydnPsfe)
-![stop dreaming](https://drive.google.com/uc?id=1npevNYXzdAtZrkxWkmf540lGu4FSxgzN)
-![terf hate](https://drive.google.com/uc?id=1FGFpD9DcwxLp9py-VHjUYAYx2fPumUWW)
-![totally rad](https://drive.google.com/uc?id=14HGVXKcWHxECxS8sOX9WJKvYG9N9rQbD)
-![transparent](https://drive.google.com/uc?id=1Hru4eHHIBxO0lqOOa_v-1k0eGo02byGi)
-![us prison sys](https://drive.google.com/uc?id=12D7fRCx7er3ms8nlRbLYn8HJT_4vah5_)
-![world premiere](https://drive.google.com/uc?id=1PHNAmHACmn1OgkB3-Wfhwb1mNQpfcabq)
-![young ppl disabled](https://drive.google.com/uc?id=1cKYpEWaG4bJlrDzbcbTGrHr63fXycp99)
-
-![visiting](https://drive.google.com/uc?id=1Op-ySxN_CDvX3jxXhM7NgvZ6fIKzxk0V)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-![](https://drive.google.com/uc?id=)
-
+<img src="https://drive.google.com/uc?id=1xipeoGlDyIYmKccnFJ3_i1vsERbVUAcP" title="i'll kill you" alt="i'll kill you" width=100px/>
+<img src="https://drive.google.com/uc?id=1xSxVHd6OrphuwqiXXS0PJrdZQpjaw3zk" title="incest gross" alt="incest gross" width=100px/>
+<img src="https://drive.google.com/uc?id=1ZaJnhdgFGhUh4RErQbwdDU4QCUvdeCaY" title="kill pedos" alt="kill pedos" width=100px/>
+<img src="https://drive.google.com/uc?id=1S9Lj1uhgudZlIlfBp7z-D9Qyk3AlVpY3" title="no kid hug" alt="no kid hug" width=100px/>
+<img src="https://drive.google.com/uc?id=1KpCBfyXBMUPYCvLDxmQKqyE_RuBKtxua" title="no kid kiss" alt="no kid kiss" width=100px/>
+<img src="https://drive.google.com/uc?id=1_-P2_YPmJ4132h_epcpirTPozA8cMo6j" title="no pedos" alt="no pedos" width=100px/>
+<img src="https://drive.google.com/uc?id=1FeHNTmVVQrJn1TCtC5jR33BikHpTLV2L" title="ocs" alt="ocs" width=100px/>
+<img src="https://drive.google.com/uc?id=19cCuh4oNNGa3WCF1GqsoQH38tEx-wj7W" title="piano heart" alt="piano heart" width=100px/>
+<img src="https://drive.google.com/uc?id=191yXmy47iWYki8H2IblBJAcXar7F3T70" title="punch nzis" alt="punch nzis" width=100px/>
+<img src="https://drive.google.com/uc?id=1_aok7zxD-p1Rl52nKUiwf6QDvlOXvVuY" title="ship irl ppl gross" alt="ship irl ppl gross" width=100px/>
+<img src="https://drive.google.com/uc?id=126wWbD0Xmjw1W9I-_iaRPGqTxP9PnUpy" title="space" alt="space" width=100px/>
+<img src="https://drive.google.com/uc?id=1f6La5uyNd6CxC0okqOsvuZU1IkeGeAYz" title="stamps everywhere" alt="stamps everywhere" width=100px/>
+<img src="https://drive.google.com/uc?id=14n0tNBEJ60CtVlClIA4GKVAm6ydnPsfe" title="stars" alt="stars" width=100px/>
+<img src="https://drive.google.com/uc?id=1npevNYXzdAtZrkxWkmf540lGu4FSxgzN" title="stop dreaming" alt="stop dreaming" width=100px/>
+<img src="https://drive.google.com/uc?id=1FGFpD9DcwxLp9py-VHjUYAYx2fPumUWW" title="terf hate" alt="terf hate" width=100px/>
+<img src="https://drive.google.com/uc?id=14HGVXKcWHxECxS8sOX9WJKvYG9N9rQbD" title="totally rad" alt="totally rad" width=100px/>
+<img src="https://drive.google.com/uc?id=1Hru4eHHIBxO0lqOOa_v-1k0eGo02byGi" title="transparent" alt="transparent" width=100px/>
+<img src="https://drive.google.com/uc?id=12D7fRCx7er3ms8nlRbLYn8HJT_4vah5_" title="us prison sys" alt="us prison sys" width=100px/>
+<img src="https://drive.google.com/uc?id=1PHNAmHACmn1OgkB3-Wfhwb1mNQpfcabq" title="world premiere" alt="world premiere" width=100px/>
+<img src="https://drive.google.com/uc?id=1cKYpEWaG4bJlrDzbcbTGrHr63fXycp99" title="young ppl disabled" alt="young ppl disabled" width=100px/>
+<br>
+<img src="https://drive.google.com/uc?id=1Op-ySxN_CDvX3jxXhM7NgvZ6fIKzxk0V" title="thx 4 visiting" alt="thx 4 visiting" width=100px/>
 </details>
 
 <details>
