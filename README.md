@@ -208,7 +208,7 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <summary><b>Stamps</b></summary>
 
 <p align="center"><code>HEY HEY WAIT A SECOND!!!! I'm reworking my stamps right now, changing them from markdown to html to look more uniform... Also so you can hover over them to see the alt text.. Go on, give it a try with these first few stamps!! ^_^</code></p>
-<code>Are you seeing just the alt text for a stamp? Try reloading, or open the image in a new tab if you wanna see it! None of my images are broken, Github just has a hard time loading them all in...</code>
+<!-- <code>Are you seeing just the alt text for a stamp? Try reloading, or open the image in a new tab if you wanna see it! None of my images are broken, Github just has a hard time loading them all in...</code> -->
   
 > `hey look at these stamps i made (f2u)`
 <!-- Beginning the long process of converting these from markdown to html.. -->
@@ -358,43 +358,35 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 
 <p align="center"> <b>^_^</b><br><code>i am so normal about these stamps...</code></p>
 <!-- TPoH -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<!-- RTVS -->
-<img src="https://drive.google.com/uc?id=1WclsoKrDlzfydz_jOFYsFOqJAvDxu8Fz" title="challenge failed" alt="challenge failed" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+<img src="https://drive.google.com/uc?id=1r3Kk_F5hIeGUxxveU9k_RPU_R_V_ytso" title="rgb negative" alt="rgb negative" width=100px/>
 <!-- THD -->
 <!-- and this is where I would put my thd stamps... IF I HAD ANY!!! -->
+<!-- RTVS -->
+<img src="https://drive.google.com/uc?id=1WclsoKrDlzfydz_jOFYsFOqJAvDxu8Fz" title="challenge failed" alt="challenge failed" width=100px/>
+<img src="https://drive.google.com/uc?id=1wEo3LaLceKd_PCibcIJLxZGwPgvz3lL8" title="concerning" alt="concerning" width=100px/>
+<img src="https://drive.google.com/uc?id=19IEIFApnV2mt3lp2WOtWad_3ZsV1iJU3" title="gameclam evolve" alt="gameclam evolve" width=100px/>
+<img src="https://drive.google.com/uc?id=14rC4j4dCCgAaeU5KMFQ4uHpseDVzimQ1" title="mr whyte fan" alt="mr whyte fan" width=100px/>
+<img src="https://drive.google.com/uc?id=1KKmo6g-sZ_gnx7KXzG8GJc4jJBZ0M1Zm" title="sopen rice" alt="sopen rice" width=100px/>
+<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <!-- CHAOS -->
 <img src="https://drive.google.com/uc?id=1kfHyTWK-7dyF192PhSuN_6AnJT1pAqgv" title="chaos support" alt="chaos support" width=100px/>
 <img src="https://drive.google.com/uc?id=1ac-L5FtOikQMl-xzj0H2ndesi2Pjo5bu" title="chaos theory" alt="chaos theory" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-
-![concerning](https://drive.google.com/uc?id=1wEo3LaLceKd_PCibcIJLxZGwPgvz3lL8)
-![discordia](https://drive.google.com/uc?id=1ys9VEVBUMeDNScm-VVC7xWunLvJZcyR8)
-![gameclam evolve](https://drive.google.com/uc?id=19IEIFApnV2mt3lp2WOtWad_3ZsV1iJU3)
-![greyface](https://drive.google.com/uc?id=1QakGuWDzzDE0YeywQ0JtVgdLYxA2ijp-)
-![hail eris](https://drive.google.com/uc?id=1AD1toi1iFWdIGiO16Y76x-8Ry1SRZnG2)
-![mandelbrot](https://drive.google.com/uc?id=1CtFacQtCz2WQKtVC3zfc-MR9WdGA50hx)
-![math beauty](https://drive.google.com/uc?id=1oeJtoP4shGWaTFLxNnHSEhnS4ibptaoi)
-![mr whyte fan](https://drive.google.com/uc?id=14rC4j4dCCgAaeU5KMFQ4uHpseDVzimQ1)
-![only certainty](https://drive.google.com/uc?id=13yFLGUa3LlmFG4qTMrARgMQqGnhRxpTQ)
-![rgb negative](https://drive.google.com/uc?id=1r3Kk_F5hIeGUxxveU9k_RPU_R_V_ytso)
-![sopen rice](https://drive.google.com/uc?id=1KKmo6g-sZ_gnx7KXzG8GJc4jJBZ0M1Zm)
-
+<img src="https://drive.google.com/uc?id=1ys9VEVBUMeDNScm-VVC7xWunLvJZcyR8" title="discordia" alt="discordia" width=100px/>
+<img src="https://drive.google.com/uc?id=1QakGuWDzzDE0YeywQ0JtVgdLYxA2ijp-" title="greyface" alt="greyface" width=100px/>
+<img src="https://drive.google.com/uc?id=1AD1toi1iFWdIGiO16Y76x-8Ry1SRZnG2" title="hail eris" alt="hail eris" width=100px/>
+<img src="https://drive.google.com/uc?id=1CtFacQtCz2WQKtVC3zfc-MR9WdGA50hx" title="mandelbrot" alt="mandelbrot" width=100px/>
+<img src="https://drive.google.com/uc?id=1oeJtoP4shGWaTFLxNnHSEhnS4ibptaoi" title="math beauty" alt="math beauty" width=100px/>
+<img src="https://drive.google.com/uc?id=13yFLGUa3LlmFG4qTMrARgMQqGnhRxpTQ" title="only certainty" alt="only certainty" width=100px/>
+<br><br>
 <p align="center"> <b>MUSIC</b><br><code>TURN UP THE VOLUME!!!</code></p>
-
 <!-- WILL WOOD -->
+<img src="https://drive.google.com/uc?id=1zmArnDL1AcG78PbhiLbZQYDvwxNezVqC" title="eial" alt="eial" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+
+![heart icimi](https://drive.google.com/uc?id=1lmFdsjY1rl0Bz6fNcib6_a-brHotnfq9)
 <!-- OINGO BOINGO -->
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
@@ -424,10 +416,8 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 ![cosmo alb](https://drive.google.com/uc?id=1jbhxNFAniJRSMEWleh1Sf-MzZitMWVmt)
 ![cosmo sheldrake](https://drive.google.com/uc?id=1FirqiZCTG4qO3fSWHR9EvZubmNBA-Y5s)
 ![echo](https://drive.google.com/uc?id=1XOfUAc-6ksqf_d-FlK32IRvPlyq86Rix)
-![eial](https://drive.google.com/uc?id=1zmArnDL1AcG78PbhiLbZQYDvwxNezVqC)
 ![gay spirit](https://drive.google.com/uc?id=1KgSLjCPc2O2aDThYRIsTcjM8PUDUt5cd)
 ![hawaii pt2](https://drive.google.com/uc?id=1Gz-Qj7zb_Pa53n44_PFTKMad2LgX2efT)
-![heart icimi](https://drive.google.com/uc?id=1lmFdsjY1rl0Bz6fNcib6_a-brHotnfq9)
 ![ld ref](https://drive.google.com/uc?id=1qxJdhpPoWbJhOAOoKS5G14do4mORvPNS)
 ![lewis](https://drive.google.com/uc?id=1CpBw_pCUxCeO09QEI4bpMQPfVcJ3c6A4)
 ![lifeline music](https://drive.google.com/uc?id=1RWi5Vs-WNikidYziB3JD8TRi_c6U0Q9Q)
