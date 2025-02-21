@@ -525,144 +525,76 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=1B30NofWlWn_P_FsOv9zjDwfZsEsuViwH" title="tv error" alt="tv error" width=100px/>
 <img src="https://drive.google.com/uc?id=1KPkD6LuflaR16wvvV6GT19Yh0nyz5bcA" title="tv trip" alt="tv trip" width=100px/>
 <!-- GRAVITY FALLS -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-
-![bill statue](https://drive.google.com/uc?id=1Sk1cZDQMDtpnZydP5UD5uYvxqTw91YXn)
-![gf ford](https://drive.google.com/uc?id=1YbgS-Oq2A93zFHMuN6iVEkkyNFw21Di9)
-![gf dipper](https://drive.google.com/uc?id=19xgzVgMzXTc1t7p7y-FQQigeBzjnYTXW)
-![gf mabel](https://drive.google.com/uc?id=19-9AY45Ft--P8qy4vLWhWYJk8Cako2Oi)
-![gf stan](https://drive.google.com/uc?id=1r-lzrbFlLDbh0hxbwUJjR8NjoB8Fiuft)
-![gf waddles](https://drive.google.com/uc?id=1qjioGGgfToi7IGD7hHsq1bErPx4vf117)
-![gf weird intro](https://drive.google.com/uc?id=10MWYpVwkyyPhzMnNG6iTB5Ej-vMQF9RM)
-![giffany](https://drive.google.com/uc?id=1UsY8fACveUKY3yDnny-5MdEnKgDik8Kz)
-![waddles prez](https://drive.google.com/uc?id=1D48kfMptBUNZI5ptWSo5fymnxQ2PYmox)
+<img src="https://drive.google.com/uc?id=19xgzVgMzXTc1t7p7y-FQQigeBzjnYTXW" title="gf dipper" alt="gf dipper" width=100px/>
+<img src="https://drive.google.com/uc?id=19-9AY45Ft--P8qy4vLWhWYJk8Cako2Oi" title="gf mabel" alt="gf mabel" width=100px/>
+<img src="https://drive.google.com/uc?id=1r-lzrbFlLDbh0hxbwUJjR8NjoB8Fiuft" title="gf stan" alt="gf stan" width=100px/>
+<img src="https://drive.google.com/uc?id=1YbgS-Oq2A93zFHMuN6iVEkkyNFw21Di9" title="gf ford" alt="gf ford" width=100px/>
+<img src="https://drive.google.com/uc?id=1qjioGGgfToi7IGD7hHsq1bErPx4vf117" title="gf waddles" alt="gf waddles" width=100px/>
+<img src="https://drive.google.com/uc?id=1D48kfMptBUNZI5ptWSo5fymnxQ2PYmox" title="waddles prez" alt="waddles prez" width=100px/>
+<img src="https://drive.google.com/uc?id=1UsY8fACveUKY3yDnny-5MdEnKgDik8Kz" title="giffany" alt="giffany" width=100px/>
+<img src="https://drive.google.com/uc?id=1Sk1cZDQMDtpnZydP5UD5uYvxqTw91YXn" title="bill statue" alt="bill statue" width=100px/>
+<img src="https://drive.google.com/uc?id=10MWYpVwkyyPhzMnNG6iTB5Ej-vMQF9RM" title="gf weird intro" alt="gf weird intro" width=100px/>
 <!-- REGULAR SHOW -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-
-![milk cereal combine](https://drive.google.com/uc?id=1miS49Qn_2tYDPUNoNoGOV8p9Gw3cGUkg)
-![reg show](https://drive.google.com/uc?id=1qJgXChzSTYUgKMj92yV6d1sa-un3UMqB)
-![rigleen](https://drive.google.com/uc?id=161Zk87jvz2UD0UwQYOx3WLL-a6ZR4OsC)
-![youre fired](https://drive.google.com/uc?id=1EzPBeNJFPXVBNx5CkTRD6SDuuYZ73HC_)
+<img src="https://drive.google.com/uc?id=1miS49Qn_2tYDPUNoNoGOV8p9Gw3cGUkg" title="milk cereal combine" alt="milk cereal combine" width=100px/>
+<img src="https://drive.google.com/uc?id=1qJgXChzSTYUgKMj92yV6d1sa-un3UMqB" title="reg show" alt="reg show" width=100px/>
+<img src="https://drive.google.com/uc?id=161Zk87jvz2UD0UwQYOx3WLL-a6ZR4OsC" title="rigleen" alt="rigleen" width=100px/>
+<img src="https://drive.google.com/uc?id=1EzPBeNJFPXVBNx5CkTRD6SDuuYZ73HC_" title="youre fired" alt="youre fired" width=100px/>
 <!-- MLP -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-
-![discor](https://drive.google.com/uc?id=1r7tpjsWjHj_jumBPUffRp0KViHm3rdR6)
-![discord mosaic](https://drive.google.com/uc?id=1MncCnfj3mfHQPDagGccWRR92chNBtuiY)
-![mlp error](https://drive.google.com/uc?id=1a6bLHjfF6EITxBIc_Yi8t4mIvDLvFKI1)
-![octavia](https://drive.google.com/uc?id=1kD9b5kJgFGjA0M8aLdTfxmIHaMJzHJfl)
-![pinkie](https://drive.google.com/uc?id=1Wt-9Fch4gYsidhM9mhqmjhx-Y7vvJjia)
-![pp bounce](https://drive.google.com/uc?id=1TJT5_YKHtg1goUre0WPx7Uq2mJF2fE-U)
-![pp mark](https://drive.google.com/uc?id=1BC9humOxSsDmnfCIeyy1hdmqFw16uJ5d)
+<img src="https://drive.google.com/uc?id=1r7tpjsWjHj_jumBPUffRp0KViHm3rdR6" title="discor" alt="discor" width=100px/>
+<img src="https://drive.google.com/uc?id=1MncCnfj3mfHQPDagGccWRR92chNBtuiY" title="discord mosaic" alt="discord mosaic" width=100px/>
+<img src="https://drive.google.com/uc?id=1Wt-9Fch4gYsidhM9mhqmjhx-Y7vvJjia" title="pinkie" alt="pinkie" width=100px/>
+<img src="https://drive.google.com/uc?id=1TJT5_YKHtg1goUre0WPx7Uq2mJF2fE-U" title="pp bounce" alt="pp bounce" width=100px/>
+<img src="https://drive.google.com/uc?id=1BC9humOxSsDmnfCIeyy1hdmqFw16uJ5d" title="pp mark" alt="pp mark" width=100px/>
+<img src="https://drive.google.com/uc?id=1kD9b5kJgFGjA0M8aLdTfxmIHaMJzHJfl" title="octavia" alt="octavia" width=100px/>
+<img src="https://drive.google.com/uc?id=1a6bLHjfF6EITxBIc_Yi8t4mIvDLvFKI1" title="mlp error" alt="mlp error" width=100px/>
 <!-- SPONGEBOB -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-
-![belongs in the trash](https://drive.google.com/uc?id=14a_MncmHjFj0FPxbo7VrBBDEOtF_Pap3)
-![bubble buddy slurp](https://drive.google.com/uc?id=1F79HrL1Hd9E1vQyRegeynXLIbQdG5dDD)
-![chocolate](https://drive.google.com/uc?id=1LcYgoeuae6KUOWRazFpC0nqMW1BHhIAm)
-![gooberberry](https://drive.google.com/uc?id=161UkwxYBps1dVkuvykyJrT40EyI6Xhac)
-![HEUENGHHHH](https://drive.google.com/uc?id=1do_X3ZwgjZQcf5C187_SKLNZos7bBn3q)
-![kill everyone](https://drive.google.com/uc?id=1bFf6u_WSkbdMO-KwHyPRckp-vet1_ETF)
-![my eyes](https://drive.google.com/uc?id=1uJw9CWN1rxfmRcv7ZuOTu9yFi-HGYCWx)
-![nothing check](https://drive.google.com/uc?id=1eE9ne2xQ0R9XDPHDPbWIrC5MMRJXqesf)
-![patrick look](https://drive.google.com/uc?id=1oOucRfburV0YjKTzZ9SJIOK0EVqZGszc)
-![reef blower](https://drive.google.com/uc?id=1whX4vfM784R0dmv8AgojrKOBqGaL4-y3)
-![sb dolla](https://drive.google.com/uc?id=1Fi_Bo6OSK5QaXS_NcPtm59YVo-re5q4F)
-![sbob](https://drive.google.com/uc?id=1lVRU-nszXWu-YhdhlGWtvM6H4HknL78L)
-![shopping list](https://drive.google.com/uc?id=1O330G3HKe4b48xpX2fWD1N5iNKkf6qR3)
-![weesnaw](https://drive.google.com/uc?id=144dLOVDsogwgMXnJvHyhKy0gCrIK5KDZ)
+<img src="https://drive.google.com/uc?id=14a_MncmHjFj0FPxbo7VrBBDEOtF_Pap3" title="belongs in the trash" alt="belongs in the trash" width=100px/>
+<img src="https://drive.google.com/uc?id=1F79HrL1Hd9E1vQyRegeynXLIbQdG5dDD" title="bubble buddy slurp" alt="bubble buddy slurp" width=100px/>
+<img src="https://drive.google.com/uc?id=1LcYgoeuae6KUOWRazFpC0nqMW1BHhIAm" title="chocolate" alt="chocolate" width=100px/>
+<img src="https://drive.google.com/uc?id=161UkwxYBps1dVkuvykyJrT40EyI6Xhac" title="gooberberry" alt="gooberberry" width=100px/>
+<img src="https://drive.google.com/uc?id=1do_X3ZwgjZQcf5C187_SKLNZos7bBn3q" title="HEUENGHHHH" alt="HEUENGHHHH" width=100px/>
+<img src="https://drive.google.com/uc?id=1bFf6u_WSkbdMO-KwHyPRckp-vet1_ETF" title="kill everyone" alt="kill everyone" width=100px/>
+<img src="https://drive.google.com/uc?id=1uJw9CWN1rxfmRcv7ZuOTu9yFi-HGYCWx" title="my eyes" alt="my eyes" width=100px/>
+<img src="https://drive.google.com/uc?id=1eE9ne2xQ0R9XDPHDPbWIrC5MMRJXqesf" title="nothing check" alt="nothing check" width=100px/>
+<img src="https://drive.google.com/uc?id=1oOucRfburV0YjKTzZ9SJIOK0EVqZGszc" title="patrick look" alt="patrick look" width=100px/>
+<img src="https://drive.google.com/uc?id=1whX4vfM784R0dmv8AgojrKOBqGaL4-y3" title="reef blower" alt="reef blower" width=100px/>
+<img src="https://drive.google.com/uc?id=1Fi_Bo6OSK5QaXS_NcPtm59YVo-re5q4F" title="sb dolla" alt="sb dolla" width=100px/>
+<img src="https://drive.google.com/uc?id=1lVRU-nszXWu-YhdhlGWtvM6H4HknL78L" title="sbob" alt="sbob" width=100px/>
+<img src="https://drive.google.com/uc?id=1O330G3HKe4b48xpX2fWD1N5iNKkf6qR3" title="shopping list" alt="shopping list" width=100px/>
+<img src="https://drive.google.com/uc?id=144dLOVDsogwgMXnJvHyhKy0gCrIK5KDZ" title="weesnaw" alt="weesnaw" width=100px/>
 <!-- CHILDHOOD SHOWS -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-
-![at intro](https://drive.google.com/uc?id=1i2zjztB1y1RiylKxxGi6NWFaAKV876mB)
-![chowder](https://drive.google.com/uc?id=1c6aAc5YM-TjCGsRNvsqGG4Fxh0FVeI6o)
-![courage fan](https://drive.google.com/uc?id=1HDk6fO-akFsm7SZT4NqpYpwj8ZzYEgyT)
-![dominator](https://drive.google.com/uc?id=18h01xYqgU0fLxWN6m2A_85Vs5vARtDBX)
-![peepers fan](https://drive.google.com/uc?id=1Ox_GISitYb4Ua2b60mnMvA-ouYGcOXGr)
-![doofenshmirtz evil inc.](https://drive.google.com/uc?id=1XcZtLXaSJU3bf2q5dTAxjqWEUvt-U10q)
-![ed edd n eddy sfx](https://drive.google.com/uc?id=1qyZaixJLBE_LhoOptvwUWEGaJxmxGCqG)
-![making fiends](https://drive.google.com/uc?id=1ngSd0z1KFcOsX3U_Co605Z-MAlih22uH)
-![kermit bite](https://drive.google.com/uc?id=1KQ394IUsA9H32VnWNjdBaQBGR4ylrxzd)
-![pucca](https://drive.google.com/uc?id=1OZMmicQ0WLwgZJUeAf6nhxVCv8pWnh1p)
-![teen titans](https://drive.google.com/uc?id=1JUJlSatg8J52uTXh9DTtlx1xhVKM8AEt)
+<img src="https://drive.google.com/uc?id=1i2zjztB1y1RiylKxxGi6NWFaAKV876mB" title="at intro" alt="at intro" width=100px/>
+<img src="https://drive.google.com/uc?id=1c6aAc5YM-TjCGsRNvsqGG4Fxh0FVeI6o" title="chowder" alt="chowder" width=100px/>
+<img src="https://drive.google.com/uc?id=1HDk6fO-akFsm7SZT4NqpYpwj8ZzYEgyT" title="courage fan" alt="courage fan" width=100px/>
+<img src="https://drive.google.com/uc?id=18h01xYqgU0fLxWN6m2A_85Vs5vARtDBX" title="dominator" alt="dominator" width=100px/>
+<img src="https://drive.google.com/uc?id=1Ox_GISitYb4Ua2b60mnMvA-ouYGcOXGr" title="peepers fan" alt="peepers fan" width=100px/>
+<img src="https://drive.google.com/uc?id=1XcZtLXaSJU3bf2q5dTAxjqWEUvt-U10q" title="doofenshmirtz evil inc." alt="doofenshmirtz evil inc." width=100px/>
+<img src="https://drive.google.com/uc?id=1qyZaixJLBE_LhoOptvwUWEGaJxmxGCqG" title="ed edd n eddy sfx" alt="ed edd n eddy sfx" width=100px/>
+<img src="https://drive.google.com/uc?id=1ngSd0z1KFcOsX3U_Co605Z-MAlih22uH" title="making fiends" alt="making fiends" width=100px/>
+<img src="https://drive.google.com/uc?id=1KQ394IUsA9H32VnWNjdBaQBGR4ylrxzd" title="kermit bite" alt="kermit bite" width=100px/>
+<img src="https://drive.google.com/uc?id=1OZMmicQ0WLwgZJUeAf6nhxVCv8pWnh1p" title="pucca" alt="pucca" width=100px/>
+<img src="https://drive.google.com/uc?id=1JUJlSatg8J52uTXh9DTtlx1xhVKM8AEt" title="teen titans" alt="teen titans" width=100px/>
 <!-- SKELETON LINE UP -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-
-![skele dance](https://drive.google.com/uc?id=14ausMstFxXOV5P_E5jAzFUdN2QvB1nG2)
-![skele dance 2](https://drive.google.com/uc?id=1HA9dS61PcHkF67l6-utWgg2WfLXg1egV)
-![skull throw](https://drive.google.com/uc?id=1iBe8IHyJffYJsoPgSEllACAKNnuzT_2P)
+<img src="https://drive.google.com/uc?id=14ausMstFxXOV5P_E5jAzFUdN2QvB1nG2" title="skele dance" alt="skele dance" width=100px/>
+<img src="https://drive.google.com/uc?id=1HA9dS61PcHkF67l6-utWgg2WfLXg1egV" title="skele dance 2" alt="skele dance 2" width=100px/>
+<img src="https://drive.google.com/uc?id=1iBe8IHyJffYJsoPgSEllACAKNnuzT_2P" title="skull throw" alt="skull throw" width=100px/>
 <!-- OTHERS -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-
-![cesare](https://drive.google.com/uc?id=1gdQGjOa9ctZQaHw5m9TP3LQuGaHS1mko)
-![mp100 mob](https://drive.google.com/uc?id=1DucnrJG-W1CVTjcGz3u3t689OUwqpw7A)
-![nnsg](https://drive.google.com/uc?id=1HuKTCEeNNURAQuID0SPd_J9wmJfOkBlv)
-![nya rawr](https://drive.google.com/uc?id=1u3_KJKwNi5unsxAfM6ocrSUBD7M6su_h)
-![pizza throw](https://drive.google.com/uc?id=1WL4hpBltXqpq3AMpWr-BpTtcJ6Y_rR3p)
-![robin go crazy](https://drive.google.com/uc?id=1h6MyXJcfpFjWnryqpwUtLIfgpvTKJfQG)
+<img src="https://drive.google.com/uc?id=1gdQGjOa9ctZQaHw5m9TP3LQuGaHS1mko" title="cesare" alt="cesare" width=100px/>
+<img src="https://drive.google.com/uc?id=1DucnrJG-W1CVTjcGz3u3t689OUwqpw7A" title="mp100 mob" alt="mp100 mob" width=100px/>
+<img src="https://drive.google.com/uc?id=1HuKTCEeNNURAQuID0SPd_J9wmJfOkBlv" title="nnsg" alt="nnsg" width=100px/>
+<img src="https://drive.google.com/uc?id=1u3_KJKwNi5unsxAfM6ocrSUBD7M6su_h" title="nya rawr" alt="nya rawr" width=100px/>
+<img src="https://drive.google.com/uc?id=1WL4hpBltXqpq3AMpWr-BpTtcJ6Y_rR3p" title="pizza throw" alt="pizza throw" width=100px/>
+<img src="https://drive.google.com/uc?id=1h6MyXJcfpFjWnryqpwUtLIfgpvTKJfQG" title="robin go crazy" alt="robin go crazy" width=100px/>
 <!-- MOVIES -->
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
-
-![batty](https://drive.google.com/uc?id=1MpkihmCPAptsEWzZeTvIJCoJadOEOHLK)
-![book of life mwah](https://drive.google.com/uc?id=1H9zOwgM1wjlub0B9foN0FeMfg1OKamJR)
-![coraline tilt](https://drive.google.com/uc?id=1Byp8Qovl6InPeDXR5LEeUIOcIp3xZqt4)
-![emoji movie anti](https://drive.google.com/uc?id=1jz6dyVD0bh_vW8FjVDrvLXCzc-6FLQjH)
-![prince of egypt](https://drive.google.com/uc?id=1Z7qyheRhvKhV5oCKRKRg79c8hwsjm4O8)
-![that thing](https://drive.google.com/uc?id=1DUMCw81vCyx5xHCvCZKQUMMF7eEMzr8E)
-![tiana browse](https://drive.google.com/uc?id=1gcAhGkVodVz78DZuqsWnKx0bSIGsdKg_)
+<img src="https://drive.google.com/uc?id=1MpkihmCPAptsEWzZeTvIJCoJadOEOHLK" title="batty" alt="batty" width=100px/>
+<img src="https://drive.google.com/uc?id=1H9zOwgM1wjlub0B9foN0FeMfg1OKamJR" title="book of life mwah" alt="book of life mwah" width=100px/>
+<img src="https://drive.google.com/uc?id=1Byp8Qovl6InPeDXR5LEeUIOcIp3xZqt4" title="coraline tilt" alt="coraline tilt" width=100px/>
+<img src="https://drive.google.com/uc?id=1jz6dyVD0bh_vW8FjVDrvLXCzc-6FLQjH" title="emoji movie anti" alt="emoji movie anti" width=100px/>
+<img src="https://drive.google.com/uc?id=1Z7qyheRhvKhV5oCKRKRg79c8hwsjm4O8" title="prince of egypt" alt="prince of egypt" width=100px/>
+<img src="https://drive.google.com/uc?id=1DUMCw81vCyx5xHCvCZKQUMMF7eEMzr8E" title="that thing" alt="that thing" width=100px/>
+<img src="https://drive.google.com/uc?id=1gcAhGkVodVz78DZuqsWnKx0bSIGsdKg_" title="tiana browse" alt="tiana browse" width=100px/>
 <br><br>
-<p align="center"> <b>SILLY</b> </p>
+<p align="center"><b>SILLY</b><br><code>heehee hoohoo!!</code></p>
 <!-- PNG -->
 <!-- GIF -->
 <!-- NONSENSE -->
