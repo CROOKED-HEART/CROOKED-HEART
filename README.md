@@ -354,12 +354,12 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 <img src="https://drive.google.com/uc?id=1r3Kk_F5hIeGUxxveU9k_RPU_R_V_ytso" title="rgb negative" alt="rgb negative" width=100px/>
 <!-- THD -->
 <!-- and this is where I would put my thd stamps... IF I HAD ANY!!! -->
-<!-- RTVS -->roogle.com/uc?id=1WclsoKrDlzfydz_jOFYsFOqJAvDxu8Fz" title="challenge failed" alt="challenge failed" width=100px/>
+<!-- RTVS -->
+<img src="https://drive.google.com/uc?id=1WclsoKrDlzfydz_jOFYsFOqJAvDxu8Fz" title="challenge failed" alt="challenge failed" width=100px/>
 <img src="https://drive.google.com/uc?id=1wEo3LaLceKd_PCibcIJLxZGwPgvz3lL8" title="concerning" alt="concerning" width=100px/>
 <img src="https://drive.google.com/uc?id=19IEIFApnV2mt3lp2WOtWad_3ZsV1iJU3" title="gameclam evolve" alt="gameclam evolve" width=100px/>
 <img src="https://drive.google.com/uc?id=14rC4j4dCCgAaeU5KMFQ4uHpseDVzimQ1" title="mr whyte fan" alt="mr whyte fan" width=100px/>
 <img src="https://drive.google.com/uc?id=1KKmo6g-sZ_gnx7KXzG8GJc4jJBZ0M1Zm" title="sopen rice" alt="sopen rice" width=100px/>
-<img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
 <!-- CHAOS -->
 <img src="https://drive.google.com/uc?id=1kfHyTWK-7dyF192PhSuN_6AnJT1pAqgv" title="chaos support" alt="chaos support" width=100px/>
 <img src="https://drive.google.com/uc?id=1ac-L5FtOikQMl-xzj0H2ndesi2Pjo5bu" title="chaos theory" alt="chaos theory" width=100px/>
