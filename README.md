@@ -697,9 +697,11 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
 
 <details>
 <summary><b>Blinkies</b></summary>
-  
-  In progress... but here's a blinkie that came with my bday stamps >_<
-  ![best blinkie ever made](https://drive.google.com/uc?id=1NBQB5kTAEiqRM3ZYiTD8O3A4vy80tcPt)   
+<!-- WHAT!? bitch actually finishing its blinkie collection?? UNHEARD OF -->
+<!-- <img src="https://drive.google.com/uc?id=" title="" alt="" width=150px/> -->
+In progress... but here's a blinkie that came with my bday stamps ^_^
+<br>
+<img src="https://drive.google.com/uc?id=1NBQB5kTAEiqRM3ZYiTD8O3A4vy80tcPt" title="best blinkie ever made" alt="best blinkie ever made" width=150px/>
   
 </details>
 
