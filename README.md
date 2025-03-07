@@ -163,6 +163,8 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
       * Breaking Bad<br>
       * Wander Over Yonder<br>
       * Chowder<br>
+      * Invincible (+ Comics)<br>
+      * Eltingville (+ Comics)<br>
       * Mob Psycho 100<br>
     </td>
     <td> <!---Web Series-->
