@@ -4,7 +4,7 @@
 
 <a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1wh2BR8GXRWLoZsirwb6ZBiOIkNWN5oUK" alt="ata" height="31px" title="CLICK FOR ATABOOK" ></a>
 
-<a href="www.last.fm/user/lectricstat"><img src="https://drive.google.com/uc?id=1jCp0KcS8P4kDixLNT60wtm56gcP0gueT" alt="lastfm" height="31px" title="CLICK FOR LAST.FM" ></a>
+<a href="https://last.fm/user/lectricstat"><img src="https://drive.google.com/uc?id=1jCp0KcS8P4kDixLNT60wtm56gcP0gueT" alt="lastfm" height="31px" title="CLICK FOR LAST.FM" ></a>
 
 
 <img src="https://drive.google.com/uc?id=1fsxLTSCtuf83SFIpPl9ESY88pKBwW2fa" alt="ypas sgc" height="150px">
