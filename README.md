@@ -17,7 +17,7 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
   <br>
   <code><b>This Readme is based on the album <a href="https://open.spotify.com/album/6dyanjhuSgFsPPVtFzugcr">Exploitopia</a> by <a href="https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT">That Handsome Devil</a>!</b></code>
   <br>
-  <code><b>LAST UPDATED: 02/21/2025</b></code>
+  <code><b>LAST UPDATED: 10/24/2025</b></code>
 </div>
 
 <br><a href="https://www.instagram.com/thathandsomedevilofficial/reel/DBjVbUxxDOD/"><img align="center" src="https://drive.google.com/uc?id=1E1B0aKTaMpI_tIm9F1Bo0_a7zNsgy0VX" alt="divider" title="Exploitopia was released on October 25th, 2024!"></a><br>
@@ -28,7 +28,7 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
   <br>
   HAII!! I'm <a href="https://en.wikipedia.org/wiki/Pepsi_fruit_juice_flood"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=17&duration=10&pause=300&color=E62125&center=true&vCenter=true&multiline=true&repeat=false&width=60&height=26&lines=STATIC" alt="Static" title="heyyy!! don't poke me!!!" /></a>!!
   <br>
-  <b>IT/THEY</b> + <em><ins>any neos</ins></em> 〃 9TEEN (07/29)
+  <b>IT/THEY</b> + <em><ins>any neos</ins></em> 〃 TWENTY (07/29)
   <br>
   <ins>Blasian</ins> 〃 <b><em>AuDHD</em>
   <br><br>
