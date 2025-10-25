@@ -60,7 +60,7 @@ URHGHHHH GITHUB HATES ME AND I HATE HTML apparently I can't force any of my link
     <tbody align="center" width="611px">
       <tr>
         <td> <!--- uid/uf -->
-          <code>Under 16 Y.O.</code>
+          <code>Under 17 Y.O. (I'M ONLY ON SAFE BECAUSE MY DUMBASS FRIEND IS BANNED ON 18+)</code>
         </td>
         <td> <!--- no exception -->
           <code>Nazi/USSR skins</code><br>
