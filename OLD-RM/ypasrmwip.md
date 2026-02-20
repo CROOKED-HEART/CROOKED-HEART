@@ -20,5 +20,11 @@
 
 
 piss off piss off piss off this isnt done
-☀️ ≡ STATIC 
+☀️ ≡ STATIC
 🏝️ , W2I if my pony's asleep　 　　　　 　⋙　🌊 , PROUD SHITCLUBE MEMBER !!
+
+
+<video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" alt="ypasbare" height="400px">
+
+
+
