@@ -1,3 +1,12 @@
+
+<table border="15" align="center">
+  <tr></tr>
+  <td>
+  <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" height=224px width=400px title="Unmute me for music!">
+  </td>
+</table>
+
+
 <img src="https://drive.google.com/uc?id=13JBtNuSy58uuMBpiVHhdXZsU-Jpmr4O9" alt="ypas shit header">
 
 <img src="https://drive.google.com/uc?id=1t2F0_Z9RlTupx757T_bBogYt0yAYa7wv" alt="ypas shit divider">
@@ -22,6 +31,16 @@
 piss off piss off piss off this isnt done
 ☀️ ≡ STATIC
 🏝️ , W2I if my pony's asleep　 　　　　 　⋙　🌊 , PROUD SHITCLUBE MEMBER !!
+
+
+
+
+
+
+
+
+
+
 
 
 <video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" alt="ypasbare" height="400px">
