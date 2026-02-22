@@ -1,19 +1,15 @@
 
-<table border="15" align="center">
-  <tr></tr>
-  <td>
-  <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" height=224px width=400px title="Unmute me for music!">
-  </td>
-</table>
 
 
-<img src="https://drive.google.com/uc?id=13JBtNuSy58uuMBpiVHhdXZsU-Jpmr4O9" alt="ypas shit header">
 
-<img src="https://drive.google.com/uc?id=1t2F0_Z9RlTupx757T_bBogYt0yAYa7wv" alt="ypas shit divider">
-
-<a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1wh2BR8GXRWLoZsirwb6ZBiOIkNWN5oUK" alt="ata" height="31px" title="CLICK FOR ATABOOK" ></a>
-
-<a href="https://last.fm/user/lectricstat"><img src="https://drive.google.com/uc?id=1jCp0KcS8P4kDixLNT60wtm56gcP0gueT" alt="lastfm" height="31px" title="CLICK FOR LAST.FM" ></a>
+<div align="center">
+  <img src="https://drive.google.com/uc?id=13JBtNuSy58uuMBpiVHhdXZsU-Jpmr4O9" alt="ypas shit header">
+  <br>
+  <img src="https://drive.google.com/uc?id=1t2F0_Z9RlTupx757T_bBogYt0yAYa7wv" alt="ypas shit divider">
+  <br>
+  <a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1wh2BR8GXRWLoZsirwb6ZBiOIkNWN5oUK" alt="ata" height="62px" title="CLICK FOR ATABOOK" ></a>
+  <a href="https://last.fm/user/lectricstat"><img src="https://drive.google.com/uc?id=1jCp0KcS8P4kDixLNT60wtm56gcP0gueT" alt="lastfm" height="62px" title="CLICK FOR LAST.FM" ></a>
+</div>
 
 <img src="https://drive.google.com/uc?id=1fsxLTSCtuf83SFIpPl9ESY88pKBwW2fa" alt="ypas sgc" height="150px">
 
@@ -28,22 +24,14 @@
 
 
 
+<table border="15" align="center">
+  <tr></tr>
+  <td>
+  <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" height=224px width=400px title="Unmute me for music!">
+  </td>
+</table>
+
+
 piss off piss off piss off this isnt done
 ☀️ ≡ STATIC
 🏝️ , W2I if my pony's asleep　 　　　　 　⋙　🌊 , PROUD SHITCLUBE MEMBER !!
-
-
-
-
-
-
-
-
-
-
-
-
-<video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" alt="ypasbare" height="400px">
-
-
-
