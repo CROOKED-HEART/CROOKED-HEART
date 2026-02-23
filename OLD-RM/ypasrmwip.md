@@ -14,13 +14,14 @@ piss off piss off piss off this isnt done
 <p align="center">
   <a href=""><img align="left" src="https://drive.google.com/uc?id=1tHAnNrGUBqFk5j4stdHAphsv3lpKIxOK" width="330px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a>
   LAST UPDATED: 02/23/26
+  <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=CF7A36&amp;style=for-the-badge&amp;label=Piña+Coladas" alt="view count" title="Take a load off!">
   <table border="0" align="center">
     <tr align="center"></tr>
       <th>
         <a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1wh2BR8GXRWLoZsirwb6ZBiOIkNWN5oUK" alt="ata" height="62px" title="CLICK FOR ATABOOK" ></a>
         <a href="https://last.fm/user/lectricstat"><img src="https://drive.google.com/uc?id=1jCp0KcS8P4kDixLNT60wtm56gcP0gueT" alt="lastfm" height="62px" title="CLICK FOR LAST.FM" ></a>
         <br>
-        $\color{#F9EBB8}{\textsf{Haii, I'm}}$ $\color{#73C7C7}{\textsf{STATIC}}$ $\color{#F9EBB8}{\textsf{!!}}$<br>
+        $\color{#F9EBB8}{\textsf{Haii, I'm}}$ $\color{#73C7C7}\Large{\textsf{STATIC}}$ $\color{#F9EBB8}{\textsf{!!}}$<br>
         $\color{#73C7C7}{\textsf{IT / ITS}}$ $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{THEY / THEM}}$<br>
         $\color{#F9EBB8}{\textsf{TWENTY}}$ $\color{#73C7C7}{\textsf{(July 29th 2005)}}$<br>
         $\color{#F9EBB8}{\textsf{Blasian}}$ $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{AuDHD}}$
