@@ -9,6 +9,8 @@ piss off piss off piss off this isnt done
   <img src="https://readme-typing-svg.demolab.com?font=Idiqlat&duration=4000&pause=1000&color=F5A534&background=FBEEBA&center=true&vCenter=true&random=true&width=600&height=25&lines=Well+I+know%2C+that+it+seems+UNPOSSIBLE.;We've+been+dyin'+since+the+DINOSAURs!!;SHUTUP+YOU'RE+STUPID%2C+just+kiss+me!;Now+they+callin'+you+a+HOODLUM...;GUYS+ARE+GROSS!!!;EVERYbody+that+I+know+is+TRYING+TO+KILL+ME!;Get+a+crystal+for+the+BAD+VIBES!;I+just+need+to+Fuck+2+Forget...;What+would+happen+if+I+PUNCHed+you+IN+THE+FACE%3F;The+world+is+run+by+EVL+PPL;Well%2C+LA+DI+FRICKIN'+DA!" alt="Typing SVG" /></a>
 </div>
 
+
+
 <br>
 
 <p align="center">
@@ -20,7 +22,7 @@ piss off piss off piss off this isnt done
         <a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1wh2BR8GXRWLoZsirwb6ZBiOIkNWN5oUK" alt="ata" height="62px" title="CLICK FOR ATABOOK" ></a>
         <a href="https://last.fm/user/lectricstat"><img src="https://drive.google.com/uc?id=1jCp0KcS8P4kDixLNT60wtm56gcP0gueT" alt="lastfm" height="62px" title="CLICK FOR LAST.FM" ></a>
         <br>
-        <b>Haii, I'm</b> $\color{#73C7C7}{\textsf{STATIC}}$!!<br>
+        $\color{#F9EBB8}{\textsf{Haii, I'm}}$ $\color{#73C7C7}{\textsf{STATIC}}$!!<br>
         $\color{#73C7C7}{\textsf{IT / ITS}}$ $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{THEY / THEM}}$<br>
         TWENTY $\color{#73C7C7}{\textsf{(July 29th 2005)}}$<br>
         <ins>Blasian</ins> $\color{#E05B34}{\textsf{🌣}}$ <ins>AuDHD</ins><br>
@@ -36,13 +38,27 @@ piss off piss off piss off this isnt done
     <tr></tr>
     <td>
       <a href=""><img align="left" src="https://drive.google.com/uc?id=1iBornvsQDw0gh-H9yauqUbwiUvDfA5ph" width="200px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a>
+      <table align="center">
+        <tr></tr>
+        <th>
+          <details align="center">
+            <summary>$\color{#E78038}{\textsf{BEFORE YOU INTERACT}}$</summary>
+            hello fuck you
+          </details>
+        </th>
+      </table>
+      <table border="0" align="center">
+            <img align="center" src="https://drive.google.com/uc?id=1SL1-UtE7GzacKSFHiYU9Tq4OTk2vGLbq" width="600px" height="1px">
+      </table>
+      <br>
+      <img align="left" src="https://drive.google.com/uc?id=1SL1-UtE7GzacKSFHiYU9Tq4OTk2vGLbq" width="600px" height="1px">
+      <br>
+      <img align="right" src="https://drive.google.com/uc?id=11mylEcLWioWEQouc5NNBIhfrjRquAkoJ" width="200px">
       <details align="center">
         <summary><b>Stamps</b></summary>
         hello fuck you
+        <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" align="right" height=100px title="Unmute me for music!"></video></a>
       </details>
-      <table border="0" align="center">
-            <img src="https://drive.google.com/uc?id=1t2F0_Z9RlTupx757T_bBogYt0yAYa7wv" alt="ypas divider" width="600px">
-      </table>
     </td>
   </table>
 </p>
@@ -51,7 +67,24 @@ piss off piss off piss off this isnt done
 <img src="https://drive.google.com/uc?id=1t2F0_Z9RlTupx757T_bBogYt0yAYa7wv" alt="ypas divider" width="8000px">
 <br>
 
-<a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" align="right" height=100px title="Unmute me for music!"></video></a>
+<table border="0" align="left">
+    <tr align="center"></tr>
+      <th>
+        <a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1VHBlI5ta5jz4DrIYu9LhHoqoqethN2TM" alt="ypas sgc" height="150px"></a>
+        <br>
+        $\color{#E99934}{\textsf{WARNING!!! BEWARE OF FLASHING AND EYESTRAIN!}}$
+      </th>
+    <table>
+      <tr></tr>
+      <th>
+        <details>
+          <summary>STAMPS</summary>
+          stamp col
+        </details>
+      </th>
+    </table>
+  </table>
+
 
 <table border="0" align="left">
     <tr align="center"></tr>
@@ -60,6 +93,15 @@ piss off piss off piss off this isnt done
         <br>
         $\color{#E99934}{\textsf{WARNING!!! BEWARE OF FLASHING AND EYESTRAIN!}}$
       </th>
+    <table>
+      <tr></tr>
+      <th>
+        <details>
+          <summary>STAMPS</summary>
+          stamp col
+        </details>
+      </th>
+    </table>
   </table>
   
 <br>
