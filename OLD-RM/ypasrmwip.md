@@ -102,11 +102,10 @@ piss off piss off piss off this isnt done
 
 <br>
 
+<p align="center"><a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1VHBlI5ta5jz4DrIYu9LhHoqoqethN2TM" alt="ypas sgc" height="350px"></a></p>
 <table border="0" align="center">
     <tr align="center"></tr>
       <th>
-        <a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1VHBlI5ta5jz4DrIYu9LhHoqoqethN2TM" alt="ypas sgc" height="350px"></a>
-        <br>
         $\color{#E99934}\large{\textsf{WARNING!!! BEWARE OF FLASHING AND EYESTRAIN!}}$
       </th>
     <table align="center">
