@@ -36,20 +36,15 @@ piss off piss off piss off this isnt done
     <tr></tr>
     <td>
       <a href=""><img align="left" src="https://drive.google.com/uc?id=1iBornvsQDw0gh-H9yauqUbwiUvDfA5ph" width="200px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a>
-      <details>
+      <details align="center">
         <summary><b>Stamps</b></summary>
         hello fuck you
       </details>
       <table border="0" align="center">
-        <tr align="center"></tr>
-          <th>
-            <a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1wh2BR8GXRWLoZsirwb6ZBiOIkNWN5oUK" alt="ata" height="62px" title="CLICK FOR ATABOOK" ></a>
-            <a href="https://last.fm/user/lectricstat"><img src="https://drive.google.com/uc?id=1jCp0KcS8P4kDixLNT60wtm56gcP0gueT" alt="lastfm" height="62px" title="CLICK FOR LAST.FM" ></a>
-          </th>
+            <img src="https://drive.google.com/uc?id=1t2F0_Z9RlTupx757T_bBogYt0yAYa7wv" alt="ypas divider" width="600px">
       </table>
     </td>
   </table>
-  
 </p>
 
 <br>
