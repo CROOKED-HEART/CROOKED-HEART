@@ -13,8 +13,8 @@ piss off piss off piss off this isnt done
 
 <p align="center">
   <a href=""><img align="left" src="https://drive.google.com/uc?id=1tHAnNrGUBqFk5j4stdHAphsv3lpKIxOK" width="330px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a>
-  LAST UPDATED: 02/23/26
-  <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=CF7A36&amp;style=for-the-badge&amp;label=Piña+Coladas" alt="view count" title="Take a load off!">
+  <img src="https://img.shields.io/badge/LAST%20UPDATED-02%2F23%2F2026-CF7A36?style=plastic&label=LAST%20UPDATED&labelColor=%2374C6C6&color=CF7A36" alt="Last Updated" >
+  <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=CF7A36&amp;style=plastic&amp;label=Piña+Coladas" alt="view count" title="Take a load off!">
   <table border="0" align="center">
     <tr align="center"></tr>
       <th>
