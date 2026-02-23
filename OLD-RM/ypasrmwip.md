@@ -55,15 +55,4 @@ piss off piss off piss off this isnt done
 <img src="https://drive.google.com/uc?id=1t2F0_Z9RlTupx757T_bBogYt0yAYa7wv" alt="ypas divider" width="8000px">
 <br>
 
-<p align="ceenter">
-  <img src="https://drive.google.com/uc?id=16cPSTvoqn4hP05yfjgRy97Yuj7i5rFyy" alt="ypasvins" height="300px" alighn="left">
-  <table border="15" align="center">
-    <tr></tr>
-    <td>
-    <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" height=224px width=400px title="Unmute me for music!"></video></a>
-    </td>
-  </table>
-</p>
-
-
 
