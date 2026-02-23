@@ -12,7 +12,7 @@ piss off piss off piss off this isnt done
 <br>
 
 <p align="center">
-  <a href=""><img align="left" src="https://drive.google.com/uc?id=1tHAnNrGUBqFk5j4stdHAphsv3lpKIxOK" width="275px" height="9000px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a>
+  <a href=""><img align="left" src="https://drive.google.com/uc?id=1tHAnNrGUBqFk5j4stdHAphsv3lpKIxOK" width="300px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a>
   LAST UPDATED: 02/23/26
   <table border="0" align="center">
     <tr align="center"></tr>
