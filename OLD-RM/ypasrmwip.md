@@ -6,13 +6,13 @@ piss off piss off piss off this isnt done
   <img src="https://drive.google.com/uc?id=13JBtNuSy58uuMBpiVHhdXZsU-Jpmr4O9" alt="ypas shit header">
   <br>
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Idiqlat&duration=4000&pause=1000&color=F5A534&background=FBEEBA&center=true&vCenter=true&random=true&width=600&height=25&lines=Well+I+know%2C+that+it+seems+UNPOSSIBLE.;We've+been+dyin'+since+the+DINOSAURs!!;SHUTUP+YOU'RE+STUPD%2C+just+kiss+me!;Now+they+callin'+you+a+HOODLUM...;GUYS+ARE+GROSS!!!;EVERYbody+that+I+know+is+TRYING+TO+KILL+ME!;Get+a+crystal+for+the+BAD+VIBES!;I+just+need+to+Fuck+2+Forget...;What+would+happen+if+I+PUNCHed+you+IN+THE+FACE%3F;The+world+is+run+by+EVL+PPL;Well%2C+LA+DI+FRICKIN'+DA!" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Idiqlat&duration=4000&pause=1000&color=F5A534&background=FBEEBA&center=true&vCenter=true&random=true&width=600&height=25&lines=Well+I+know%2C+that+it+seems+UNPOSSIBLE.;We've+been+dyin'+since+the+DINOSAURs!!;SHUTUP+YOU'RE+STUPID%2C+just+kiss+me!;Now+they+callin'+you+a+HOODLUM...;GUYS+ARE+GROSS!!!;EVERYbody+that+I+know+is+TRYING+TO+KILL+ME!;Get+a+crystal+for+the+BAD+VIBES!;I+just+need+to+Fuck+2+Forget...;What+would+happen+if+I+PUNCHed+you+IN+THE+FACE%3F;The+world+is+run+by+EVL+PPL;Well%2C+LA+DI+FRICKIN'+DA!" alt="Typing SVG" /></a>
 </div>
 
 <br>
 
 <p align="center">
-  <a href=""><img align="left" src="https://drive.google.com/uc?id=1tHAnNrGUBqFk5j4stdHAphsv3lpKIxOK" width="250px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a>
+  <a href=""><img align="left" src="https://drive.google.com/uc?id=1tHAnNrGUBqFk5j4stdHAphsv3lpKIxOK" width="275px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a>
   LAST UPDATED: 02/23/26
   <table border="0" align="center">
     <tr align="center"></tr>
