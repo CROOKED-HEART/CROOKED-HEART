@@ -24,7 +24,7 @@ piss off piss off piss off this isnt done
         $\color{#73C7C7}{\textsf{IT / ITS}}$ $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{THEY / THEM}}$<br>
         TWENTY $\color{#73C7C7}{\textsf{(July 29th 2005)}}$<br>
         <ins>Blasian</ins> $\color{#E05B34}{\textsf{🌣}}$ <ins>AuDHD</ins><br>
-        Pretty reserved, but ALWAYS open to interaction!!
+        OTI
       </th>
   </table>
   <table border="15" align="center">
@@ -35,11 +35,13 @@ piss off piss off piss off this isnt done
   <table border="15" align="center">
     <tr></tr>
     <td>
+       <img src="https://drive.google.com/uc?id=1iBornvsQDw0gh-H9yauqUbwiUvDfA5ph" alt="lastfm" height="62px" title="CLICK FOR LAST.FM" align="left">
        <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" height=100px title="Unmute me for music!"></video></a>
     </td>
   </table>
 </p>
 
+<br>
 <img src="https://drive.google.com/uc?id=1t2F0_Z9RlTupx757T_bBogYt0yAYa7wv" alt="ypas divider" width="8000px">
 <br>
 
