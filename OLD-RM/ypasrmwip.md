@@ -27,22 +27,24 @@ piss off piss off piss off this isnt done
         OTI
       </th>
   </table>
+  <table border="0" align="right">
+    <tr></tr>
+    <th>
+    </th>
+  </table>
   <table border="0" align="center">
     <tr></tr>
     <td>
-          <a href=""><img align="left" src="https://drive.google.com/uc?id=1tHAnNrGUBqFk5j4stdHAphsv3lpKIxOK" width="300px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a>
-      LAST UPDATED: 02/23/26
+      <a href=""><img align="left" src="https://drive.google.com/uc?id=1iBornvsQDw0gh-H9yauqUbwiUvDfA5ph" width="200px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a>
+      <details>
+        <summary><b>Stamps</b></summary>
+        hello fuck you
+      </details>
       <table border="0" align="center">
         <tr align="center"></tr>
           <th>
             <a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1wh2BR8GXRWLoZsirwb6ZBiOIkNWN5oUK" alt="ata" height="62px" title="CLICK FOR ATABOOK" ></a>
             <a href="https://last.fm/user/lectricstat"><img src="https://drive.google.com/uc?id=1jCp0KcS8P4kDixLNT60wtm56gcP0gueT" alt="lastfm" height="62px" title="CLICK FOR LAST.FM" ></a>
-            <br>
-            <b>Haii, I'm</b> $\color{#73C7C7}{\textsf{STATIC}}$!!<br>
-            $\color{#73C7C7}{\textsf{IT / ITS}}$ $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{THEY / THEM}}$<br>
-            TWENTY $\color{#73C7C7}{\textsf{(July 29th 2005)}}$<br>
-            <ins>Blasian</ins> $\color{#E05B34}{\textsf{🌣}}$ <ins>AuDHD</ins><br>
-            OTI
           </th>
       </table>
     </td>
@@ -50,15 +52,7 @@ piss off piss off piss off this isnt done
   <table border="0" align="center">
     <tr></tr>
     <td>
-       <img align="left" src="https://drive.google.com/uc?id=1iBornvsQDw0gh-H9yauqUbwiUvDfA5ph" alt="lastfm" height="100px" title="CLICK FOR LAST.FM"><br><br>
-      <table border="0" align="right">
-        <tr></tr>
-        <th>
-          <details align="right">
-           uhh TESTING
-         </details>
-        </th>
-      </table>
+      
     </td>
   </table>
 </p>
