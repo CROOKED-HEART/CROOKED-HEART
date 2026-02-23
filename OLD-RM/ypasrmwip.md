@@ -79,10 +79,22 @@ piss off piss off piss off this isnt done
       <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" align="right" height=100px title="Unmute me for music!"></video></a>
     </td>
   </table>
+  <table border="0" align="center">
+    <tr></tr>
+    <td>
+      <details>
+        <summary><h3>Interested in my Interests? CLICK 4 MORE!!</h3></summary>
+      </details>
+    </td>
+  </table>
 </p>
 
 <br>
 <img src="https://drive.google.com/uc?id=1t2F0_Z9RlTupx757T_bBogYt0yAYa7wv" alt="ypas divider" width="8000px">
+<br>
+
+
+<a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1XWOPK0ctCQ-6qrCOjuDH8ELeM8W_8KL4" alt="ypas sgc" width="500px"></a>
 <br>
 
 <table border="0" align="left">
