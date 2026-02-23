@@ -5,16 +5,16 @@ piss off piss off piss off this isnt done
 <div align="center">
   <img src="https://drive.google.com/uc?id=13JBtNuSy58uuMBpiVHhdXZsU-Jpmr4O9" alt="ypas shit header">
   <br>
+  <img src="https://img.shields.io/badge/LAST%20UPDATED-02%2F23%2F2026-CF7A36?style=plastic&label=LAST%20UPDATED&labelColor=%2374C6C6&color=CF7A36" alt="Last Updated" >
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Idiqlat&duration=4000&pause=1000&color=F5A534&background=FBEEBA&center=true&vCenter=true&random=true&width=600&height=25&lines=Well+I+know%2C+that+it+seems+UNPOSSIBLE.;We've+been+dyin'+since+the+DINOSAURs!!;SHUTUP+YOU'RE+STUPID%2C+just+kiss+me!;Now+they+callin'+you+a+HOODLUM...;GUYS+ARE+GROSS!!!;EVERYbody+that+I+know+is+TRYING+TO+KILL+ME!;Get+a+crystal+for+the+BAD+VIBES!;I+just+need+to+Fuck+2+Forget...;What+would+happen+if+I+PUNCHed+you+IN+THE+FACE%3F;The+world+is+run+by+EVL+PPL;Well%2C+LA+DI+FRICKIN'+DA!" alt="Typing SVG" /></a>
+  <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=CF7A36&amp;style=plastic&amp;label=Piña+Coladas" alt="view count" title="Take a load off!">
 </div>
 
 <br>
 
 <p align="center">
   <a href=""><img align="left" src="https://drive.google.com/uc?id=1tHAnNrGUBqFk5j4stdHAphsv3lpKIxOK" width="330px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a>
-  <img src="https://img.shields.io/badge/LAST%20UPDATED-02%2F23%2F2026-CF7A36?style=plastic&label=LAST%20UPDATED&labelColor=%2374C6C6&color=CF7A36" alt="Last Updated" >
-  <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=CF7A36&amp;style=plastic&amp;label=Piña+Coladas" alt="view count" title="Take a load off!">
   <table border="0" align="center">
     <tr align="center"></tr>
       <th>
@@ -84,11 +84,14 @@ piss off piss off piss off this isnt done
     <tr></tr>
     <td align="center">
       <details>
-        <summary><h4>$\color{#E78038}{\textsf{Interested in my Interests? CLICK 4 MORE!!}}$</h4></summary>
-        $\color{#74C6C6}\large{\textsf{SPECIAL INTERESTS}}$<br>
+        <summary><h2>$\color{#E78038}{\textsf{Interested in my Interests? CLICK 4 MORE!!}}$</h2></summary>
+        <h2>$\color{#74C6C6}\large{\textsf{SPECIAL INTERESTS}}$</h2>
         Is it hard to tell that I love everything That Handsome Devil? I've been listening to them and their<br>
         sister bands/artists for years. I also have OCs based on each album they've made, including the Your<br>
-        Parents are Sellouts one above!
+        Parents are Sellouts one above!<br><br>
+        I'm also REALLY into this webcomic called The Property of Hate. It updates most Sundays and I've been<br>
+        following the story for about a decade. I reccommend it to anyone who likes worldbuilding, cowardly<br>
+        father figures, and found family relationships!
       </details>
     </td>
   </table>
