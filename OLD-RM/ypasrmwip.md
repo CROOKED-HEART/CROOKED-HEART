@@ -27,10 +27,10 @@ piss off piss off piss off this isnt done
         OTI
       </th>
   </table>
-  <table border="0" align="right">
+  <table border="0" align="center">
     <tr></tr>
-    <th>
-    </th>
+    <td>
+    </td>
   </table>
   <table border="0" align="center">
     <tr></tr>
@@ -49,12 +49,7 @@ piss off piss off piss off this isnt done
       </table>
     </td>
   </table>
-  <table border="0" align="center">
-    <tr></tr>
-    <td>
-      
-    </td>
-  </table>
+  
 </p>
 
 <br>
