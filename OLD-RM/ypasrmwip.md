@@ -27,16 +27,23 @@ piss off piss off piss off this isnt done
         OTI
       </th>
   </table>
-  <table border="15" align="center">
+  <table border="0" align="center">
     <tr></tr>
     <td>
     </td>
   </table>
-  <table border="15" align="center">
+  <table border="0" align="center">
     <tr></tr>
     <td>
-       <img src="https://drive.google.com/uc?id=1iBornvsQDw0gh-H9yauqUbwiUvDfA5ph" alt="lastfm" height="100px" title="CLICK FOR LAST.FM" align="left"><br><br>
-       <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" align="right" height=100px title="Unmute me for music!"></video></a>
+       <img align="left" src="https://drive.google.com/uc?id=1iBornvsQDw0gh-H9yauqUbwiUvDfA5ph" alt="lastfm" height="100px" title="CLICK FOR LAST.FM"><br><br>
+      <table border="0" align="right">
+        <tr></tr>
+        <th>
+          <details align="right">
+           uhh TESTING
+         </details>
+        </th>
+      </table>
     </td>
   </table>
 </p>
@@ -44,6 +51,8 @@ piss off piss off piss off this isnt done
 <br>
 <img src="https://drive.google.com/uc?id=1t2F0_Z9RlTupx757T_bBogYt0yAYa7wv" alt="ypas divider" width="8000px">
 <br>
+
+<a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" align="right" height=100px title="Unmute me for music!"></video></a>
 
 <table border="0" align="left">
     <tr align="center"></tr>
