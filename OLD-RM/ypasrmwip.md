@@ -62,13 +62,11 @@ piss off piss off piss off this isnt done
             <h2>$\color{#E78038}{\textsf{DO NOT INTERACT}}$</h2>
             $\color{#E05B34}{\textsf{🌣}}$ <a href="https://basic-dni.crd.co/"><ins>Basic DNI Criteria</a>
             <br>
-            $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{if my pony falls asleep on you.}}$
+            $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{Generally, I don't want to interact with folks}}$<br>
+            $\color{#F9EBB8}{\textsf{under 17. However, if I'm on Safe and you}}$<br>
+            $\color{#F9EBB8}{\textsf{wanna crown me or something, that's fine!}}$
             <br>
-            $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{If I'm not actively talking with someone, I'm}}$<br>
-            $\color{#73C7C7}{\textsf{more than likely off-tab, so whisper me if you}}$<br>
-            $\color{#73C7C7}{\textsf{need something!}}$
-            <br>
-            $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{I don't really accept friend requests while}}$
+            $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{I DON'T HIDE PEOPLE, I ONLY BLOCK CHATS!}}$
         </td>
       </table>
     </td>
