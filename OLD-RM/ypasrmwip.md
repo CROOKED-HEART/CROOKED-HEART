@@ -9,8 +9,6 @@ piss off piss off piss off this isnt done
   <img src="https://readme-typing-svg.demolab.com?font=Idiqlat&duration=4000&pause=1000&color=F5A534&background=FBEEBA&center=true&vCenter=true&random=true&width=600&height=25&lines=Well+I+know%2C+that+it+seems+UNPOSSIBLE.;We've+been+dyin'+since+the+DINOSAURs!!;SHUTUP+YOU'RE+STUPID%2C+just+kiss+me!;Now+they+callin'+you+a+HOODLUM...;GUYS+ARE+GROSS!!!;EVERYbody+that+I+know+is+TRYING+TO+KILL+ME!;Get+a+crystal+for+the+BAD+VIBES!;I+just+need+to+Fuck+2+Forget...;What+would+happen+if+I+PUNCHed+you+IN+THE+FACE%3F;The+world+is+run+by+EVL+PPL;Well%2C+LA+DI+FRICKIN'+DA!" alt="Typing SVG" /></a>
 </div>
 
-
-
 <br>
 
 <p align="center">
@@ -22,10 +20,10 @@ piss off piss off piss off this isnt done
         <a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1wh2BR8GXRWLoZsirwb6ZBiOIkNWN5oUK" alt="ata" height="62px" title="CLICK FOR ATABOOK" ></a>
         <a href="https://last.fm/user/lectricstat"><img src="https://drive.google.com/uc?id=1jCp0KcS8P4kDixLNT60wtm56gcP0gueT" alt="lastfm" height="62px" title="CLICK FOR LAST.FM" ></a>
         <br>
-        $\color{#F9EBB8}{\textsf{Haii, I'm}}$ $\color{#73C7C7}{\textsf{STATIC}}$!!<br>
+        $\color{#F9EBB8}{\textsf{Haii, I'm}}$ $\color{#73C7C7}{\textsf{STATIC}}$ $\color{#F9EBB8}{\textsf{!!}}$<br>
         $\color{#73C7C7}{\textsf{IT / ITS}}$ $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{THEY / THEM}}$<br>
-        TWENTY $\color{#73C7C7}{\textsf{(July 29th 2005)}}$<br>
-        <ins>Blasian</ins> $\color{#E05B34}{\textsf{🌣}}$ <ins>AuDHD</ins><br>
+        $\color{#F9EBB8}{\textsf{TWENTY}}$ $\color{#73C7C7}{\textsf{(July 29th 2005)}}$<br>
+        $\color{#F9EBB8}{\textsf{Blasian}}$ $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{AuDHD}}$<br>
         OTI
       </th>
   </table>
@@ -37,15 +35,25 @@ piss off piss off piss off this isnt done
   <table border="0" align="center">
     <tr></tr>
     <td>
-      <a href=""><img align="left" src="https://drive.google.com/uc?id=1iBornvsQDw0gh-H9yauqUbwiUvDfA5ph" width="200px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a>
+      <a href=""><img align="left" src="https://drive.google.com/uc?id=1iBornvsQDw0gh-H9yauqUbwiUvDfA5ph" width="250px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her" style="vertical-align:middle"></a>
       <table align="center">
         <tr></tr>
-        <th>
-          <details align="center">
-            <summary>$\color{#E78038}{\textsf{BEFORE YOU INTERACT}}$</summary>
-            hello fuck you
-          </details>
-        </th>
+        <td align="center">
+            $\color{#E78038}{\textsf{BEFORE YOU INTERACT}}$<br><br>
+            $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{I have my idle on for 1 minute, so don't worry}}$<br>
+            $\color{#F9EBB8}{\textsf{if my pony falls asleep on you.}}$
+            <br>
+            $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{If I'm not actively talking with someone, I'm}}$<br>
+            $\color{#73C7C7}{\textsf{more than likely off-tab, so whisper me if you}}$<br>
+            $\color{#73C7C7}{\textsf{need something!}}$
+            <br>
+            $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{I don't really accept friend requests while}}$<br>
+            $\color{#F9EBB8}{\textsf{I'm on Safe.}}$
+            <br>
+            $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{PLEASE don't say anything seriously sexual}}$<br>
+            $\color{#73C7C7}{\textsf{about me, it makes me really uncomfortable!}}$<br>
+            $\color{#73C7C7}{\textsf{Juvenile jokes about balls and stuff are fine.}}$
+        </td>
       </table>
       <table border="0" align="center">
             <img align="center" src="https://drive.google.com/uc?id=1SL1-UtE7GzacKSFHiYU9Tq4OTk2vGLbq" width="600px" height="1px">
@@ -53,7 +61,7 @@ piss off piss off piss off this isnt done
       <br>
       <img align="left" src="https://drive.google.com/uc?id=1SL1-UtE7GzacKSFHiYU9Tq4OTk2vGLbq" width="600px" height="1px">
       <br>
-      <img align="right" src="https://drive.google.com/uc?id=11mylEcLWioWEQouc5NNBIhfrjRquAkoJ" width="200px">
+      <img align="right" src="https://drive.google.com/uc?id=11mylEcLWioWEQouc5NNBIhfrjRquAkoJ" width="250px">
       <details align="center">
         <summary><b>Stamps</b></summary>
         hello fuck you
@@ -76,6 +84,12 @@ piss off piss off piss off this isnt done
       </th>
     <table>
       <tr></tr>
+      <th>
+        <details>
+          <summary>STAMPS</summary>
+          stamp col
+        </details>
+      </th>
       <th>
         <details>
           <summary>STAMPS</summary>
@@ -107,5 +121,3 @@ piss off piss off piss off this isnt done
 <br>
 <img src="https://drive.google.com/uc?id=1t2F0_Z9RlTupx757T_bBogYt0yAYa7wv" alt="ypas divider" width="8000px">
 <br>
-
-
