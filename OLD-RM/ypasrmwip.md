@@ -12,7 +12,7 @@ piss off piss off piss off this isnt done
 <br>
 
 <p align="center">
-  <a href=""><img align="left" src="https://drive.google.com/uc?id=1tHAnNrGUBqFk5j4stdHAphsv3lpKIxOK" width="300px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a>
+  <a href=""><img align="left" src="https://drive.google.com/uc?id=1tHAnNrGUBqFk5j4stdHAphsv3lpKIxOK" width="330px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a>
   LAST UPDATED: 02/23/26
   <table border="0" align="center">
     <tr align="center"></tr>
@@ -23,14 +23,8 @@ piss off piss off piss off this isnt done
         $\color{#F9EBB8}{\textsf{Haii, I'm}}$ $\color{#73C7C7}{\textsf{STATIC}}$ $\color{#F9EBB8}{\textsf{!!}}$<br>
         $\color{#73C7C7}{\textsf{IT / ITS}}$ $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{THEY / THEM}}$<br>
         $\color{#F9EBB8}{\textsf{TWENTY}}$ $\color{#73C7C7}{\textsf{(July 29th 2005)}}$<br>
-        $\color{#F9EBB8}{\textsf{Blasian}}$ $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{AuDHD}}$<br>
-        OTI
+        $\color{#F9EBB8}{\textsf{Blasian}}$ $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{AuDHD}}$
       </th>
-  </table>
-  <table border="0" align="center">
-    <tr></tr>
-    <td>
-    </td>
   </table>
   <table border="0" align="right">
     <tr></tr>
@@ -39,7 +33,7 @@ piss off piss off piss off this isnt done
       <table align="center">
         <tr></tr>
         <td align="center">
-            $\color{#E78038}{\textsf{BEFORE YOU INTERACT}}$<br><br>
+            <h2>$\color{#E78038}{\textsf{BEFORE YOU INTERACT}}$</h2>
             $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{I have my idle on for 1 minute, so don't worry}}$<br>
             $\color{#F9EBB8}{\textsf{if my pony falls asleep on you.}}$
             <br>
@@ -59,26 +53,22 @@ piss off piss off piss off this isnt done
             <img align="center" src="https://drive.google.com/uc?id=1SL1-UtE7GzacKSFHiYU9Tq4OTk2vGLbq" width="600px" height="1px">
       </table>
       <br>
-      <img align="left" src="https://drive.google.com/uc?id=1SL1-UtE7GzacKSFHiYU9Tq4OTk2vGLbq" width="600px" height="1px">
+        <img align="left" src="https://drive.google.com/uc?id=1SL1-UtE7GzacKSFHiYU9Tq4OTk2vGLbq" width="600px" height="1px">
       <br>
       <img align="right" src="https://drive.google.com/uc?id=11mylEcLWioWEQouc5NNBIhfrjRquAkoJ" width="250px">
       <table align="center">
         <tr></tr>
         <td align="center">
-            $\color{#E78038}{\textsf{DO NOT INTERACT}}$<br><br>
-            $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{I have my idle on for 1 minute, so don't worry}}$<br>
-            $\color{#F9EBB8}{\textsf{if my pony falls asleep on you.}}$
+            <h2>$\color{#E78038}{\textsf{DO NOT INTERACT}}$</h2>
+            $\color{#E05B34}{\textsf{🌣}}$ <a href="https://basic-dni.crd.co/"><ins>Basic DNI Criteria</a>
+            <br>
+            $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{if my pony falls asleep on you.}}$
             <br>
             $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{If I'm not actively talking with someone, I'm}}$<br>
             $\color{#73C7C7}{\textsf{more than likely off-tab, so whisper me if you}}$<br>
             $\color{#73C7C7}{\textsf{need something!}}$
             <br>
-            $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{I don't really accept friend requests while}}$<br>
-            $\color{#F9EBB8}{\textsf{I'm on Safe.}}$
-            <br>
-            $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{PLEASE don't say anything seriously sexual}}$<br>
-            $\color{#73C7C7}{\textsf{about me, it makes me really uncomfortable!}}$<br>
-            $\color{#73C7C7}{\textsf{Juvenile jokes about balls and stuff are fine.}}$
+            $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{I don't really accept friend requests while}}$
         </td>
       </table>
     </td>
