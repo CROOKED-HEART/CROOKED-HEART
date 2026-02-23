@@ -81,9 +81,9 @@ piss off piss off piss off this isnt done
   </table>
   <table border="0" align="center">
     <tr></tr>
-    <td>
+    <td align="center">
       <details>
-        <summary><h3>Interested in my Interests? CLICK 4 MORE!!</h3></summary>
+        <summary><h4>$\color{#E78038}{\textsf{Interested in my Interests? CLICK 4 MORE!!}}$</h4></summary>
       </details>
     </td>
   </table>
