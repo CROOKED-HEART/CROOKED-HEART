@@ -12,7 +12,7 @@ piss off piss off piss off this isnt done
 <br>
 
 <p align="center">
-  <a href=""><img align="left" src="https://drive.google.com/uc?id=1tHAnNrGUBqFk5j4stdHAphsv3lpKIxOK" width="275px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a>
+  <a href=""><img align="left" src="https://drive.google.com/uc?id=1tHAnNrGUBqFk5j4stdHAphsv3lpKIxOK" width="275px" height="9000px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a>
   LAST UPDATED: 02/23/26
   <table border="0" align="center">
     <tr align="center"></tr>
@@ -32,10 +32,10 @@ piss off piss off piss off this isnt done
     <td>
     </td>
   </table>
-  <table border="0" align="center">
+  <table border="0" align="right">
     <tr></tr>
     <td>
-      <a href=""><img align="left" src="https://drive.google.com/uc?id=1iBornvsQDw0gh-H9yauqUbwiUvDfA5ph" width="250px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her" style="vertical-align:middle"></a>
+      <a href=""><img align="left" src="https://drive.google.com/uc?id=1iBornvsQDw0gh-H9yauqUbwiUvDfA5ph" width="250px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a>
       <table align="center">
         <tr></tr>
         <td align="center">
@@ -65,8 +65,13 @@ piss off piss off piss off this isnt done
       <details align="center">
         <summary><b>Stamps</b></summary>
         hello fuck you
-        <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" align="right" height=100px title="Unmute me for music!"></video></a>
       </details>
+    </td>
+  </table>
+  <table border="0" align="left">
+    <tr></tr>
+    <td>
+      <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" align="right" height=100px title="Unmute me for music!"></video></a>
     </td>
   </table>
 </p>
