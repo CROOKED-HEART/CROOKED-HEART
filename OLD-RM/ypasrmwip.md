@@ -35,8 +35,8 @@ piss off piss off piss off this isnt done
   <table border="15" align="center">
     <tr></tr>
     <td>
-       <img src="https://drive.google.com/uc?id=1iBornvsQDw0gh-H9yauqUbwiUvDfA5ph" alt="lastfm" height="62px" title="CLICK FOR LAST.FM" align="left">
-       <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" height=100px title="Unmute me for music!"></video></a>
+       <img src="https://drive.google.com/uc?id=1iBornvsQDw0gh-H9yauqUbwiUvDfA5ph" alt="lastfm" height="100px" title="CLICK FOR LAST.FM" align="left"><br><br>
+       <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" align="right" height=100px title="Unmute me for music!"></video></a>
     </td>
   </table>
 </p>
