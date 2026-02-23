@@ -23,7 +23,8 @@ piss off piss off piss off this isnt done
         <b>Haii, I'm</b> $\color{#73C7C7}{\textsf{STATIC}}$!!<br>
         $\color{#73C7C7}{\textsf{IT / ITS}}$ $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{THEY / THEM}}$<br>
         TWENTY $\color{#73C7C7}{\textsf{(July 29th 2005)}}$<br>
-        <ins>Blasian</ins> $\color{#E05B34}{\textsf{🌣}}$ <ins>AuDHD</ins>
+        <ins>Blasian</ins> $\color{#E05B34}{\textsf{🌣}}$ <ins>AuDHD</ins><br>
+        Pretty reserved, but ALWAYS open to interaction!!
       </th>
   </table>
   <table border="15" align="center">
