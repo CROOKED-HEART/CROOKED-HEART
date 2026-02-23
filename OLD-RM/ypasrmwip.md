@@ -62,10 +62,25 @@ piss off piss off piss off this isnt done
       <img align="left" src="https://drive.google.com/uc?id=1SL1-UtE7GzacKSFHiYU9Tq4OTk2vGLbq" width="600px" height="1px">
       <br>
       <img align="right" src="https://drive.google.com/uc?id=11mylEcLWioWEQouc5NNBIhfrjRquAkoJ" width="250px">
-      <details align="center">
-        <summary><b>Stamps</b></summary>
-        hello fuck you
-      </details>
+      <table align="center">
+        <tr></tr>
+        <td align="center">
+            $\color{#E78038}{\textsf{DO NOT INTERACT}}$<br><br>
+            $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{I have my idle on for 1 minute, so don't worry}}$<br>
+            $\color{#F9EBB8}{\textsf{if my pony falls asleep on you.}}$
+            <br>
+            $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{If I'm not actively talking with someone, I'm}}$<br>
+            $\color{#73C7C7}{\textsf{more than likely off-tab, so whisper me if you}}$<br>
+            $\color{#73C7C7}{\textsf{need something!}}$
+            <br>
+            $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{I don't really accept friend requests while}}$<br>
+            $\color{#F9EBB8}{\textsf{I'm on Safe.}}$
+            <br>
+            $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{PLEASE don't say anything seriously sexual}}$<br>
+            $\color{#73C7C7}{\textsf{about me, it makes me really uncomfortable!}}$<br>
+            $\color{#73C7C7}{\textsf{Juvenile jokes about balls and stuff are fine.}}$
+        </td>
+      </table>
     </td>
   </table>
   <table border="0" align="left">
