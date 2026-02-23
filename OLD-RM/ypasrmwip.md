@@ -121,8 +121,23 @@ piss off piss off piss off this isnt done
       </th>
     </table>
   </table>
-
-
+<table border="0" align="left">
+    <tr align="center"></tr>
+      <th>
+        <a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1VHBlI5ta5jz4DrIYu9LhHoqoqethN2TM" alt="ypas sgc" height="150px"></a>
+        <br>
+        $\color{#E99934}{\textsf{WARNING!!! BEWARE OF FLASHING AND EYESTRAIN!}}$
+      </th>
+    <table>
+      <tr></tr>
+      <th>
+        <details>
+          <summary>STAMPS</summary>
+          stamp col
+        </details>
+      </th>
+    </table>
+  </table>
 <table border="0" align="left">
     <tr align="center"></tr>
       <th>
