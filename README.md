@@ -36,7 +36,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
     <tr></tr>
     <td> <!--- BYI -->
       <a href="https://thathandsomedevil.bandcamp.com/album/your-parents-are-sellouts"><img align="left" src="https://drive.google.com/uc?id=1iBornvsQDw0gh-H9yauqUbwiUvDfA5ph" width="200px" alt="YPAS A side vinyl" title="The age of bobby socks and ice cream sodas is gone.&#10;These people no longer feel constrained by the social rules of the past.&#10;An older generation could learn about fresh thinking from them.&#10;They have made what they consider their own peace with America,&#10;And are now involved in finding out WHO they are.&#10;A nation in turmoil needs the bigger, the newness, of a genre..."></a>
-      <table align="center">
+      <table align="right">
         <tr></tr>
         <td align="center">
             <h2>$\color{#E78038}{\textsf{BEFORE YOU INTERACT}}$</h2>
