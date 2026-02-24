@@ -34,8 +34,8 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
   </table>
   <table border="0" align="right"> <!--- DNI & BYI -->
     <tr></tr>
-    <td>
-      <a href=""><img align="left" src="https://drive.google.com/uc?id=1iBornvsQDw0gh-H9yauqUbwiUvDfA5ph" width="250px" alt="YPAS A side vinyl" title="The age of bobby socks and ice cream sodas is gone.&#10;These people no longer feel constrained by the social rules of the past.&#10;An older generation could learn about fresh thinking from them.&#10;They have made what they consider their own peace with America,&#10;And are now involved in finding out WHO they are.&#10;A nation in turmoil needs the bigger, the newness, of a genre..."></a>
+    <td> <!--- BYI -->
+      <a href="https://thathandsomedevil.bandcamp.com/album/your-parents-are-sellouts"><img align="left" src="https://drive.google.com/uc?id=1iBornvsQDw0gh-H9yauqUbwiUvDfA5ph" width="250px" alt="YPAS A side vinyl" title="The age of bobby socks and ice cream sodas is gone.&#10;These people no longer feel constrained by the social rules of the past.&#10;An older generation could learn about fresh thinking from them.&#10;They have made what they consider their own peace with America,&#10;And are now involved in finding out WHO they are.&#10;A nation in turmoil needs the bigger, the newness, of a genre..."></a>
       <table align="center">
         <tr></tr>
         <td align="center">
@@ -56,8 +56,8 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
         </td>
       </table>
       <img align="left" src="https://drive.google.com/uc?id=1SL1-UtE7GzacKSFHiYU9Tq4OTk2vGLbq" width="612px" height="1px">
-      <br>
-      <img align="right" src="https://drive.google.com/uc?id=11mylEcLWioWEQouc5NNBIhfrjRquAkoJ" width="250px">
+      <br> <!--- DNI -->
+      <a href="https://thathandsomedevil.bandcamp.com/album/your-parents-are-sellouts"><img align="right" src="https://drive.google.com/uc?id=11mylEcLWioWEQouc5NNBIhfrjRquAkoJ" width="250px alt="YPAS B side vinyl" title="The extreme danger today is that which is created by the closed mind.&#10;We must not accept some facts about the society and ignore others.&#10;It can mean the end of a fine future."></a>
       <table align="center">
         <tr></tr>
         <td align="center">
@@ -75,14 +75,14 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
       </table>
     </td>
   </table>
-  <table border="0" align="left">
+  <table border="0" align="left" ><!--- F2F PLAYER -->
     <tr></tr>
     <td align="center">
-      <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" align="right" height=100px title="Unmute me for music!"></video></a>
+      <a href="https://thathandsomedevil.bandcamp.com/track/f2f"><video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" align="right" height=100px title="Unmute me for music!"></video></a>
     </td>
   </table>
   <br>
-  <table border="0" align="center">
+  <table border="0" align="center"> <!--- INTERESTS -->
     <tr></tr>
     <td align="center">
       <details>
@@ -122,11 +122,8 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
 <img src="https://drive.google.com/uc?id=1t2F0_Z9RlTupx757T_bBogYt0yAYa7wv" alt="ypas divider" width="8000px">
 <br>
 
-
-
-<br>
-
-<p align="center"><a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1VHBlI5ta5jz4DrIYu9LhHoqoqethN2TM" alt="ypas sgc" height="350px"></a></p>
+<!--- STATIC'S GRAPHICS COLLECTION -->
+<p align="center"><a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1VHBlI5ta5jz4DrIYu9LhHoqoqethN2TM" alt="Static's Graphics Collection" title="THIS IS IN AN INDEFINITE WORK IN PROGRESS, UNTIL I FIND THE TIME TO PUT IN THE HUNDREDS OF GRAPHICS I HAVE IN MY DRIVE!" height="350px"></a></p>
 <table border="0" align="center">
     <tr align="center"></tr>
       <th>
@@ -136,7 +133,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
       <tr></tr>
       <td align="center">
         <details>
-          <summary>STAMPS</summary>
+          <summary>STAMPS</summary> <!--- STAMPS -->
           <!-- <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/> -->
           <p align="center"><code>Are you seeing just the alt text for a stamp? Try reloading, or click the alt text to see it! None of my images are broken, Github just has a hard time loading them all in...</code></p>
           <br><blockquote><code>hey look at these stamps i made (f2u)</code></blockquote>
@@ -633,7 +630,8 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
 <img src="https://drive.google.com/uc?id=1t2F0_Z9RlTupx757T_bBogYt0yAYa7wv" alt="ypas divider" width="8000px">
 <br>
 
+<!--- FOOTER -->
 <p align="center">
-  <a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1T6GQL2ieQrtEsn8uE2yICIEm5-46fpnW" alt="ypas sgc" width="500px"></a><br>
+  <a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1T6GQL2ieQrtEsn8uE2yICIEm5-46fpnW" alt="ypas stewie" title="football head" width="500px"></a><br>
   <a href="https://www.last.fm/user/lectricstat"><img align="center" src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&footer_style=wave&count=1&width=600&loved=true&header_style=compact_stats_only&bg_color=CF7A36&border_radius=30" title="Hmmm.... wonder who my top artist is...." alt="Last FM Currently Playing - if you can see this, try refreshing..."></a>
 </p>
