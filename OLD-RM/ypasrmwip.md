@@ -51,7 +51,7 @@ piss off piss off piss off this isnt done
             $\color{#73C7C7}{\textsf{Juvenile jokes about balls and stuff are fine.}}$
         </td>
       </table>
-      <img align="left" src="https://drive.google.com/uc?id=1SL1-UtE7GzacKSFHiYU9Tq4OTk2vGLbq" width="600px" height="1px">
+      <img align="left" src="https://drive.google.com/uc?id=1SL1-UtE7GzacKSFHiYU9Tq4OTk2vGLbq" width="612px" height="1px">
       <br>
       <img align="right" src="https://drive.google.com/uc?id=11mylEcLWioWEQouc5NNBIhfrjRquAkoJ" width="250px">
       <table align="center">
@@ -98,6 +98,17 @@ piss off piss off piss off this isnt done
         $\color{#F9EBB8}{\textsf{UNDERTALE, deltarune, Jazzpunk, The Stanley Parable, Half-Life, Portal, Left 4 Dead,}}$<br>
         $\color{#F9EBB8}{\textsf{Spore, Fin Fin on Teo the Magic Planet, Minecraft, Animal Crossing, Behemoth Games,}}$<br>
         $\color{#F9EBB8}{\textsf{Miitopia, Tomodachi Life, Mario + Luigi Series}}$
+        <br>
+        $\color{#74C6C6}\large{\textsf{TV SHOWS:}}$ 
+        $\color{#F9EBB8}{\textsf{Gravity Falls, Regular Show, My Little Pony, Adventure Time, Teen Titans, Breaking}}$<br>
+        $\color{#F9EBB8}{\textsf{Bad, Wander Over Yonder, Chowder, Invincible (+ comics), Eltingville (+ comics),}}$<br>
+        $\color{#F9EBB8}{\textsf{Mob Psycho 100}}$
+        <br>
+        $\color{#74C6C6}\large{\textsf{WEB SERIES:}}$ 
+        $\color{#F9EBB8}{\textsf{HLVRAI, Madness Combat, Big Top Burger, Mystery Skulls, Don't Hug Me I'm Scared}}$
+        <br>
+        $\color{#74C6C6}\large{\textsf{OTHER:}}$ 
+        $\color{#F9EBB8}{\textsf{Radio TV Solutions, Psychology, Discordianism, Rhythm games, Old web, Astronomy, Programming}}$
       </details>
     </td>
   </table>
