@@ -84,7 +84,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
     </td>
   </table>
   <br>
-  <table border="0" align="center"> <!--- INTERESTS -->
+  <table border="0" align="right"> <!--- INTERESTS -->
     <tr></tr>
     <td align="center">
       <details>
