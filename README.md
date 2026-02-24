@@ -19,7 +19,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
 <!--- MAIN -->
 <p align="center">
   <a href=""><img align="left" src="https://drive.google.com/uc?id=1tHAnNrGUBqFk5j4stdHAphsv3lpKIxOK" width="350px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a> <!--- YPAS -->
-  <table border="0" align="center"> <!--- QUICK ABOUT ME TABLE -->
+  <table border="0" align="right"> <!--- QUICK ABOUT ME TABLE -->
     <tr align="center"></tr>
       <th>
         <a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1wh2BR8GXRWLoZsirwb6ZBiOIkNWN5oUK" alt="ata" height="50px" title="CLICK FOR ATABOOK" ></a>
@@ -32,10 +32,10 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
         $\color{#F9EBB8}{\textsf{Blasian}}$ $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{AuDHD}}$
       </th>
   </table>
-  <table border="0" align="center"> <!--- DNI & BYI -->
+  <table border="0" align="right"> <!--- DNI & BYI -->
     <tr></tr>
     <td> <!--- BYI -->
-      <a href="https://thathandsomedevil.bandcamp.com/album/your-parents-are-sellouts"><img align="left" src="https://drive.google.com/uc?id=1u0sZYXM4IYSvujbiAHxA_vrYodc78sO7" width="100px" alt="YPAS A side vinyl" title="The age of bobby socks and ice cream sodas is gone.&#10;These people no longer feel constrained by the social rules of the past.&#10;An older generation could learn about fresh thinking from them.&#10;They have made what they consider their own peace with America,&#10;And are now involved in finding out WHO they are.&#10;A nation in turmoil needs the bigger, the newness, of a genre..."></a>
+      <a href="https://thathandsomedevil.bandcamp.com/album/your-parents-are-sellouts"><img align="left" src="https://drive.google.com/uc?id=1u0sZYXM4IYSvujbiAHxA_vrYodc78sO7" width="110px" alt="YPAS A side vinyl" title="The age of bobby socks and ice cream sodas is gone.&#10;These people no longer feel constrained by the social rules of the past.&#10;An older generation could learn about fresh thinking from them.&#10;They have made what they consider their own peace with America,&#10;And are now involved in finding out WHO they are.&#10;A nation in turmoil needs the bigger, the newness, of a genre..."></a>
       <table align="right">
         <tr></tr>
         <td align="center">
