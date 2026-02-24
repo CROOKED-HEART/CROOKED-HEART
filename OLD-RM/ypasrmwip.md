@@ -86,12 +86,16 @@ piss off piss off piss off this isnt done
       <details>
         <summary><h2>$\color{#E78038}{\textsf{Interested in my Interests? CLICK 4 MORE!!}}$</h2></summary>
         <h2>$\color{#74C6C6}\large{\textsf{SPECIAL INTERESTS}}$</h2>
-        Is it hard to tell that I love everything That Handsome Devil? I've been listening to them and their<br>
-        sister bands/artists for years. I also have OCs based on each album they've made, including the Your<br>
-        Parents are Sellouts one above!<br><br>
-        I'm also REALLY into this webcomic called The Property of Hate. It updates most Sundays and I've been<br>
-        following the story for about a decade. I reccommend it to anyone who likes worldbuilding, cowardly<br>
-        father figures, and found family relationships!
+        $\color{#F9EBB8}{\textsf{Is it hard to tell that I love everything}}$ $\color{#74C6C6}\large{\textsf{That Handsome Devil}}$ $\color{#F9EBB8}{\textsf{? I've been listening to them and their}}$<br>
+        $\color{#F9EBB8}{\textsf{sister bands/artists for years. I also have OCs based on each album they've made, including the Your}}$<br>
+        $\color{#F9EBB8}{\textsf{Parents are Sellouts one above!}}$<br><br>
+        $\color{#F9EBB8}{\textsf{I'm also REALLY into this webcomic called}}$ $\color{#74C6C6}\large{\textsf{The Property of Hate}}$ $\color{#F9EBB8}{\textsf{. It updates most Sundays and I've been}}$<br>
+        $\color{#F9EBB8}{\textsf{following the story for about a decade. I reccommend it to anyone who likes worldbuilding, cowardly}}$<br>
+        $\color{#F9EBB8}{\textsf{father figures, and found family relationships!}}$<br><br>
+        $\color{#F9EBB8}{\textsf{I'm a math enthusiast, my all-time favourite subjects are non-dynamical systems and the study of}}$<br>
+        $\color{#F9EBB8}{\textsf{chaos! I'm currently a math major pursuing research in}}$ $\color{#74C6C6}\large{\textsf{Chaos Theory}}$ $\color{#F9EBB8}{\textsf{.}}$<br>
+        <h2>$\color{#74C6C6}\large{\textsf{INTERESTS}}$</h2>
+        $\color{#74C6C6}{\textsf{GAMES:}}$
       </details>
     </td>
   </table>
