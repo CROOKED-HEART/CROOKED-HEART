@@ -56,25 +56,25 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
         </td>
       </table>
     </table>
-      <img align="left" src="https://drive.google.com/uc?id=1SL1-UtE7GzacKSFHiYU9Tq4OTk2vGLbq" width="500px" height="1px">
-      <br> <!--- DNI -->
-    <table>
+    <table> <!--- DNI -->
+      <tr></tr>
+      <td>
       <a href="https://thathandsomedevil.bandcamp.com/album/your-parents-are-sellouts"><img align="right" src="https://drive.google.com/uc?id=11mylEcLWioWEQouc5NNBIhfrjRquAkoJ" width="200px alt="YPAS B side vinyl" title="The extreme danger today is that which is created by the closed mind.&#10;We must not accept some facts about the society and ignore others.&#10;It can mean the end of a fine future."></a>
-        <table align="center">
-          <tr></tr>
-          <td align="center">
-            <h2>$\color{#E78038}{\textsf{DO NOT INTERACT}}$</h2>
-            $\color{#E05B34}{\textsf{🌣}}$ <a href="https://basic-dni.crd.co/"><ins>Basic DNI Criteria</a>
-            <br>
-            $\color{#E05B34}{\textsf{🌣}}$ <a href="https://github.com/Vexuliii"><ins>Vexulii</a>
-            <br>
-            $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{Generally, I don't want to interact with folks}}$<br>
-            $\color{#F9EBB8}{\textsf{under 17. However, if I'm on Safe and you}}$<br>
-            $\color{#F9EBB8}{\textsf{wanna crown me or something, that's fine!}}$
-            <br><br>
-            $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{I DON'T HIDE PEOPLE, I ONLY BLOCK CHATS!}}$
-          </td>
-        </table>
+      <table align="left">
+        <tr></tr>
+        <td align="center">
+          <h2>$\color{#E78038}{\textsf{DO NOT INTERACT}}$</h2>
+          $\color{#E05B34}{\textsf{🌣}}$ <a href="https://basic-dni.crd.co/"><ins>Basic DNI Criteria</a>
+          <br>
+          $\color{#E05B34}{\textsf{🌣}}$ <a href="https://github.com/Vexuliii"><ins>Vexulii</a>
+          <br>
+          $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{Generally, I don't want to interact with folks}}$<br>
+          $\color{#F9EBB8}{\textsf{under 17. However, if I'm on Safe and you}}$<br>
+          $\color{#F9EBB8}{\textsf{wanna crown me or something, that's fine!}}$
+          <br><br>
+          $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{I DON'T HIDE PEOPLE, I ONLY BLOCK CHATS!}}$
+        </td>
+      </table>
       </td>
     </table>
   <table border="0" align="left" ><!--- F2F PLAYER -->
