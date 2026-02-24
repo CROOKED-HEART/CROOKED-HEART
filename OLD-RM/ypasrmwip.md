@@ -1,7 +1,10 @@
-piss off piss off piss off this isnt done
-☀️ ≡ STATIC
-🏝️ , W2I if my pony's asleep　 　　　　 　⋙　🌊 , PROUD SHITCLUBE MEMBER !!
+<!---This file uses code from:
+https://github.com/antonkomarev/github-profile-views-counter - For the profile view counter
+https://github.com/DenverCoder1/readme-typing-svg - For the typing svg that types out lyrics
+https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md - For the last.fm widget at the end
+-->
 
+<!--- HEADER -->
 <div align="center">
   <img src="https://drive.google.com/uc?id=13JBtNuSy58uuMBpiVHhdXZsU-Jpmr4O9" alt="ypas shit header">
   <br>
@@ -13,9 +16,10 @@ piss off piss off piss off this isnt done
 
 <br>
 
+<!--- MAIN -->
 <p align="center">
-  <a href=""><img align="left" src="https://drive.google.com/uc?id=1tHAnNrGUBqFk5j4stdHAphsv3lpKIxOK" width="330px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a>
-  <table border="0" align="center">
+  <a href=""><img align="left" src="https://drive.google.com/uc?id=1tHAnNrGUBqFk5j4stdHAphsv3lpKIxOK" width="330px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a> <!--- YPAS -->
+  <table border="0" align="center"> <!--- QUICK ABOUT ME TABLE -->
     <tr align="center"></tr>
       <th>
         <a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1wh2BR8GXRWLoZsirwb6ZBiOIkNWN5oUK" alt="ata" height="62px" title="CLICK FOR ATABOOK" ></a>
@@ -28,10 +32,10 @@ piss off piss off piss off this isnt done
         $\color{#F9EBB8}{\textsf{Blasian}}$ $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{AuDHD}}$
       </th>
   </table>
-  <table border="0" align="right">
+  <table border="0" align="right"> <!--- DNI & BYI -->
     <tr></tr>
     <td>
-      <a href=""><img align="left" src="https://drive.google.com/uc?id=1iBornvsQDw0gh-H9yauqUbwiUvDfA5ph" width="250px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a>
+      <a href=""><img align="left" src="https://drive.google.com/uc?id=1iBornvsQDw0gh-H9yauqUbwiUvDfA5ph" width="250px" alt="YPAS A side vinyl" title="The age of bobby socks and ice cream sodas is gone.&#10;These people no longer feel constrained by the social rules of the past.&#10;An older generation could learn about fresh thinking from them.&#10;They have made what they consider their own peace with America,&#10;And are now involved in finding out WHO they are.&#10;A nation in turmoil needs the bigger, the newness, of a genre..."></a>
       <table align="center">
         <tr></tr>
         <td align="center">
