@@ -35,7 +35,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
   <table border="0" align="right"> <!--- DNI & BYI -->
     <tr></tr>
     <td> <!--- BYI -->
-      <a href="https://thathandsomedevil.bandcamp.com/album/your-parents-are-sellouts"><img align="left" src="https://drive.google.com/uc?id=1u0sZYXM4IYSvujbiAHxA_vrYodc78sO7" width="103px" alt="YPAS A side vinyl" title="The age of bobby socks and ice cream sodas is gone.&#10;These people no longer feel constrained by the social rules of the past.&#10;An older generation could learn about fresh thinking from them.&#10;They have made what they consider their own peace with America,&#10;And are now involved in finding out WHO they are.&#10;A nation in turmoil needs the bigger, the newness, of a genre..."></a>
+      <a href="https://thathandsomedevil.bandcamp.com/album/your-parents-are-sellouts"><img align="left" src="https://drive.google.com/uc?id=1u0sZYXM4IYSvujbiAHxA_vrYodc78sO7" width="103px" height="310px" alt="YPAS A side vinyl" title="The age of bobby socks and ice cream sodas is gone.&#10;These people no longer feel constrained by the social rules of the past.&#10;An older generation could learn about fresh thinking from them.&#10;They have made what they consider their own peace with America,&#10;And are now involved in finding out WHO they are.&#10;A nation in turmoil needs the bigger, the newness, of a genre..."></a>
       <table align="right">
         <tr></tr>
         <td align="center">
@@ -59,7 +59,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
     <table border="0" align="right"> <!--- DNI -->
       <tr></tr>
       <td>
-      <a href="https://thathandsomedevil.bandcamp.com/album/your-parents-are-sellouts"><img align="right" src="https://drive.google.com/uc?id=13pBGg99cs0FVgcZKYewhHIGB9LvvZhcu" width="110px" height="275px" alt="YPAS B side vinyl" title="The extreme danger today is that which is created by the closed mind.&#10;We must not accept some facts about the society and ignore others.&#10;It can mean the end of a fine future."></a>
+      <a href="https://thathandsomedevil.bandcamp.com/album/your-parents-are-sellouts"><img align="right" src="https://drive.google.com/uc?id=13pBGg99cs0FVgcZKYewhHIGB9LvvZhcu" width="110px" height="240px" alt="YPAS B side vinyl" title="The extreme danger today is that which is created by the closed mind.&#10;We must not accept some facts about the society and ignore others.&#10;It can mean the end of a fine future."></a>
       <table align="left">
         <tr></tr>
         <td align="center">
