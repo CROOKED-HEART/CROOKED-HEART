@@ -632,7 +632,6 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
   
 <br>
 <img src="https://drive.google.com/uc?id=1t2F0_Z9RlTupx757T_bBogYt0yAYa7wv" alt="ypas divider" width="8000px">
-<br>
 
 <!--- FOOTER -->
 <p align="center">
