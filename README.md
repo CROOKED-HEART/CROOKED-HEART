@@ -10,7 +10,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
   <br>
   <img src="https://img.shields.io/badge/LAST%20UPDATED-02%2F23%2F2026-CF7A36?style=plastic&label=LAST%20UPDATED&labelColor=%2374C6C6&color=CF7A36" alt="Last Updated" >
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Idiqlat&duration=4000&pause=1000&color=F5A534&background=FBEEBA&center=true&vCenter=true&random=true&width=550&height=25&lines=Well+I+know%2C+that+it+seems+UNPOSSIBLE.;We've+been+dyin'+since+the+DINOSAURs!!;SHUTUP+YOU'RE+STUPID%2C+just+kiss+me!;Now+they+callin'+you+a+HOODLUM...;GUYS+ARE+GROSS!!!;EVERYbody+that+I+know+is+TRYING+TO+KILL+ME!;Get+a+crystal+for+the+BAD+VIBES!;I+just+need+to+Fuck+2+Forget...;What+would+happen+if+I+PUNCHed+you+IN+THE+FACE%3F;The+world+is+run+by+EVL+PPL;Well%2C+LA+DI+FRICKIN'+DA!" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Idiqlat&duration=4000&pause=1000&color=F5A534&background=FBEEBA&center=true&vCenter=true&random=true&width=600&height=25&lines=Well+I+know%2C+that+it+seems+UNPOSSIBLE.;We've+been+dyin'+since+the+DINOSAURs!!;SHUTUP+YOU'RE+STUPID%2C+just+kiss+me!;Now+they+callin'+you+a+HOODLUM...;GUYS+ARE+GROSS!!!;EVERYbody+that+I+know+is+TRYING+TO+KILL+ME!;Get+a+crystal+for+the+BAD+VIBES!;I+just+need+to+Fuck+2+Forget...;What+would+happen+if+I+PUNCHed+you+IN+THE+FACE%3F;The+world+is+run+by+EVL+PPL;Well%2C+LA+DI+FRICKIN'+DA!" alt="Typing SVG" /></a>
   <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=CF7A36&amp;style=plastic&amp;label=Piña+Coladas" alt="view count" title="Take a load off!">
 </div>
 
