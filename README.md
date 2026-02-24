@@ -56,13 +56,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
         </td>
       </table>
     </table>
-    <table border="0" align="left" ><!--- F2F PLAYER -->
-    <tr></tr>
-    <td align="center">
-      <a href="https://thathandsomedevil.bandcamp.com/track/f2f"><video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" align="right" height=100px title="Unmute me for music!"></video></a>
-    </td>
-    </table>
-    <table border="0" align="center"> <!--- DNI -->
+    <table border="0" align="right"> <!--- DNI -->
       <tr></tr>
       <td>
       <a href="https://thathandsomedevil.bandcamp.com/album/your-parents-are-sellouts"><img align="right" src="https://drive.google.com/uc?id=13pBGg99cs0FVgcZKYewhHIGB9LvvZhcu" width="100px alt="YPAS B side vinyl" title="The extreme danger today is that which is created by the closed mind.&#10;We must not accept some facts about the society and ignore others.&#10;It can mean the end of a fine future."></a>
@@ -83,6 +77,12 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
       </table>
       </td>
     </table>
+  <table border="0" align="left" ><!--- F2F PLAYER -->
+    <tr></tr>
+    <td align="center">
+      <a href="https://thathandsomedevil.bandcamp.com/track/f2f"><video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" align="right" height=100px title="Unmute me for music!"></video></a>
+    </td>
+  </table>
   <br>
   <table border="0" align="center"> <!--- INTERESTS -->
     <tr></tr>
