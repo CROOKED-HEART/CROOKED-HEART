@@ -79,7 +79,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
       </table>
       </td>
     </table>
-  <a href="https://www.last.fm/user/lectricstat"><img align="right" src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&footer_style=wave&count=1&width=500&loved=true&header_style=compact_stats_only&bg_color=CF7A36&border_radius=30" title="Hmmm.... wonder who my top artist is...." alt="Last FM Currently Playing - if you can see this, try refreshing..."></a><br>
+  <a href="https://www.last.fm/user/lectricstat"><img align="right" src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&footer_style=wave&count=1&width=450&loved=true&header_style=compact_stats_only&bg_color=CF7A36&border_radius=30" title="Hmmm.... wonder who my top artist is...." alt="Last FM Currently Playing - if you can see this, try refreshing..."></a><br>
   <table border="0" align="left" ><!--- F2F PLAYER -->
     <tr></tr>
     <td align="center">
