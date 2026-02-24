@@ -98,7 +98,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
         $\color{#F9EBB8}{\textsf{father figures, and found family relationships!}}$<br><br>
         $\color{#F9EBB8}{\textsf{I'm a math enthusiast, my all-time favourite subjects are non-dynamical systems and the study of}}$<br>
         $\color{#F9EBB8}{\textsf{chaos! I'm currently a math major pursuing research in}}$ $\color{#74C6C6}\large{\textsf{Chaos Theory}}$ $\color{#F9EBB8}{\textsf{.}}$<br><br>
-        <img align="center" src="https://drive.google.com/uc?id=1SL1-UtE7GzacKSFHiYU9Tq4OTk2vGLbq" width="600px" height="1px">
+        <img align="center" src="https://drive.google.com/uc?id=1SL1-UtE7GzacKSFHiYU9Tq4OTk2vGLbq" width="800px" height="1px">
         <h2>$\color{#74C6C6}\large{\textsf{INTERESTS}}$</h2>
         $\color{#74C6C6}\large{\textsf{GAMES:}}$ 
         $\color{#F9EBB8}{\textsf{UNDERTALE, deltarune, Jazzpunk, The Stanley Parable, Half-Life, Portal, Left 4 Dead,}}$<br>
