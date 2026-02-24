@@ -30,6 +30,8 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
         $\color{#73C7C7}{\textsf{IT / ITS}}$ $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{THEY / THEM}}$<br>
         $\color{#F9EBB8}{\textsf{TWENTY}}$ $\color{#73C7C7}{\textsf{(July 29th 2005)}}$<br>
         $\color{#F9EBB8}{\textsf{Blasian}}$ $\color{#E05B34}{\textsf{🌣}}$ $\color{#F9EBB8}{\textsf{AuDHD}}$
+        <br>
+        <a href="https://thathandsomedevil.bandcamp.com/album/your-parents-are-sellouts"><img src="https://drive.google.com/uc?id=1gaCeWZspqv38-ikmi_Yf_IopiI8n4-Ap" alt="ypas pixel" title="made by vexulii :9" ></a>
       </th>
   </table>
   <table border="0" align="right"> <!--- DNI & BYI -->
