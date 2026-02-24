@@ -50,7 +50,7 @@ piss off piss off piss off this isnt done
             $\color{#73C7C7}{\textsf{Juvenile jokes about balls and stuff are fine.}}$
         </td>
       </table>
-        <img align="left" src="https://drive.google.com/uc?id=1SL1-UtE7GzacKSFHiYU9Tq4OTk2vGLbq" width="600px" height="1px">
+      <img align="left" src="https://drive.google.com/uc?id=1SL1-UtE7GzacKSFHiYU9Tq4OTk2vGLbq" width="600px" height="1px">
       <br>
       <img align="right" src="https://drive.google.com/uc?id=11mylEcLWioWEQouc5NNBIhfrjRquAkoJ" width="250px">
       <table align="center">
@@ -76,6 +76,7 @@ piss off piss off piss off this isnt done
       <a href="https://jolleycomics.com/TPoH/Cutting_Room/542"><video src="https://github.com/user-attachments/assets/689479ca-8a3d-4a52-9268-631e5fbaf0e9" align="right" height=100px title="Unmute me for music!"></video></a>
     </td>
   </table>
+  <br>
   <table border="0" align="center">
     <tr></tr>
     <td align="center">
@@ -89,9 +90,13 @@ piss off piss off piss off this isnt done
         $\color{#F9EBB8}{\textsf{following the story for about a decade. I reccommend it to anyone who likes worldbuilding, cowardly}}$<br>
         $\color{#F9EBB8}{\textsf{father figures, and found family relationships!}}$<br><br>
         $\color{#F9EBB8}{\textsf{I'm a math enthusiast, my all-time favourite subjects are non-dynamical systems and the study of}}$<br>
-        $\color{#F9EBB8}{\textsf{chaos! I'm currently a math major pursuing research in}}$ $\color{#74C6C6}\large{\textsf{Chaos Theory}}$ $\color{#F9EBB8}{\textsf{.}}$<br>
+        $\color{#F9EBB8}{\textsf{chaos! I'm currently a math major pursuing research in}}$ $\color{#74C6C6}\large{\textsf{Chaos Theory}}$ $\color{#F9EBB8}{\textsf{.}}$<br><br>
+        <img align="center" src="https://drive.google.com/uc?id=1SL1-UtE7GzacKSFHiYU9Tq4OTk2vGLbq" width="600px" height="1px">
         <h2>$\color{#74C6C6}\large{\textsf{INTERESTS}}$</h2>
-        $\color{#74C6C6}{\textsf{GAMES:}}$
+        $\color{#74C6C6}\large{\textsf{GAMES:}}$ 
+        $\color{#F9EBB8}{\textsf{UNDERTALE, deltarune, Jazzpunk, The Stanley Parable, Half-Life, Portal, Left 4 Dead,}}$<br>
+        $\color{#F9EBB8}{\textsf{Spore, Fin Fin on Teo the Magic Planet, Minecraft, Animal Crossing, Behemoth Games,}}$<br>
+        $\color{#F9EBB8}{\textsf{Miitopia, Tomodachi Life, Mario + Luigi Series}}$
       </details>
     </td>
   </table>
