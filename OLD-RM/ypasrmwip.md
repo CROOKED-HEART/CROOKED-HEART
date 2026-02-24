@@ -50,10 +50,6 @@ piss off piss off piss off this isnt done
             $\color{#73C7C7}{\textsf{Juvenile jokes about balls and stuff are fine.}}$
         </td>
       </table>
-      <table border="0" align="center">
-            <img align="center" src="https://drive.google.com/uc?id=1SL1-UtE7GzacKSFHiYU9Tq4OTk2vGLbq" width="600px" height="1px">
-      </table>
-      <br>
         <img align="left" src="https://drive.google.com/uc?id=1SL1-UtE7GzacKSFHiYU9Tq4OTk2vGLbq" width="600px" height="1px">
       <br>
       <img align="right" src="https://drive.google.com/uc?id=11mylEcLWioWEQouc5NNBIhfrjRquAkoJ" width="250px">
