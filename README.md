@@ -59,7 +59,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
     <table border="0" align="right"> <!--- DNI -->
       <tr></tr>
       <td>
-      <a href="https://thathandsomedevil.bandcamp.com/album/your-parents-are-sellouts"><img align="right" src="https://drive.google.com/uc?id=13pBGg99cs0FVgcZKYewhHIGB9LvvZhcu" width="100px alt="YPAS B side vinyl" title="The extreme danger today is that which is created by the closed mind.&#10;We must not accept some facts about the society and ignore others.&#10;It can mean the end of a fine future."></a>
+      <a href="https://thathandsomedevil.bandcamp.com/album/your-parents-are-sellouts"><img align="right" src="https://drive.google.com/uc?id=13pBGg99cs0FVgcZKYewhHIGB9LvvZhcu" width="110px alt="YPAS B side vinyl" title="The extreme danger today is that which is created by the closed mind.&#10;We must not accept some facts about the society and ignore others.&#10;It can mean the end of a fine future."></a>
       <table align="left">
         <tr></tr>
         <td align="center">
