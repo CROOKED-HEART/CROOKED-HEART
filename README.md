@@ -139,8 +139,11 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
     <tr></tr>
     <td align="center">
       <h2>$\color{#73C7C7}{\textsf{LINK BACK TO THIS PAGE!}}$</h2>
-      <a href="https://github.com/BULLET-MATH"><img src="https://drive.google.com/uc?id=1oqXBe5OEetZjhz2RFCNPSR9Kg7D3svGS" title="CLICK 4 STATIC'S GITHUB!" alt="Link to bullet math github"></a>
-    </td>
+      <a href="https://github.com/BULLET-MATH"><img src="https://drive.google.com/uc?id=1oqXBe5OEetZjhz2RFCNPSR9Kg7D3svGS"><br>
+
+```json
+  <a href="https://github.com/BULLET-MATH"><img src="https://drive.google.com/uc?id=1oqXBe5OEetZjhz2RFCNPSR9Kg7D3svGS"></a>
+```
   </table>
 </p>
 
