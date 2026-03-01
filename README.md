@@ -5,16 +5,6 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
 -->
 
 <!--- HEADER -->
-<p align="center">
-  <table align="center">
-    <tr></tr>
-    <td align="center">
-      $\color{#73C7C7}\Large{\textsf{LINK BACK TO THIS PAGE!}}$<br>
-      <a href="https://github.com/BULLET-MATH"><img src="https://drive.google.com/uc?id=1oqXBe5OEetZjhz2RFCNPSR9Kg7D3svGS" title="CLICK 4 STATIC'S GITHUB!" alt="Link to bullet math github"></a>
-    </td>
-  </table>
-</p>
-<br>
 <div align="center">
   <img src="https://drive.google.com/uc?id=13JBtNuSy58uuMBpiVHhdXZsU-Jpmr4O9" alt="ypas shit header" width="700px">
   <br>
@@ -130,13 +120,26 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
       </details>
     </td>
   </table>
-  <br>
-  <table align="center">
+</p>
+
+<br>
+<img src="https://drive.google.com/uc?id=1t2F0_Z9RlTupx757T_bBogYt0yAYa7wv" alt="ypas divider" width="8000px">
+<br>
+
+<p align="center">
+ <table align="center">
     <tr></tr>
     <td align="center">
       <h2>$\color{#E78038}{\textsf{VISIT MY FRIENDS!!!!}}$</h2>
       <a href="https://github.com/Vexuliii"><img src="https://drive.google.com/uc?id=1lN7sKiWEPOY-yZI6tOdTiwS1CYtRw1_i" title="GRAVE'S SITE!!" alt="button"></a><br>
       $\color{#F9EBB8}{\textsf{No other friends cause no one else made a button...}}$
+    </td>
+  </table>
+  <table align="center">
+    <tr></tr>
+    <td align="center">
+      <h2>$\color{#73C7C7}{\textsf{LINK BACK TO THIS PAGE!}}$</h2>
+      <a href="https://github.com/BULLET-MATH"><img src="https://drive.google.com/uc?id=1oqXBe5OEetZjhz2RFCNPSR9Kg7D3svGS" title="CLICK 4 STATIC'S GITHUB!" alt="Link to bullet math github"></a>
     </td>
   </table>
 </p>
