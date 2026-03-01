@@ -19,7 +19,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
 
 <!--- MAIN -->
 <p align="center">
-  <a href=""><img align="left" src="https://drive.google.com/uc?id=1tHAnNrGUBqFk5j4stdHAphsv3lpKIxOK" width="350px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a> <!--- YPAS -->
+  <a href=""><img align="left" src="https://drive.google.com/uc?id=1yAhvTHEIk5HjrHVK_k9r8-mcpXM5UyUM" width="350px" alt="Yasmine hodlding up a peace sign" title="look at her holding up a peace sign like she gives a shit god i hate her"></a> <!--- YPAS -->
   <table border="0" align="right"> <!--- QUICK ABOUT ME TABLE -->
     <tr align="center"></tr>
       <th>
