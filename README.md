@@ -10,7 +10,7 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
   <br>
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Idiqlat&duration=4000&pause=1000&color=F5A534&background=FBEEBA&center=true&vCenter=true&random=true&width=600&height=29&lines=Well+I+know%2C+that+it+seems+UNPOSSIBLE.;We've+been+dyin'+since+the+DINOSAURs!!;SHUTUP+YOU'RE+STUPID%2C+just+kiss+me!;Now+they+callin'+you+a+HOODLUM...;GUYS+ARE+GROSS!!!;EVERYbody+that+I+know+is+TRYING+TO+KILL+ME!;Get+a+crystal+for+the+BAD+VIBES!;I+just+need+to+Fuck+2+Forget...;What+would+happen+if+I+PUNCHed+you+IN+THE+FACE%3F;The+world+is+run+by+EVL+PPL;Well%2C+LA+DI+FRICKIN'+DA!" alt="Typing SVG" /></a><br>
-  <img src="https://img.shields.io/badge/LAST%20UPDATED-02%2F23%2F2026-CF7A36?style=plastic&label=LAST%20UPDATED&labelColor=%2374C6C6&color=CF7A36" alt="Last Updated" >
+  <img src="https://img.shields.io/badge/LAST%20UPDATED-02%2F28%2F2026-CF7A36?style=plastic&label=LAST%20UPDATED&labelColor=%2374C6C6&color=CF7A36" alt="Last Updated" >
   <img src="https://komarev.com/ghpvc/?username=stat-ice&amp;color=CF7A36&amp;style=plastic&amp;label=Piña+Coladas" alt="view count" title="Take a load off!">
 </div>
 
@@ -118,6 +118,15 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
         $\color{#74C6C6}\large{\textsf{OTHER:}}$ 
         $\color{#F9EBB8}{\textsf{Radio TV Solutions, Psychology, Discordianism, Rhythm games, Old web, Astronomy, Programming}}$
       </details>
+    </td>
+  </table>
+  <br>
+  <table align="center">
+    <tr></tr>
+    <td align="center">
+      <h2>$\color{#E78038}{\textsf{VISIT MY FRIENDS!!!!}}$</h2>
+      <a href="https://github.com/Vexuliii"><img src="https://drive.google.com/uc?id=1lN7sKiWEPOY-yZI6tOdTiwS1CYtRw1_i" title="GRAVE'S SITE!!" alt="button"></a><br>
+      $\color{#F9EBB8}{\textsf{No other friends cause no one else made a button (including me)}}$
     </td>
   </table>
 </p>
@@ -636,5 +645,6 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
 <!--- FOOTER -->
 <p align="center">
   <a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1T6GQL2ieQrtEsn8uE2yICIEm5-46fpnW" alt="ypas stewie" title="football head" width="500px"></a><br>
+  
   <a href="https://www.last.fm/user/lectricstat"><img align="center" src="https://lastfm-recently-played.vercel.app/api?user=lectricstat&footer_style=wave&count=1&width=450&loved=true&header_style=compact_stats_only&bg_color=CF7A36&border_radius=30" title="Hmmm.... wonder who my top artist is...." alt="Last FM Currently Playing - if you can see this, try refreshing..."></a>
 </p>
