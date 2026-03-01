@@ -24,7 +24,8 @@ https://github.com/JeffreyCA/lastfm-recently-played-readme/blob/master/README.md
       <th>
         <a href="https://thathandsomedevil.atabook.org/"><img src="https://drive.google.com/uc?id=1wh2BR8GXRWLoZsirwb6ZBiOIkNWN5oUK" alt="ata" height="50px" title="CLICK FOR ATABOOK" ></a>
         <a href="https://last.fm/user/lectricstat"><img src="https://drive.google.com/uc?id=1jCp0KcS8P4kDixLNT60wtm56gcP0gueT" alt="lastfm" height="50px" title="CLICK FOR LAST.FM" ></a>
-        <a href="https://crooked-heart.straw.page/"><img src="https://drive.google.com/uc?id=1eEfzgkM1s2Tbuh9kMAx0a5g_9oilIFEa" alt="strawpage" height="50px" title="CLICK FOR STRAWPAGE" ></a>
+        <a href="https://bullet-math.straw.page/"><img src="https://drive.google.com/uc?id=1eEfzgkM1s2Tbuh9kMAx0a5g_9oilIFEa" alt="strawpage" height="50px" title="CLICK FOR STRAWPAGE" ></a><br>
+        <a href="https://en.pronouns.page/@bullet-math"><img src="https://drive.google.com/uc?id=1hHaVZKyKnEF2hKXCLcgUKUEN23bC1cTN" alt="pronounspage" height="50px" title="CLICK FOR PRONOUNS PAGE" ></a>
         <br>
         $\color{#F9EBB8}{\textsf{Haii, I'm}}$ $\color{#73C7C7}\Large{\textsf{STATIC}}$ $\color{#F9EBB8}{\textsf{!!}}$<br>
         $\color{#73C7C7}{\textsf{IT / ITS}}$ $\color{#E05B34}{\textsf{🌣}}$ $\color{#73C7C7}{\textsf{THEY / THEM}}$<br>
